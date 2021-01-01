@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/choiceDescription"
+        android:layout_width="356dp"
+        android:layout_height="54dp"
+        android:editable="false"
+        android:ems="10"
+        android:gravity="start|top"
+        android:inputType="none"
+        android:text="@string/check_out"
+        android:textAlignment="center"
+        app:layout_constraintBottom_toTopOf="@+id/sunButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/sunButton"
+        android:layout_width="121dp"
+        android:layout_height="46dp"
+        android:text="@string/the_sun"
+        app:layout_constraintBottom_toTopOf="@+id/dwarfsButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/choiceDescription" />
+
+    <Button
+        android:id="@+id/dwarfsButton"
+        android:layout_width="121dp"
+        android:layout_height="46dp"
+        android:text="@string/dwarfs"
+        app:layout_constraintBottom_toTopOf="@+id/marsButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/sunButton" />
+
+    <Button
+        android:id="@+id/marsButton"
+        android:layout_width="121dp"
+        android:layout_height="46dp"
+        android:text="@string/mars"
+        app:layout_constraintBottom_toTopOf="@+id/jupiterButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/dwarfsButton" />
+
+    <Button
+        android:id="@+id/jupiterButton"
+        android:layout_width="121dp"
+        android:layout_height="46dp"
+        android:text="@string/jupiter"
+        app:layout_constraintBottom_toTopOf="@+id/saturnButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/marsButton" />
+
+    <Button
+        android:id="@+id/saturnButton"
+        android:layout_width="121dp"
+        android:layout_height="46dp"
+        android:text="@string/saturn"
+        app:layout_constraintBottom_toTopOf="@+id/uranusButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/jupiterButton" />
+
+    <Button
+        android:id="@+id/uranusButton"
+        android:layout_width="121dp"
+        android:layout_height="46dp"
+        android:text="@string/uranus"
+        app:layout_constraintBottom_toTopOf="@+id/neptuneButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/saturnButton" />
+
+    <Button
+        android:id="@+id/neptuneButton"
+        android:layout_width="121dp"
+        android:layout_height="46dp"
+        android:text="@string/neptune"
+        app:layout_constraintBottom_toTopOf="@+id/mercuryButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/uranusButton" />
+
+    <Button
+        android:id="@+id/mercuryButton"
+        android:layout_width="121dp"
+        android:layout_height="46dp"
+        android:text="@string/mercury"
+        app:layout_constraintBottom_toTopOf="@+id/venusButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/neptuneButton" />
+
+    <Button
+        android:id="@+id/venusButton"
+        android:layout_width="121dp"
+        android:layout_height="46dp"
+        android:text="@string/venus"
+        app:layout_constraintBottom_toTopOf="@+id/earthButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mercuryButton" />
+
+    <Button
+        android:id="@+id/earthButton"
+        android:layout_width="121dp"
+        android:layout_height="46dp"
+        android:text="@string/earth"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/venusButton" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
