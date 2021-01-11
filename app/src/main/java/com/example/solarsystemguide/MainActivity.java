@@ -8,9 +8,9 @@ import android.view.View;
 import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
-//    TODO create the main menu in this shit
+//    TODO make the gallery in the sun menu work
+//    TODO create detailed views for the sun
 //    TODO create a view for every planet
-//    TODO learn about databases
     Button sunButton, mercuryButton, venusButton, earthButton, marsButton,
         jupiterButton, saturnButton, uranusButton, neptuneButton, dwarfsButton;
 

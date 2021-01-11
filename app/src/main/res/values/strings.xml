@@ -14,5 +14,10 @@
     <string name="ceres">Ceres</string>
     <string name="dwarfs">Dwarfs</string>
     <string name="check_out">Choose the body you\'d like to check out</string>
+    <string name="sun_rundown">Largest, and most massive object within our solar system, containing 99.8% of overall mass, \nOfficially classified as a yellow dwarf, the Sun is a comparatively small star
+    \nThe oldest body in our solar system at 4.6 billion years old</string>
+    <string name="learn_more">Learn more</string>
+    <string name="endedSunMissionCount">14 missions ended, including 1 failure</string>
+    <string name="ongoingSunMissionCount">7 missions ongoing</string>
 
 </resources>

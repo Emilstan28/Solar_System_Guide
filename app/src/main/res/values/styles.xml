@@ -7,4 +7,8 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="Button.Orange" parent="ThemeOverlay.AppCompat">
+        <item name="colorAccent">@android:color/holo_orange_light</item>
+    </style>
+
 </resources>
