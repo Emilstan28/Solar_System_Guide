@@ -19,5 +19,6 @@
     <string name="learn_more">Learn more</string>
     <string name="endedSunMissionCount">14 missions ended, including 1 failure</string>
     <string name="ongoingSunMissionCount">7 missions ongoing</string>
+    <string name="placeholder">placeholder</string>
 
 </resources>
