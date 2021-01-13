@@ -20,5 +20,14 @@
     <string name="endedSunMissionCount">14 missions ended, including 1 failure</string>
     <string name="ongoingSunMissionCount">7 missions ongoing</string>
     <string name="placeholder">placeholder</string>
+    <string name="sizes_and_distances">Sizes and distances</string>
+    <string name="sun_sizes_and_distances_text">The Sun has a radius of 695,508 kilometers(432,168.6 miles).
+    \nWhile our star isn\'t among the biggest around it\'s still very massive, 332,946 times more so than Earth.
+    \nIt\'s 150 million kilometers(93 million miles) away from earth, this distance serves as a basis for an Astronomical Unit(AU).
+    \nThe nearest interstellar neighbor of our solar system is Alpha Centauri, 4.37 light years away.</string>
+    <string name="orbitAndRotation">Orbit and rotation</string>
+    <string name="orbitAndRotationSunText">As a non-solid body different parts of The Sun rotate at different rates, at the equator one rotation takes 25 Earth days, at the poles that same action takes 36 days.
+    \nOur solar system is moving at 720,000 kilometers per hour(450,000 miles) per hour. Even at that speed it takes around 230 million years to make a full rotation around the Milky Way.</string>
+    <string name="interstellarDistanceMap">Interstellar distance map</string>
 
 </resources>
