@@ -39,10 +39,10 @@
                 android:textSize="15sp" />
 
             <ImageView
-                android:id="@+id/imageView"
+                android:id="@+id/mapOfStarsNearestToTheSun"
                 android:layout_width="match_parent"
                 android:layout_height="330dp"
-                android:contentDescription="@string/interstellarDistanceMap"
+                android:contentDescription="@string/interstellar_distance_map"
                 app:srcCompat="@drawable/sun_image_distance_map" />
 
             <EditText
@@ -52,7 +52,7 @@
                 android:editable="false"
                 android:ems="10"
                 android:inputType="none"
-                android:text="@string/orbitAndRotation"
+                android:text="@string/orbit_and_rotation"
                 android:textAlignment="center"
                 android:textSize="24sp" />
 
@@ -61,7 +61,77 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:inputType="none"
-                android:text="@string/orbitAndRotationSunText"
+                android:text="@string/orbit_and_rotation_sun_text"
+                android:textAlignment="center"
+                android:textColor="@android:color/black"
+                android:textSize="15sp" />
+
+            <EditText
+                android:id="@+id/historyOfTheSunSectionTitleSunDetails"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:editable="false"
+                android:ems="10"
+                android:inputType="none"
+                android:text="@string/history_of_the_body"
+                android:textAlignment="center"
+                android:textSize="24sp" />
+
+            <TextView
+                android:id="@+id/sunHistoryOfTheBodyText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="none"
+                android:text="@string/history_of_the_sun_text"
+                android:textAlignment="center"
+                android:textColor="@android:color/black"
+                android:textSize="15sp" />
+
+            <EditText
+                android:id="@+id/internalStructureSectionTitleSunDetails"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:editable="false"
+                android:ems="10"
+                android:inputType="none"
+                android:text="@string/internal_structure"
+                android:textAlignment="center"
+                android:textSize="24sp" />
+
+            <TextView
+                android:id="@+id/internalStructureOfTheSunText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="none"
+                android:text="@string/internal_structure_of_the_sun"
+                android:textAlignment="center"
+                android:textColor="@android:color/black"
+                android:textSize="15sp" />
+
+            <ImageView
+                android:id="@+id/theInsideOfTheSun"
+                android:layout_width="match_parent"
+                android:layout_height="330dp"
+                android:contentDescription="@string/the_inside_of_the_sun"
+                app:srcCompat="@drawable/sun_image_inside_small" />
+
+            <EditText
+                android:id="@+id/atmosphereOfTheSunSectionTitleSunDetails"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:editable="false"
+                android:ems="10"
+                android:inputType="none"
+                android:text="@string/atmosphere"
+                android:textAlignment="center"
+                android:textSize="24sp" />
+
+            <TextView
+                android:id="@+id/atmosphereOfTheSunText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="none"
+                android:text="@string/atmosphere_of_the_sun"
                 android:textAlignment="center"
                 android:textColor="@android:color/black"
                 android:textSize="15sp" />
