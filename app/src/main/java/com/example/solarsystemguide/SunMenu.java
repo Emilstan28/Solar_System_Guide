@@ -9,12 +9,15 @@ import android.widget.Button;
 
 public class SunMenu extends AppCompatActivity {
 
+    Button learnMoreMissions, learnMoreSunInfo;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sun_menu);
 
-        Button learnMoreSunInfo = findViewById(R.id.buttonLearnMoreSunInformation);
+        learnMoreSunInfo = findViewById(R.id.buttonLearnMoreSunInformation);
+        learnMoreMissions = findViewById(R.id.buttonLearnMoreSolarMissions);
 
         learnMoreSunInfo.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -22,11 +25,23 @@ public class SunMenu extends AppCompatActivity {
                 toSunDetails();
             }
         });
+
+        learnMoreMissions.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                toSunMissions();
+            }
+        });
     }
 
 
     public void toSunDetails(){
         Intent intent = new Intent(this, SunDetails.class);
+        startActivity(intent);
+    }
+
+    public void toSunMissions(){
+        Intent intent = new Intent(this, SunResearchMissions.class);
         startActivity(intent);
     }
 
