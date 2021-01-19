@@ -32,8 +32,8 @@
 
     <FrameLayout
         android:id="@+id/frameForFragmentsSunMissions"
-        android:layout_width="415dp"
-        android:layout_height="491dp"
+        android:layout_width="408dp"
+        android:layout_height="389dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"

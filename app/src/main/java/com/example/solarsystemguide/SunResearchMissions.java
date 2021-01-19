@@ -11,8 +11,6 @@ import android.widget.Button;
 
 public class SunResearchMissions extends AppCompatActivity {
 
-//    TODO: Figure out the layout with the frame layout included, it's clipping through the top of the screen unless manually shrunken
-
     Button pastMissionsButton;
     Fragment pastSunMissions;
 
@@ -37,7 +35,6 @@ public class SunResearchMissions extends AppCompatActivity {
     public void onEndedMissionsClick(){
         FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
         transaction.replace(R.id.frameForFragmentsSunMissions, pastSunMissions);
-        transaction.addToBackStack(null);
         transaction.commit();
     }
 }

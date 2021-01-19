@@ -10,7 +10,6 @@ import android.widget.Button;
 public class MainActivity extends AppCompatActivity {
 //    TODO create a view for every planet
 //    TODO create a details view for every planet
-//    TODO figure out how to make the missions pages
     Button sunButton, mercuryButton, venusButton, earthButton, marsButton,
         jupiterButton, saturnButton, uranusButton, neptuneButton, dwarfsButton;
 
