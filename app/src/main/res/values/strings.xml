@@ -1,4 +1,7 @@
 <resources>
+
+    <!-- GENERAL PURPOSE NAMES PLANET NAMES -->
+
     <string name="app_name">Solar System Guide</string>
     <string name="the_sun">The Sun</string>
     <string name="mercury">Mercury</string>
@@ -16,34 +19,40 @@
     <string name="check_out">Choose the body you\'d like to check out</string>
     <string name="learn_more">Learn more</string>
     <string name="placeholder">placeholder</string>
+    <string name="atmosphere">Atmosphere</string>
+    <string name="sizes_and_distances">Sizes and distances</string>
+    <string name="orbit_and_rotation">Orbit and rotation</string>
+    <string name="internal_structure">Internal structure</string>
+    <string name="history_of_the_body">History of the body</string>
+    <string name="ended_missions">Ended missions</string>
+    <string name="ongoing_missions">Ongoing missions</string>
+
+    <!-- STRINGS FOR THE DETAILS OF THE SUN -->
+
     <string name="ended_sun_mission_count">14 missions ended, including 1 failure</string>
     <string name="ongoing_sun_mission_count">7 missions ongoing</string>
     <string name="sun_rundown">Largest, and most massive object within our solar system, containing 99.8% of overall mass, \nOfficially classified as a yellow dwarf, the Sun is a comparatively small star
         \nThe oldest body in our solar system at 4.6 billion years old</string>
-    <string name="sizes_and_distances">Sizes and distances</string>
     <string name="sun_sizes_and_distances_text">The Sun has a radius of 695,508 kilometers(432,168.6 miles).
         \nWhile our star isn\'t among the biggest around it\'s still very massive, 332,946 times more so than Earth.
         \nIt\'s 150 million kilometers(93 million miles) away from earth.
         \nThe nearest interstellar neighbor of our solar system is Alpha Centauri, 4.37 light years away.</string>
-    <string name="orbit_and_rotation">Orbit and rotation</string>
     <string name="orbit_and_rotation_sun_text">As a non-solid body different parts of The Sun rotate at different rates, at the equator one rotation takes 25 Earth days, at the poles that same action takes 36 days.
         \nOur solar system is moving at 720,000 kilometers per hour(450,000 miles per hour). Even at that speed it takes around 230 million years to make a full rotation around the Milky Way.</string>
     <string name="interstellar_distance_map">Interstellar distance map</string>
-    <string name="history_of_the_body">History of the body</string>
     <string name="history_of_the_sun_text">The Sun was formed alongside the rest of our solar system, around 4.5 billion years ago.
         \nWhile forming it took over big majority of the material ending up with 99.8% of the entire combined mass of our solar system.
         \nThe scientists calculated that our parent star should be around for another 6.5 billion years, ending up as a white dwarf.</string>
-    <string name="internal_structure">Internal structure</string>
     <string name="internal_structure_of_the_sun">The Sun is composed mainly of two elements hydrogen (which takes up 91% of overall composition) and helium (which takes up 8.9%).
         \It consists of six regions: the core, the radiative zone, and the convective zone in the interior,the surface (photosphere), the chromosphere and the corona.
         \nThe temperature in the core reaches 15 million degrees C (27 million degrees F), high enough to sustain the process of nuclear fusion
         \nThe temperature on the surface drops down to 5 500 degrees C (10 000 degrees F), while 3000 times smaller than the temperature of the core it\'s still enough to make carbon (like diamonds or graphite) boil.</string>
     <string name="the_inside_of_the_sun">The inside of the sun</string>
-    <string name="atmosphere">Atmosphere</string>
     <string name="atmosphere_of_the_sun">The atmosphere of our parent star is relatively thin, within that region are where we can find the sunspots and solar flairs.
     \nWhat\'s interesting about that region is that the temperature once again rises up to 2 million degrees C (3.5 million degrees F), the source of that heat remains unknown.</string>
-    <string name="ended_missions">Ended missions</string>
-    <string name="ongoing_missions">Ongoing missions</string>
+
+    <!-- FINISHED SOLAR PROBE MISSIONS -->
+
     <string name="pioneer_program">Pioneer program</string>
     <string name="pioneer_program_text">\n<b>Pioneer 5</b>
     \n\nA spin-stabilized probe originally meant to study Venus with a flyby, after some launch complications the mission profile changed to observe the space in between the orbits of Venus and Earth,
@@ -61,6 +70,24 @@
     \n\n<b>Helios 2</b>
     \n\nThe probe launched on 15th of January 1976 it flew considerably closer to our parent star, 3 million kilometers (1.9 million miles) closer in fact. The probe gave us valuable insight to the solar plasma,
     cosmic rays and cosmic dust until contact was lost in 1980 when the transmitter aboard the craft failed. The probe was shut down in 1982 to prevent any possible radio interference with future missions.</string>
+    <string name="isee_program">\nISEE program</string>
+    <string name="isee_program_text">\nISEE program was an international multipurpose effort consisting of 3 spacecraft, ISEE-1 and ISEE-2 were orbiting earth while ISEE-3 went to the L1 equilibrium point between Earth and The Sun
+    being the first probe to achieve that. \n\nISEE-3 has monitored the incoming solar wind from 1978 to 1981, successfully completing all its objectives before NASA decided to extend its mission steering it to research the Earth magnetic tail
+    as well as the first ever flyby of a comet. The extended mission ended in 1997, though the transmitter was left on and the orbit meant the probe would periodically flyby Earth. In 2014 fully crowd-funded efforts were made to recapture it,
+    but they failed from lack of propellant.</string>
+    <string name="ulysses_program">\nUlysses program</string>
+    <string name="ulysses_program_text">\nUlysses probe launched from the cargo bay of the space shuttle Discovery in 1990 after considerable delay because of the Challenger disaster, leaving Earth at an escape velocity reaching 15 kilometers per second
+    (10 miles per second) fastest of any man-made object up to that point. \n\nIt has visited Jupiter and researched the Jovian system before continuing on to study The Sun, following a polar orbit it has observed the different speeds of solar wind when comparing
+    equatorial regions and the poles, showed the periodic reversal of magnetic poles as well as accidentally passed through 3 separate comet tails. The probe has gone through 3 revelations around our parent star with the data stream steady until 2008.
+    The program was declared finished in 2009 when the probe fuel supply froze over due to the decaying of its electrical systems, 18 years after launch and more than 4 times the first intended length of the effort.</string>
+    <string name="stereo_program">\nStereo program</string>
+    <string name="stereo_program_text">\nThe Stereo program consisted of 2 twin satellites, Stereo A and Stereo B, designed to orbit ahead and behind the Earth to capture The Sun from more angles than ever before, with both probes slowly moving apart.
+    The mission provided valuable insight into solar flares as well as detailed maps of the solar surface, in 2011 the spacecrafts were at an exact opposite points in their orbits giving a 360 degree view of The Sun, the first and so far only observation of its kind.
+    Both probes had some issues with Solar activity routinely interfering with the devices. \n\nIn October 2014 contact was lost with Stereo B following a planned restart, after which reconnection was attempted once every month or so, the probe was back
+    in contact August-September 2016 but a fix couldn\'t be deployed to restore the functionality and since then Stereo B has been silent with NASA declaring it dead in 2018. \n\nStereo A continues to function as of 2019.</string>
+
+    <!-- ONGOING SOLAR PROBE MISSIONS -->
+
 
 
 </resources>

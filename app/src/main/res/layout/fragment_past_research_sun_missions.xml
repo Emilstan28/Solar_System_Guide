@@ -47,9 +47,58 @@
             android:textColor="@android:color/background_dark" />
 
         <TextView
-            android:id="@+id/textView6"
+            android:id="@+id/iseeProgramTitle"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="TextView" />
+            android:text="@string/isee_program"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/iseeProgramText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/isee_program_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/ulyssesProgramTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/ulysses_program"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/ulyssesProgramText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/ulysses_program_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/stereoProgramTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/stereo_program"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/stereoProgramText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/stereo_program_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
     </LinearLayout>
 </androidx.core.widget.NestedScrollView>
