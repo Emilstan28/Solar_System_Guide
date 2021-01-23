@@ -11,8 +11,8 @@ import android.widget.Button;
 
 public class SunResearchMissions extends AppCompatActivity {
 
-    Button pastMissionsButton;
-    Fragment pastSunMissions;
+    Button pastMissionsButton, ongoingMissionsButton;
+    Fragment pastSunMissions, ongoingSunMissions;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -27,9 +27,19 @@ public class SunResearchMissions extends AppCompatActivity {
             }
         });
 
+        ongoingMissionsButton = findViewById(R.id.ongoingMissionsSunButton);
+        ongoingMissionsButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                onOngoingMissionsClick();
+            }
+        });
+
+
 
 
         pastSunMissions = new Fragment(R.layout.fragment_past_research_sun_missions);
+        ongoingSunMissions = new Fragment(R.layout.fragment_ongoing_research_sun_missions);
     }
 
     public void onEndedMissionsClick(){
@@ -37,4 +47,12 @@ public class SunResearchMissions extends AppCompatActivity {
         transaction.replace(R.id.frameForFragmentsSunMissions, pastSunMissions);
         transaction.commit();
     }
+
+    public void onOngoingMissionsClick(){
+        FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
+        transaction.replace(R.id.frameForFragmentsSunMissions, ongoingSunMissions);
+        transaction.commit();
+    }
+
+
 }

@@ -11,25 +11,25 @@
         android:orientation="vertical">
 
         <TextView
-            android:id="@+id/pioneerProgramTitle"
+            android:id="@+id/windProgramTitle"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/pioneer_program"
+            android:text="@string/wind_program"
             android:textAlignment="center"
             android:textColor="@android:color/background_dark"
             android:textSize="18sp"
             android:textStyle="bold" />
 
         <TextView
-            android:id="@+id/pioneerProgramText"
+            android:id="@+id/windProgramText"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/pioneer_program_text"
+            android:text="@string/wind_program_text"
             android:textAlignment="center"
             android:textColor="@android:color/background_dark" />
 
         <TextView
-            android:id="@+id/heliosProgramTitle"
+            android:id="@+id/sohoProgramTitle"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/helios_program"
@@ -39,51 +39,33 @@
             android:textStyle="bold" />
 
         <TextView
-            android:id="@+id/heliosProgramText"
+            android:id="@+id/sohoProgramText"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/helios_program_text"
+            android:text="@string/soho_program_text"
             android:textAlignment="center"
             android:textColor="@android:color/background_dark" />
 
         <TextView
-            android:id="@+id/iseeProgramTitle"
+            android:id="@+id/aceProbeTitle"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/isee_program"
+            android:text="@string/ace_program"
             android:textAlignment="center"
             android:textColor="@android:color/background_dark"
             android:textSize="18sp"
             android:textStyle="bold" />
 
         <TextView
-            android:id="@+id/iseeProgramText"
+            android:id="@+id/aceProbeText"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/isee_program_text"
+            android:text="@string/ace_program_text"
             android:textAlignment="center"
             android:textColor="@android:color/background_dark" />
 
         <TextView
-            android:id="@+id/ulyssesProgramTitle"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/ulysses_program"
-            android:textAlignment="center"
-            android:textColor="@android:color/background_dark"
-            android:textSize="18sp"
-            android:textStyle="bold" />
-
-        <TextView
-            android:id="@+id/ulyssesProgramText"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/ulysses_program_text"
-            android:textAlignment="center"
-            android:textColor="@android:color/background_dark" />
-
-        <TextView
-            android:id="@+id/stereoProgramTitle"
+            android:id="@+id/stereoAProbeTitle"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/stereo_program"
@@ -93,10 +75,64 @@
             android:textStyle="bold" />
 
         <TextView
-            android:id="@+id/stereoProgramText"
+            android:id="@+id/stereoAProbeText"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/stereo_program_finished_text"
+            android:text="@string/stereo_program_ongoing_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/dscovr_probe_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/dscovr_probe"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/dscovr_probe_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/dscovr_probe_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/parker_solar_probe_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/parker_solar_probe"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/parker_solar_probe_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/parker_solar_probe_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/solar_probe_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/solar_probe"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/solar_probe_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/solar_probe_text"
             android:textAlignment="center"
             android:textColor="@android:color/background_dark" />
 
