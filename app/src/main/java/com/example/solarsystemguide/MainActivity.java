@@ -36,10 +36,21 @@ public class MainActivity extends AppCompatActivity {
                 toSunMenu();
             }
         });
+        mercuryButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                toMercuryMenu();
+            }
+        });
     }
 
     public void toSunMenu() {
         Intent intent = new Intent(this, SunMenu.class);
+        startActivity(intent);
+    }
+
+    public void toMercuryMenu() {
+        Intent intent = new Intent(this, MercuryMenu.class);
         startActivity(intent);
     }
 

@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".SunResearchMissions"></activity>
+        <activity android:name=".MercuryDetails" />
+        <activity android:name=".MercuryMenu" />
+        <activity android:name=".SunResearchMissions" />
         <activity android:name=".SunDetails" />
         <activity android:name=".SunMenu" />
         <activity android:name=".MainActivity">

@@ -32,10 +32,10 @@
     <string name="ended_sun_mission_count">14 missions ended, including 1 failure</string>
     <string name="ongoing_sun_mission_count">7 missions ongoing</string>
     <string name="sun_rundown">Largest, and most massive object within our solar system, containing 99.8% of overall mass, \nOfficially classified as a yellow dwarf, the Sun is a comparatively small star
-        \nThe oldest body in our solar system at 4.6 billion years old</string>
+        \nThe oldest body in our solar system at 4.6 billion years old.</string>
     <string name="sun_sizes_and_distances_text">The Sun has a radius of 695,508 kilometers(432,168.6 miles).
         \nWhile our star isn\'t among the biggest around it\'s still very massive, 332,946 times more so than Earth.
-        \nIt\'s 150 million kilometers(93 million miles) away from earth.
+        \nIt\'s 150 million kilometers (93 million miles) away from Earth.
         \nThe nearest interstellar neighbor of our solar system is Alpha Centauri, 4.37 light years away.</string>
     <string name="orbit_and_rotation_sun_text">As a non-solid body different parts of the Sun rotate at different rates, at the equator one rotation takes 25 Earth days, at the poles that same action takes 36 days.
         \nOur solar system is moving at 720,000 kilometers per hour(450,000 miles per hour). Even at that speed it takes around 230 million years to make a full rotation around the Milky Way.</string>
@@ -44,7 +44,7 @@
         \nWhile forming it took over big majority of the material ending up with 99.8% of the entire combined mass of our solar system.
         \nThe scientists calculated that our parent star should be around for another 6.5 billion years, ending up as a white dwarf.</string>
     <string name="internal_structure_of_the_sun">The Sun is composed mainly of two elements hydrogen (which takes up 91% of overall composition) and helium (which takes up 8.9%).
-        \It consists of six regions: the core, the radiative zone, and the convective zone in the interior,the surface (photosphere), the chromosphere and the corona.
+        \nIt consists of six regions: the core, the radiative zone, and the convective zone in the interior,the surface (photosphere), the chromosphere and the corona.
         \nThe temperature in the core reaches 15 million degrees C (27 million degrees F), high enough to sustain the process of nuclear fusion
         \nThe temperature on the surface drops down to 5 500 degrees C (10 000 degrees F), while 3000 times smaller than the temperature of the core it\'s still enough to make carbon (like diamonds or graphite) boil.</string>
     <string name="the_inside_of_the_sun">The inside of the sun</string>
@@ -56,39 +56,39 @@
 
     <string name="pioneer_program">Pioneer program</string>
     <string name="pioneer_program_text">\n<b>Pioneer 5</b>
-    \n\nA spin-stabilized probe originally meant to study Venus with a flyby, after some launch complications the mission profile changed to observe the space in between the orbits of Venus and Earth,
+        \n\nA spin-stabilized probe originally meant to study Venus with a flyby, after some launch complications the mission profile changed to observe the space in between the orbits of Venus and Earth,
         active for just over 100 days Pioneer 5 has confirmed the existence of interplanetary magnetic fields among other accomplishments.
-    \n\n<b>Pioneer 6-9</b>
-    \n\nLaunched in the years of 1965-1968 they were, akin to their earlier sibling, a series of spin-stabilized probes that were meant to study the Sun and they did so with plenty of success.
-    The first of the series, 6, was successfully contacted in 2000, 7 was last contacted in 1995 wherein it was confirmed that one of its scientific instruments were still running,
-    8 in 1996, like the previous one, with one instrument functioning and finally 9 lost contact in 1983, in 1987 it was attempted to reconnect but the attempt failed and the spacecraft was declared inactive.
-    \n\n<b>Pioneer E</b>
-    \n\nPioneer E was supposed to be the fifth probe following the Pioneer 6-9 but due to a hydraulic failure the rocket was destroyed by range safety.</string>
+        \n\n<b>Pioneer 6-9</b>
+        \n\nLaunched in the years of 1965-1968 they were, akin to their earlier sibling, a series of spin-stabilized probes that were meant to study the Sun and they did so with plenty of success.
+        The first of the series, 6, was successfully contacted in 2000, 7 was last contacted in 1995 wherein it was confirmed that one of its scientific instruments were still running,
+        8 in 1996, like the previous one, with one instrument functioning and finally 9 lost contact in 1983, in 1987 it was attempted to reconnect but the attempt failed and the spacecraft was declared inactive.
+        \n\n<b>Pioneer E</b>
+        \n\nPioneer E was supposed to be the fifth probe following the Pioneer 6-9 but due to a hydraulic failure the rocket was destroyed by range safety.</string>
     <string name="helios_program">\nHelios program</string>
     <string name="helios_program_text">\n<b>Helios 1</b>
-    \n\nThe probe was launched on 10th of November 1974 constructed in FRG(Federal Republic of Germany or West Germany) on US-built launch vehicles it was designed, same as its sibling, to observe solar wind,
-    magnetic fields and cosmic rays. The data from the probe was received in a German control center up until 1982.
-    \n\n<b>Helios 2</b>
-    \n\nThe probe launched on 15th of January 1976 it flew considerably closer to our parent star, 3 million kilometers (1.9 million miles) closer in fact. The probe gave us valuable insight to the solar plasma,
-    cosmic rays and cosmic dust until contact was lost in 1980 when the transmitter aboard the craft failed. The probe was shut down in 1982 to prevent any possible radio interference with future missions.</string>
+        \n\nThe probe was launched on 10th of November 1974 constructed in FRG(Federal Republic of Germany or West Germany) on US-built launch vehicles it was designed, same as its sibling, to observe solar wind,
+        magnetic fields and cosmic rays. The data from the probe was received in a German control center up until 1982.
+        \n\n<b>Helios 2</b>
+        \n\nThe probe launched on 15th of January 1976 it flew considerably closer to our parent star, 3 million kilometers (1.9 million miles) closer in fact. The probe gave us valuable insight to the solar plasma,
+        cosmic rays and cosmic dust until contact was lost in 1980 when the transmitter aboard the craft failed. The probe was shut down in 1982 to prevent any possible radio interference with future missions.</string>
     <string name="isee_program">\nISEE program</string>
     <string name="isee_program_text">\nISEE program was an international multipurpose effort consisting of 3 spacecraft, ISEE-1 and ISEE-2 were orbiting earth while ISEE-3 went to the L1 equilibrium point between Earth and the Sun
-    being the first probe to achieve that.
-    \n\nISEE-3 has monitored the incoming solar wind from 1978 to 1981, successfully completing all its objectives before NASA decided to extend its mission steering it to research the Earth magnetic tail as well as the first ever flyby of a comet.
-    The extended mission ended in 1997, though the transmitter was left on and the orbit meant the probe would periodically flyby Earth. In 2014 fully crowd-funded efforts were made to recapture it, but they failed from lack of propellant.</string>
+        being the first probe to achieve that.
+        \n\nISEE-3 has monitored the incoming solar wind from 1978 to 1981, successfully completing all its objectives before NASA decided to extend its mission steering it to research the Earth magnetic tail as well as the first ever flyby of a comet.
+        The extended mission ended in 1997, though the transmitter was left on and the orbit meant the probe would periodically flyby Earth. In 2014 fully crowd-funded efforts were made to recapture it, but they failed from lack of propellant.</string>
     <string name="ulysses_program">\nUlysses program</string>
     <string name="ulysses_program_text">\nUlysses probe launched from the cargo bay of the space shuttle Discovery in 1990 after considerable delay because of the Challenger disaster, leaving Earth at an escape velocity reaching 15 kilometers per second
-    (10 miles per second) fastest of any man-made object up to that point.
-    \n\nIt has visited Jupiter and researched the Jovian system before continuing on to study the Sun, following a polar orbit it has observed the different speeds of solar wind when comparing equatorial regions and the poles,
-    showed the periodic reversal of magnetic poles as well as accidentally passed through 3 separate comet tails. The probe has gone through 3 revelations around our parent star with the data stream steady until 2008.
-    The program was declared finished in 2009 when the probe fuel supply froze over due to the decaying of its electrical systems, 18 years after launch and more than 4 times the first intended length of the effort.</string>
+        (10 miles per second) fastest of any man-made object up to that point.
+        \n\nIt has visited Jupiter and researched the Jovian system before continuing on to study the Sun, following a polar orbit it has observed the different speeds of solar wind when comparing equatorial regions and the poles,
+        showed the periodic reversal of magnetic poles as well as accidentally passed through 3 separate comet tails. The probe has gone through 3 revelations around our parent star with the data stream steady until 2008.
+        The program was declared finished in 2009 when the probe fuel supply froze over due to the decaying of its electrical systems, 18 years after launch and more than 4 times the first intended length of the effort.</string>
     <string name="stereo_program">\nStereo program</string>
     <string name="stereo_program_finished_text">\nThe Stereo program consisted of 2 twin satellites, Stereo A and Stereo B, designed to orbit ahead and behind the Earth to capture the Sun from more angles than ever before, with both probes slowly moving apart.
-    The mission provided valuable insight into solar flares as well as detailed maps of the solar surface, in 2011 the spacecraft were at an exact opposite points in their orbits giving a 360 degree view of the Sun, the first and so far only observation of its kind.
-    Both probes had some issues with Solar activity routinely interfering with the devices.
-    \n\nIn October 2014 contact was lost with Stereo B following a planned restart, after which reconnection was attempted once every month or so, the probe was back
-    in contact August-September 2016 but a fix couldn\'t be deployed to restore the functionality and since then Stereo B has been silent with NASA declaring it dead in 2018.
-    \n\nStereo A continues to function as of 2019. Check ongoing missions tab for detailed information.</string>
+        The mission provided valuable insight into solar flares as well as detailed maps of the solar surface, in 2011 the spacecraft were at an exact opposite points in their orbits giving a 360 degree view of the Sun, the first and so far only observation of its kind.
+        Both probes had some issues with Solar activity routinely interfering with the devices.
+        \n\nIn October 2014 contact was lost with Stereo B following a planned restart, after which reconnection was attempted once every month or so, the probe was back
+        in contact August-September 2016 but a fix couldn\'t be deployed to restore the functionality and since then Stereo B has been silent with NASA declaring it dead in 2018.
+        \n\nStereo A continues to function as of 2019. Check ongoing missions tab for detailed information.</string>
 
 
     <!-- ONGOING SOLAR PROBE MISSIONS -->
@@ -96,38 +96,67 @@
 
     <string name="wind_program">Wind</string>
     <string name="wind_program_text">\nLaunched on the 1st of November 1994 Wind was a part of international cooperation between USA, Japan and the European Space Agency, the International Solar Terrestrial Physics program (ISTP).
-    It\'s intended target, the L1 Lagrange point between the Sun and Earth took until 1996, the reason being Wind was not the only spacecraft heading in that direction, with SOHO and ACE missions doing the same, while on hold
-    it has conducted some magnetosphere research. It has done 19 lunar flybys, using the gravity assists to maintain the apogee of the orbit above the day hemisphere.
-    \n\nWhen it got to its intended location Wind provided about an hour of warning about the state of solar wind for other ISTP spacecraft. In November 1998 Wind has begun a series of maneuvers to stray from the ecliptic plane,
-    reaching 60 degrees deviation at most and giving us insight to the up to then unresearched regions of interplanetary space. It has returned to its intended position in 2004 where it has remained.
-    \n\nDespite the programs conclusion in 2001 Wind continues to function, with predictions that it could stay at L1 for another 60 years. It plays a supporting role for other spacecraft researching our parent star.</string>
+        It\'s intended target, the L1 Lagrange point between the Sun and Earth took until 1996, the reason being Wind was not the only spacecraft heading in that direction, with SOHO and ACE missions doing the same, while on hold
+        it has conducted some magnetosphere research. It has done 19 lunar flybys, using the gravity assists to maintain the apogee of the orbit above the day hemisphere.
+        \n\nWhen it got to its intended location Wind provided about an hour of warning about the state of solar wind for other ISTP spacecraft. In November 1998 Wind has begun a series of maneuvers to stray from the ecliptic plane,
+        reaching 60 degrees deviation at most and giving us insight to the up to then unresearched regions of interplanetary space. It has returned to its intended position in 2004 where it has remained.
+        \n\nDespite the programs conclusion in 2001 Wind continues to function, with predictions that it could stay at L1 for another 60 years. It plays a supporting role for other spacecraft researching our parent star.</string>
     <string name="soho_program">\nSOHO</string>
     <string name="soho_program_text">\nThe SOHO probe (Solar and Heliospheric Observatory) is an ESA sponsored contribution to the ISTP. It carries 12 instruments to study solar atmosphere, helioseismology and the solar wind.
-    \n\nLaunched on 2nd of December 1995 it inserted into orbit around the L1 Lagrange point between the Sun and Earth on the 14th of February 1996. Communications were cut for 4 months starting in June 1998, after contact was regained
-    in September the spacecraft was apparently spinning, not pointing at the sun. By September 25th the probe was back in control, with the loss of 3 of its onboard instruments.
-    \n\nSOHO made several noteworthy discoveries, including locating the source of high-speed solar wind to the corners of the honeycomb shaped magnetic fields near the Sun\'s poles. Another one was the fact that by 2015,
-    after 20 years of continuous work, SOHO has found over 3000 different comets, over half of what comets we know of by far. One of those comets were observed by the probe hurling at the Sun at the speed of 2.1 million kilometers per hour (1.3 million miles per hour).</string>
+        \n\nLaunched on 2nd of December 1995 it inserted into orbit around the L1 Lagrange point between the Sun and Earth on the 14th of February 1996. Communications were cut for 4 months starting in June 1998, after contact was regained
+        in September the spacecraft was apparently spinning, not pointing at the sun. By September 25th the probe was back in control, with the loss of 3 of its onboard instruments.
+        \n\nSOHO made several noteworthy discoveries, including locating the source of high-speed solar wind to the corners of the honeycomb shaped magnetic fields near the Sun\'s poles. Another one was the fact that by 2015,
+        after 20 years of continuous work, SOHO has found over 3000 different comets, over half of what comets we know of by far. One of those comets were observed by the probe hurling at the Sun at the speed of 2.1 million kilometers per hour (1.3 million miles per hour).</string>
     <string name="ace_program">\nACE</string>
     <string name="ace_program_text">\nThe ACE probe (Advanced Composition Explorer) was designed to study spaceborne energy particles and establish commonalities between the Sun, Earth and Milky Way galaxy. \n\nIt has launched on the August
-    25th 1997 and reached its intended position, the L1 point, in January 1998. Since then ACE has contributed near instant, constant stream of data regarding its results with all but one instrument functional. \n\nThe propellant on board
-    theoretically could make the mission keep going until around 2024.</string>
+        25th 1997 and reached its intended position, the L1 point, in January 1998. Since then ACE has contributed near instant, constant stream of data regarding its results with all but one instrument functional. \n\nThe propellant on board
+        theoretically could make the mission keep going until around 2024.</string>
     <string name="stereo_program_ongoing_text">\nThe Stereo program consisted of 2 twin satellites, Stereo A and Stereo B, designed to orbit ahead and behind the Earth to capture the Sun from more angles than ever before, with both probes slowly moving apart.
-    The mission provided valuable insight into solar flares as well as detailed maps of the solar surface, in 2011 the spacecraft were at an exact opposite points in their orbits giving a 360 degree view of the Sun, the first and so far only observation of its kind.
-    Both probes had some issues with Solar activity routinely interfering with the devices.
-    \n\nIn July 2012 STEREO A was able to record the biggest stellar storm in over 150 years, collecting significant data in the process. In March 2015 STEREO A has been put into safe mode while the probe was passing on the far side of the Sun, obstructing it and making contact impossible.
-    In July 2015 STEREO A has been back in contact with Earth and has continued to function since.
-    \n\nStereo B\'s mission was declared finished in 2018. Check ended missions tab for detailed information.</string>
+        The mission provided valuable insight into solar flares as well as detailed maps of the solar surface, in 2011 the spacecraft were at an exact opposite points in their orbits giving a 360 degree view of the Sun, the first and so far only observation of its kind.
+        Both probes had some issues with Solar activity routinely interfering with the devices.
+        \n\nIn July 2012 STEREO A was able to record the biggest stellar storm in over 150 years, collecting significant data in the process. In March 2015 STEREO A has been put into safe mode while the probe was passing on the far side of the Sun, obstructing it and making contact impossible.
+        In July 2015 STEREO A has been back in contact with Earth and has continued to function since.
+        \n\nStereo B\'s mission was declared finished in 2018. Check ended missions tab for detailed information.</string>
     <string name="dscovr_probe">\nDSCOVR</string>
     <string name="dscovr_probe_text">\nLaunched on February 11th 2015 DSCOVR (Deep Space Climate Observatory) is an American satellite providing real time solar wind observation as well as bihourly pictures of Earth from the L1 point where
-    it has orbited since June 8th 2015.
-    \n\nIn October 2015 a website was launched publishing some of the photos the probe takes of Earth with its camera, that same month DSCOVR was transfered from NASA to NOAA’s Space Weather Prediction Center (SWPC).</string>
+        it has orbited since June 8th 2015.
+        \n\nIn October 2015 a website was launched publishing some of the photos the probe takes of Earth with its camera, that same month DSCOVR was transferred from NASA to NOAA’s Space Weather Prediction Center (SWPC).</string>
     <string name="parker_solar_probe">\nParker Solar Probe</string>
     <string name="parker_solar_probe_text">\nThe Parker Solar Probe, launched August 12th 2018, is en route to be the closest man-made object to the Sun, aiming at the closest approach to reach within 6.2 million kilometers (3.9 million miles)
-    from our parent star surface, the record holder so far Helios 2 reached 43 million kilometers (27 million miles).
-    \n\nThe mission is planned to orbit the Sun 24 times in the span on 7 years, giving us insight to the reason why the Solar Corona is so hot, how the solar wind accelerates as well as the source of high-energy solar particles.
-    \n\nPSP has reached its first approach on the 17th of January 2021, coming into 13.5 million kilometers (8.5 million miles) of the Sun\'s surface. This distance will decrease with each pass, using Venus for gravity assists.</string>
+        from our parent star surface, the record holder so far Helios 2 reached 43 million kilometers (27 million miles).
+        \n\nThe mission is planned to orbit the Sun 24 times in the span on 7 years, giving us insight to the reason why the Solar Corona is so hot, how the solar wind accelerates as well as the source of high-energy solar particles.
+        \n\nPSP has reached its first approach on the 17th of January 2021, coming into 13.5 million kilometers (8.5 million miles) of the Sun\'s surface. This distance will decrease with each pass, using Venus for gravity assists.</string>
     <string name="solar_probe">\nSolar probe</string>
     <string name="solar_probe_text">\nLaunched in February 2020 the Solar Probe is supposed to complete over 20 orbits on polar trajectory around the Sun taking pictures of the poles letting us understand the solar cycle, mysterious heat of the corona,
-    as well as the acceleration of solar wind and how they affect our planet.
-    \n\nThe orbit trajectory will be changed with gravity assists of Venus, the first of which happened on the 27th of December 2020. The start of the primary mission is projected to November 2021.</string>
+        as well as the acceleration of solar wind and how they affect our planet.
+        \n\nThe orbit trajectory will be changed with gravity assists of Venus, the first of which happened on the 27th of December 2020. The start of the primary mission is projected to November 2021.</string>
+
+    <!-- STRINGS FOR THE DETAILS OF MERCURY -->
+
+    <string name="ended_mercury_mission_count">2 missions ended</string>
+    <string name="ongoing_mercury_mission_count">1 mission ongoing</string>
+    <string name="mercury_rundown">The planet closest to the Sun, orbiting it at around 0.4 AU. \nSecond hottest planet of the solar system.
+        \nMercury orbits our parent star once every 88 Earth days</string>
+    <string name="mercury_sizes_and_distances_text">Mercury has a radius of 2,440 kilometers(1,516 miles), a little over 1/3 of Earth\'s radius.
+        \nMercury\'s weight is only 6% of that of Earth, the density of the two planets are much close, with less than 0.1 grams per cubic centimeter.
+        \nOn average Mercury is 77 million kilometers(48 million miles) away from Earth.
+        \nThe distance between it and the sun varies between 47 million kilometers (29 million miles) and 70 million kilometers (43 million miles).</string>
+    <string name="orbit_and_rotation_mercury_text">Being so close to the Sun and spinning around it so quickly Mercury takes 88 Earth days to get around its orbit, one Solar day takes 176 Earth days thanks to the slow rotation on its axis.
+        \nMercury moves at the speed of 47 kilometers (29 miles) per second, faster than any other planet in our solar system.</string>
+    <string name="history_of_mercury_text">Mercury is around 4.5 billion years old, forming alongside other bodies in our solar system.
+        \nOne of 5 planets visible with the naked eye Mercury was known all the way in ancient times, with the first written record from Babylon calling it Nabu.
+        \nThe first observations with a telescope was done with Galileo in the 17th century.</string>
+    <string name="internal_structure_of_mercury">Mercury has a large metallic core, the same as the other 3 rocky planets, that takes up about 85% of the planets radius.
+        \nThere is evidence that it could be partly molten or fully liquid.
+        \nThe surface of the planet, or the crust, is only 400 km (250 miles) thick.</string>
+    <string name="the_inside_of_mercury">The inside of the sun</string>
+    <string name="atmosphere_of_mercury">Instead of an atmosphere Mercury has an exosphere, an area around a body where particles are bound to it gravitationally but not densely enough to be considered a gas.</string>
+
+    <!-- STRINGS FOR ENDED MERCURY MISSIONS-->
+    
+    <string name="mariner_10_title">Mariner 10</string>
+    <string name="mariner_10_text">Mariner 10 was the first spacecraft to research Mercury, the first mission to explore two planets (Mercury and Venus) in a single mission, the first to use a gravity assist to change its flight path, the first to make more than one pass on its target after initial encounter, and the first to use the solar wind as a major means of spacecraft orientation during flight.
+        \nIt showed that Mercury\'s surface looked much like our Moon\'s, with plenty of craters, as well as brought conclusive evidence of lack of atmosphere around the planet.
+        \nLaunching on November 3rd 1973 the probe did 3 flybys of Mercury as well as a flyby of Venus, returning thousands of pictures of both (over 4000 of Venus and more than 2700 of Mercury).
+        \nOn the closest approach to Mercury Mariner 10 was only 327 kilometers (200 miles) away from the surface. 8 days after that contact was lost for good, this would be the last probe to visit Mercury for 3 decades.</string>
 </resources>
