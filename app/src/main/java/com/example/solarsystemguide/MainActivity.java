@@ -42,6 +42,12 @@ public class MainActivity extends AppCompatActivity {
                 toMercuryMenu();
             }
         });
+        venusButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                toVenusMenu();
+            }
+        });
     }
 
     public void toSunMenu() {
@@ -51,6 +57,11 @@ public class MainActivity extends AppCompatActivity {
 
     public void toMercuryMenu() {
         Intent intent = new Intent(this, MercuryMenu.class);
+        startActivity(intent);
+    }
+
+    public void toVenusMenu() {
+        Intent intent = new Intent(this, VenusMenu.class);
         startActivity(intent);
     }
 

@@ -9,6 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".VenusDetails"></activity>
+        <activity android:name=".VenusMenu" />
+        <activity android:name=".MercuryResearchMissions" />
         <activity android:name=".MercuryDetails" />
         <activity android:name=".MercuryMenu" />
         <activity android:name=".SunResearchMissions" />

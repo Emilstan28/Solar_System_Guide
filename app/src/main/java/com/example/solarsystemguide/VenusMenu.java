@@ -7,22 +7,22 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-public class MercuryMenu extends AppCompatActivity {
+public class VenusMenu extends AppCompatActivity {
 
-    Button learnMoreMissions, learnMoreMercuryInfo;
+    Button learnMoreMissions, learnMoreVenusInfo;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_mercury_menu);
+        setContentView(R.layout.activity_venus_menu);
 
-        learnMoreMercuryInfo = findViewById(R.id.buttonLearnMoreMercuryInformation);
-        learnMoreMissions = findViewById(R.id.buttonLearnMoreMercurialMissions);
+        learnMoreVenusInfo = findViewById(R.id.buttonLearnMoreVenusInformation);
+        learnMoreMissions = findViewById(R.id.buttonLearnMoreVenusianMissions);
 
-        learnMoreMercuryInfo.setOnClickListener(new View.OnClickListener() {
+        learnMoreVenusInfo.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                toMercuryDetails();
+                toVenusDetails();
             }
         });
 
@@ -35,14 +35,12 @@ public class MercuryMenu extends AppCompatActivity {
     }
 
 
-    public void toMercuryDetails(){
-        Intent intent = new Intent(this, MercuryDetails.class);
+    public void toVenusDetails(){
+        Intent intent = new Intent(this, VenusDetails.class);
         startActivity(intent);
     }
 
     public void toMercuryMissions(){
-        Intent intent = new Intent(this, MercuryResearchMissions.class);
-        startActivity(intent);
     }
 
 }
