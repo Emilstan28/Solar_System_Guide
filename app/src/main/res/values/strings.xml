@@ -199,6 +199,40 @@
         \nThe winds of the atmosphere are just as extreme, with the very top layer of clouds being carried as fast as 360 kilometers (224 miles) per hour, accompanied by lightning bolts.
         \nThe pressure on the surface would be equivalent to being 1.6 kilometers (1 mile) underwater.</string>
 
+    <!--STRINGS FOR THE PAST MISSIONS TO VENUS-->
+
+    <string name="sputnik_7">Sputnik 7</string>
+    <string name="sputnik_7_text">\nLaunched by USSR on 4th of February 1961 the craft failed to leave Earth orbit due to an issue with the upper stage, crashing back into our planet shortly after launch.</string>
+    <string name="venera_1">\nVenera 1</string>
+    <string name="venera_1_text">\nLaunched by USSR on 19th of May 1961 the probe was successful in leaving Earth\'s orbit, but the contact was lost after a week. It\'s speculated that the probe flied by Venus, the first man made object to flyby another planet.</string>
+    <string name="mariner_1">\nMariner 1</string>
+    <string name="mariner_1_text">\nLaunched by USA on 22nd of July 1962 the craft was destroyed by range safety after mere 4 minutes of flight, the blame was located on a faulty antenna as well as a single missing subscript bar. 
+        The media would call the incident "The most expensive hyphen in history".</string>
+    <string name="sputnik_19">\nSputnik 19</string>
+    <string name="sputnik_19_text">\nLaunched by USSR on 25th of August 1962 the probe got into orbit around Earth but following a failure of one of the parts the main engine shut down after 45 seconds of the 4 minute burn. It reentered the atmosphere a couple days later.</string>
+    <string name="mariner_2">\nMariner 2</string>
+    <string name="mariner_2_text">\nLaunched by USA on 27th of August 1962, just 36 days after the failure of Mariner 1, it was the first successful interplanetary mission. It performed a flyby over Venus returning valuable data on the Venusian atmosphere, magnetosphere and temperatures.</string>
+    <string name="sputnik_20">\nSputnik 20</string>
+    <string name="sputnik_20_text">\nLaunched by USSR on 1st of September 1962 it reached Earth orbit, the main engine of the upper stage failed to ignite dooming the rocket to come back to the surface a few days after it launched.</string>
+    <string name="sputnik_21">\nSputnik 21</string>
+    <string name="sputnik_21_text">\nLaunched by USSR on 12th of September 1962 it got to orbit around Earth. One of the assisting engines exploded causing the rocket to lose control, forming bubbles in the main tank that made the main engine turn off less than a second after it started to fire.
+        The probe returned to the ground after a few days.</string>
+    <string name="kosmos_27">\nKosmos 27</string>
+    <string name="kosmos_27_text">\nLaunched by USSR on 27th of March 1964, reaching Earth orbit. A circuitry design flaw prevented energy from being sent to altitude control thrusters causing the mission to fail, the spacecraft came back down on the following day.</string>
+    <string name="zond_1">\nZond 1</string>
+    <string name="zond_1_text">\nLaunched on the 2nd of April 1964, it successfully left Earth orbit and headed for Venus. The spacecraft\'s launch vehicle performed without any failure, alas one of the sensor windows cracked causing a slow leak of air.
+        The loss of pressure caused the electronic circuits to overheat, contact to the main module was lost shortly after. The mission could still be contacted via the lander module and a correction burn was executed but it was short by about 20 meters per second,
+        causing the mission to miss its intended target. By May 14th all communication with the craft failed.</string>
+    <string name="kosmos_96">\nKosmos 96</string>
+    <string name="kosmos_96_text">\nLaunched on 23rd of November 1964 by USSR, reaching Earth orbit one of the fuel lines ruptured causing an explosion that made it impossible to control the craft, the orbit decayed fully on 9th of December 1964.</string>
+    <string name="venera_2">\nVenera 2</string>
+    <string name="venera_2_text">\nLaunched on 12th of November 1965 by USSR, it successfully reached Venus, performed a flyby and recorded all information. While the data was being gathered contact had to be cut, with the intention of it returning after
+        the probe concluded its research. The contact was never recovered, the spacecraft was declared as lost on 3th of March 1966.</string>
+    <string name="venera_3">\nVenera 3</string>
+    <string name="venera_3_text">\nLaunched on 16th of November 1965 by USSR, it was the first spacecraft to impact the surface of another planet, having successfully steered into Venus. The original intent of the mission was to have a controlled landing,
+        however contact was lost on 15th of February 1966, with the impact taking place on the 1st of March that same year. The cause for the loss of contact is suspected to be overheating.</string>
+    <string name="kosmos_167">\nLaunched on 17th of June 1967 by USSR, the mission intended to land on Venus, the craft failed to leave Earth\'s orbit after the transplanetary stage motor was not cooled down prior to ignition. The probe reentered the atmosphere
+        25th of June 1967.</string>
 
     <string name="large_text">
         "Material is the metaphor.\n\n"
