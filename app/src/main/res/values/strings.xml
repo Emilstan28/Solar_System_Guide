@@ -220,7 +220,7 @@
     <string name="kosmos_27">\nKosmos 27</string>
     <string name="kosmos_27_text">\nLaunched by USSR on 27th of March 1964, reaching Earth orbit. A circuitry design flaw prevented energy from being sent to altitude control thrusters causing the mission to fail, the spacecraft came back down on the following day.</string>
     <string name="zond_1">\nZond 1</string>
-    <string name="zond_1_text">\nLaunched on the 2nd of April 1964, it successfully left Earth orbit and headed for Venus. The spacecraft\'s launch vehicle performed without any failure, alas one of the sensor windows cracked causing a slow leak of air.
+    <string name="zond_1_text">\nLaunched on the 2nd of April 1964 by USSR, it successfully left Earth orbit and headed for Venus. The spacecraft\'s launch vehicle performed without any failure, alas one of the sensor windows cracked causing a slow leak of air.
         The loss of pressure caused the electronic circuits to overheat, contact to the main module was lost shortly after. The mission could still be contacted via the lander module and a correction burn was executed but it was short by about 20 meters per second,
         causing the mission to miss its intended target. By May 14th all communication with the craft failed.</string>
     <string name="kosmos_96">\nKosmos 96</string>
@@ -231,8 +231,37 @@
     <string name="venera_3">\nVenera 3</string>
     <string name="venera_3_text">\nLaunched on 16th of November 1965 by USSR, it was the first spacecraft to impact the surface of another planet, having successfully steered into Venus. The original intent of the mission was to have a controlled landing,
         however contact was lost on 15th of February 1966, with the impact taking place on the 1st of March that same year. The cause for the loss of contact is suspected to be overheating.</string>
-    <string name="kosmos_167">\nLaunched on 17th of June 1967 by USSR, the mission intended to land on Venus, the craft failed to leave Earth\'s orbit after the transplanetary stage motor was not cooled down prior to ignition. The probe reentered the atmosphere
+    <string name="venera_4">\nVenera 4</string>
+    <string name="venera_4_text">\nLaunched on 12th of June 1967 by USSR, it was the first spacecraft to successfully breach another planet\'s atmosphere and transmit the data back to Earth. The probe collected data about the atmosphere pressure, composition,
+        temperature as well as Venus\' magnetosphere. It has been built to make water landing possible, not knowing what to expect on the surface of Venus. The craft entered Venusian atmosphere on 18th of October 1967.
+        The probe lost contact with Earth before it could reach the surface of the planet. The data that it did send back caused quite the controversy, as it was so different from what was expected some data, like the composition of the atmosphere, has been contested by some scientists.</string>
+    <string name="mariner_5">\nMariner 5</string>
+    <string name="mariner_5_text">\nLaunched on 14th of June 1967 by USA, initially the craft was a backup for Mariner 4, a flyby mission to Mars, after the Mars probe was successful it was repurposed to flyby Venus. Though missing the camera from the original purpose
+        the craft was still armed with experiments to determine the properties of Venusian atmosphere, measuring the pressure and temperature. The plan, at first, was to flyby Venus at around 8 000 kilometers (5 000 miles) though that was changed for a much higher,
+        75 000 kilometer (47 000 mile) flyby to make sure the unsterilized probe wouldn\'t crash into the surface of the planet. The course correction on the way set the final closest approach at 4 000 kilometers (2 500 miles). Mariner 5 detected no magnetic field, and
+        measured much higher values for surface level atmosphere pressure and temperature than was returned by Venera 4, contesting the claims then put forward by the USSR that their probe reached the surface of the planet. The contact was lost on 4th of December 1967,
+        though it returned contact briefly on 14th of October 1968 again, further contact attempts were cancelled on 5th of November of the same year.</string>
+    <string name="kosmos_167">\nKosmos 167</string>
+    <string name="kosmos_167_text">\nLaunched on 17th of June 1967 by USSR, the mission intended to land on Venus, the craft failed to leave Earth\'s orbit after the transplanetary stage motor was not cooled down prior to ignition. The probe reentered the atmosphere
         25th of June 1967.</string>
+    <string name="venera_5">\nVenera 5</string>
+    <string name="venera_5_text">\nLaunched on 5th of January 1969 by USSR, based on the previous design of Venera 4, the capsule was reinforced and the instruments tuned in to provide more precise values from the atmosphere of Venus. It has reached its destination on
+        16th of May 1969, using its smaller parachutes than its predecessor it allowed to descend farther into the atmosphere to reach the crush depth before running out of power. The probe returned data every 45 seconds for 53 minutes, the results confirmed the findings
+        of the previous mission.</string>
+    <string name="venera_6">\nVenera 6</string>
+    <string name="venera_6_text">\nLaunched on 6th of January 1969 by USSR, short of few differences in the devices that it carried it was virtually the same as Venera 5. It entered Venusian atmosphere a day later than the previous craft and just like it returned data
+        every 45 seconds but for 51 minutes. One of the instruments hasn't worked properly, but every other result underlined the findings of Venera 5.</string>
+    <string name="venera_7">\nVenera 7</string>
+    <string name="venera_7_text">\nLaunched by USSR on 17th of August 1970, the craft was designed as a lander for Venus, with the reinforced structure and additional weight that it gained with upgraded specifications the experiments were severely limited. After a successful flight
+        it had entered Venusian atmosphere on 15th of December 1970. At first everything went as planned, the parachute deployed partially followed by a full deployment some time later, with the fall slowed down significantly the chute failed and the lander went into a free-fall.
+        Hitting the surface much faster than anticipated, at around 17 m/s (59 km/h; 37 mph) the contact was almost completely severed. Only a week later after close examination of the recording tapes it was discovered that the transmission continued for over 20 minutes on the surface,
+        the readings confirmed that the environment on the surface of Venus would be lethal for humans. It\'s suspected that the lander bounced on impact and rolled on its side, turning the strongest antenna away from Earth, leaving only a weak data stream back to the ground.</string>
+    <string name="kosmos_359">\nKosmos 359</string>
+    <string name="kosmos_359_text">\nLaunched by USSR on 22nd of August 1970 the main craft was meant as a lander, thus it was significantly reinforced than any other previous mission aimed at Venus. As such it was designed to handle up to 180 bar and temperatures of 580 degrees C
+        that meant severe additions in weight which limited the scientific instruments that could have been carried along on the mission. After launch the burn meant to put the spacecraft on its path the engine of the upper stage failed to ignite properly, starting too late and
+        going out too early. Stranded and unable to control it the orbit decayed on the 7th of November 1970, burning up in the atmosphere.</string>
+
+
 
     <string name="large_text">
         "Material is the metaphor.\n\n"
