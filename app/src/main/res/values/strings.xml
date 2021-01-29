@@ -16,6 +16,7 @@
     <string name="eris">Eris</string>
     <string name="ceres">Ceres</string>
     <string name="dwarfs">Dwarfs</string>
+    <string name="others">Others</string>
     <string name="check_out">Choose the body you\'d like to check out</string>
     <string name="learn_more">Learn more</string>
     <string name="placeholder">placeholder</string>
@@ -209,7 +210,7 @@
     <string name="mariner_1_text">\nLaunched by USA on 22nd of July 1962 the craft was destroyed by range safety after mere 4 minutes of flight, the blame was located on a faulty antenna as well as a single missing subscript bar. 
         The media would call the incident "The most expensive hyphen in history".</string>
     <string name="sputnik_19">\nSputnik 19</string>
-    <string name="sputnik_19_text">\nLaunched by USSR on 25th of August 1962 the probe got into orbit around Earth but following a failure of one of the parts the main engine shut down after 45 seconds of the 4 minute burn. It reentered the atmosphere a couple days later.</string>
+    <string name="sputnik_19_text">\nLaunched by USSR on 25th of August 1962 the probe got into orbit around Earth but following a failure of one of the parts the main engine shut down after 45 seconds of what was intended to be a 4 minute burn. It reentered the atmosphere a couple days later.</string>
     <string name="mariner_2">\nMariner 2</string>
     <string name="mariner_2_text">\nLaunched by USA on 27th of August 1962, just 36 days after the failure of Mariner 1, it was the first successful interplanetary mission. It performed a flyby over Venus returning valuable data on the Venusian atmosphere, magnetosphere and temperatures.</string>
     <string name="sputnik_20">\nSputnik 20</string>
@@ -257,9 +258,43 @@
         Hitting the surface much faster than anticipated, at around 17 m/s (59 km/h; 37 mph) the contact was almost completely severed. Only a week later after close examination of the recording tapes it was discovered that the transmission continued for over 20 minutes on the surface,
         the readings confirmed that the environment on the surface of Venus would be lethal for humans. It\'s suspected that the lander bounced on impact and rolled on its side, turning the strongest antenna away from Earth, leaving only a weak data stream back to the ground.</string>
     <string name="kosmos_359">\nKosmos 359</string>
-    <string name="kosmos_359_text">\nLaunched by USSR on 22nd of August 1970 the main craft was meant as a lander, thus it was significantly reinforced than any other previous mission aimed at Venus. As such it was designed to handle up to 180 bar and temperatures of 580 degrees C
+    <string name="kosmos_359_text">\nLaunched by USSR on 22nd of August 1970 the main craft was meant as a lander, thus it was significantly reinforced than any other previous mission aimed at Venus. It was designed to handle up to 180 bar and temperatures of 580 degrees C
         that meant severe additions in weight which limited the scientific instruments that could have been carried along on the mission. After launch the burn meant to put the spacecraft on its path the engine of the upper stage failed to ignite properly, starting too late and
         going out too early. Stranded and unable to control it the orbit decayed on the 7th of November 1970, burning up in the atmosphere.</string>
+    <string name="venera_8">\nVenera 8</string>
+    <string name="venera_8_text">\nLaunched on 27th of March 1972 by USSR, the craft successfully got to Venus on July 22nd 1972, landing on the sunlit side of the planet. Data was received for 50 minutes and 11 seconds after which the craft succumbed to the harsh conditions on the
+        surface. The lander confirmed earlier findings from Venera 7, namely the temperature and pressure on the surface, while at the same time delivering new information. For example it revealed that the light level is suitable for surface level photography, as well as that the clouds
+        end fairly high up in the atmosphere.</string>
+    <string name="kosmos_482">\nKosmos 482</string>
+    <string name="kosmos_482_text">\nLaunched by USSR on 31st of March 1972 by USSR, separated into 4 pieces in orbit around Earth, two have fallen down onto New Zealand within 48 hours, two remaining pieces are still orbiting Earth. It\'s suspected they might reenter the atmosphere
+        between 2023 and 2025.</string>
+    <string name="venera_9">\nVenera 9</string>
+    <string name="venera_9_text">\nLaunched on 8th of June 1975 by USSR, the craft consisted of two parts, a lander and an orbiter, each with their own mission. While the lander was destined to measure the atmosphere chemicals and taking the first ever photograph of another world the
+        orbiter would become the first man made object to achieve orbit around Venus. The lander operated on the ground for 53 minutes during which it has taken a black and white picture of the surface of Venus, it was originally intended to be a 360 panoramic shot alas one of the covers
+        on the camera failed to deploy fully, limiting the view range to 180 degrees. The orbiter was used as a communications relay for the lander, as well as photographing the planet in ultraviolet. The orbiter stopped transmitting after a few months, their orbit decayed since though the
+        exact date is unknown as it has not been traced since it has ceased transmission.</string>
+    <string name="venera_10">\nVenera 10</string>
+    <string name="venera_10_text">\nLaunched on 14th of June 1975 by USSR, the mission profile was identical to Venera 9 and the results just as similar; down to one of the camera covers not deploying properly giving only 180 degrees out of expected 360 for the picture. Landing was made on
+        Otober 23rd 1975, a day after Venera 9's lander made planetfall.</string>
+    <string name="pioneer_venus_1">\nPioneer Venus 1</string>
+    <string name="pioneer_venus_1_text">\nLaunched on 20th of May 1978 by USA, it was 1 of 2 spacecraft incorporated into Pioneer Venus Project with its sistership launching a couple months later. The probe reached Venus and entered into orbit around it on 4th of December 1978,
+        the first american spacecraft to do so. It used radar to map out the topographical features of the surface, as well as scanned the atmosphere revealing near continuous lightning in the cloud cover, infrared imaging also showed an atmospheric clearing over the north pole.
+        While the mission was expected to last 8 months the craft operated until 8th of October 1992 when it burned up in the atmosphere after running out of propellant.</string>
+    <string name="pioneer_venus_2">\nPioneer Venus 2</string>
+    <string name="pioneer_venus_2_text">\nLaunched on 2nd of August 1978 by USA, it was the second spacecraft in the Pioneer Venus Project. It consisted of 4 probes, 1 large one and 3 identical smaller ones. The craft arrived at Venus without issue in November 1978 the large probe was
+        deployed first, on 16th of November, with the small ones following on the 20th. All 4 probes entered within minutes of each other on 9th of December 1978, they weren\'t expected to survive the impact. The large probe was the only one equipped with parachutes, still
+        transmission from it stopped at the moment of impact. The small probes did not have any means of slowing down, against all odds though one of the probes survived the impact. Transmissions were received from it for 67 minutes before the lack of power, temperature and pressure
+        ended it. The main spacecraft entered the atmosphere around an hour and a half after the probes and burned up in the atmosphere.</string>
+    <string name="venera_11">\nVenera 11</string>
+    <string name="venera_11_text">\nLaunched on 9th of September 1978 by USSR, the mission consisted of 2 craft, a lander and its flight carrier. The lander carried equipment to study the temperature, as well as the chemical composition for the atmosphere and soil. The soil scanner failed,
+        though the craft did bring back data of lightning as well as carbon monoxide at low altitudes. Data was received for 95 minutes until the flight carrier left the range; it didn\'t go into orbit, merely a flyby. The carrier went onto a heliocentric orbit and returned data of gamma bursts,
+        the first such catalog. The mission was declared finished in February 1980, with the last gamma ray burst data received in January that year. Venera 11 remains in a heliocrentric orbit.</string>
+    <string name="venera_12">\nVenera 12</string>
+    <string name="venera_12_text">\nIdentical to Venera 11, from the equipment on the lander to the mission of the carrier being only a flyby above the planet. Launched on 14th of September 1978, the lander got to Venus on 21st of December 1978, transmitted while the main rocket was in range.
+        The carrier continued on to a heliocentric orbit assisting Venera 11 with the gamma burst cataloging. The carrier's mission was declared finished on 18th of April 1980.</string>
+    
+
+
 
 
 
