@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EndedResearchVenusMissions">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/sputnik7Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sputnik_7"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/sputnik7Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sputnik_7_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/venera1Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/venera_1"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/venera1Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/venera_1_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/mariner1title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mariner_1"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/mariner1Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mariner_1_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/sputnik19Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sputnik_19"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/sputnik19Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sputnik_19_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/mariner2Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mariner_2"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/mariner2Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mariner_2_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/sputnik20Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sputnik_20"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/sputnik20Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sputnik_20_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/sputnik21Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sputnik_21"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/sputnik21Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sputnik_21_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+        <TextView
+            android:id="@+id/kosmos27Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/kosmos_27"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/kosmos27Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/kosmos_27_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/zond1Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/zond_1"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/zond1Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/zond_1_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/kosmos96Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/kosmos_96"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/kosmos96Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/kosmos_96_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/venera2Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/venera_2"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/venera2Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/venera_2_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/venera3Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/venera_3"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/venera3Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/venera_3_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/venera4Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/venera_4"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/venera4Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/venera_4_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/mariner5Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mariner_5"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/mariner5Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mariner_5_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+            <TextView
+            android:id="@+id/kosmos167Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/kosmos_167"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/kosmos167Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/kosmos_167_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/venera5Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/venera_5"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/venera5Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/venera_5_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/venera6Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/venera_6"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/venera6Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/venera_6_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/venera7Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/venera_7"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/venera7Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/venera_7_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/kosmos359Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/kosmos_359"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/kosmos359Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/kosmos_359_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/venera8Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/venera_8"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/venera8Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/venera_8_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/kosmos482Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/kosmos_482"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/kosmos482Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/kosmos_482_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/venera9Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/venera_9"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/venera9Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/venera_9_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/venera10Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/venera_10"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/venera10Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/venera_10_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/pioneerVenus1Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pioneer_venus_1"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/pioneerVenus1Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pioneer_venus_1_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/pioneerVenus2Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pioneer_venus_2"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/pioneerVenus2Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pioneer_venus_2_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/venera11Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/venera_11"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/venera11Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/venera_11_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/venera12Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/venera_12"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/venera12Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/venera_12_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/venera13Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/venera_13"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/venera13Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/venera_13_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/venera14Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/venera_14"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/venera14Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/venera_14_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/venera15Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/venera_15"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/venera15Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/venera_15_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/venera16Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/venera_16"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/venera16Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/venera_16_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/vega1Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/vega_1"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/vega1Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/vega_1_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/vega2Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/vega_2"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/vega2Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/vega_2_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/magellanTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/magellan"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/magellanText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/magellan_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>

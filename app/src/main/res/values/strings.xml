@@ -251,7 +251,7 @@
         of the previous mission.</string>
     <string name="venera_6">\nVenera 6</string>
     <string name="venera_6_text">\nLaunched on 6th of January 1969 by USSR, short of few differences in the devices that it carried it was virtually the same as Venera 5. It entered Venusian atmosphere a day later than the previous craft and just like it returned data
-        every 45 seconds but for 51 minutes. One of the instruments hasn't worked properly, but every other result underlined the findings of Venera 5.</string>
+        every 45 seconds but for 51 minutes. One of the instruments hasn\'t worked properly, but every other result underlined the findings of Venera 5.</string>
     <string name="venera_7">\nVenera 7</string>
     <string name="venera_7_text">\nLaunched by USSR on 17th of August 1970, the craft was designed as a lander for Venus, with the reinforced structure and additional weight that it gained with upgraded specifications the experiments were severely limited. After a successful flight
         it had entered Venusian atmosphere on 15th of December 1970. At first everything went as planned, the parachute deployed partially followed by a full deployment some time later, with the fall slowed down significantly the chute failed and the lander went into a free-fall.
@@ -275,7 +275,7 @@
         exact date is unknown as it has not been traced since it has ceased transmission.</string>
     <string name="venera_10">\nVenera 10</string>
     <string name="venera_10_text">\nLaunched on 14th of June 1975 by USSR, the mission profile was identical to Venera 9 and the results just as similar; down to one of the camera covers not deploying properly giving only 180 degrees out of expected 360 for the picture. Landing was made on
-        Otober 23rd 1975, a day after Venera 9's lander made planetfall.</string>
+        Otober 23rd 1975, a day after Venera 9\'s lander made planetfall.</string>
     <string name="pioneer_venus_1">\nPioneer Venus 1</string>
     <string name="pioneer_venus_1_text">\nLaunched on 20th of May 1978 by USA, it was 1 of 2 spacecraft incorporated into Pioneer Venus Project with its sistership launching a couple months later. The probe reached Venus and entered into orbit around it on 4th of December 1978,
         the first american spacecraft to do so. It used radar to map out the topographical features of the surface, as well as scanned the atmosphere revealing near continuous lightning in the cloud cover, infrared imaging also showed an atmospheric clearing over the north pole.
@@ -291,11 +291,46 @@
         the first such catalog. The mission was declared finished in February 1980, with the last gamma ray burst data received in January that year. Venera 11 remains in a heliocrentric orbit.</string>
     <string name="venera_12">\nVenera 12</string>
     <string name="venera_12_text">\nIdentical to Venera 11, from the equipment on the lander to the mission of the carrier being only a flyby above the planet. Launched on 14th of September 1978, the lander got to Venus on 21st of December 1978, transmitted while the main rocket was in range.
-        The carrier continued on to a heliocentric orbit assisting Venera 11 with the gamma burst cataloging. The carrier's mission was declared finished on 18th of April 1980.</string>
-    
-
-
-
+        The carrier continued on to a heliocentric orbit assisting Venera 11 with the gamma burst cataloging. The carrier\'s mission was declared finished on 18th of April 1980.</string>
+    <string name="venera_13">\nVenera 13</string>
+    <string name="venera_13_text">\nLaunched on 30th of October 1981 by USSR, together with the identical Venera 14 that launched just a few days later, were a pair of spacecraft designed to take advantage of the 1981 launch window to Venus, landing on the planet on 1st of March 1982. The lander
+        tested the compressibility of the soil with spring-loaded arms, as well as cameras to take a panoramic picture of the environment. A drill was used to extract a sample of the soil, using x-ray radiation to determine what type of rock it is made out of, in addition to a set of microphones
+        used to record the wind noises, in hope to measure its speed, it was the first ever recording of sound from another planet. The lander lasted for 127 minutes, the design predicted a lifespan of only 32.
+        \nThe rest of the rocket was used as a relay, after leaving Venus it continued to make observations on x-ray and gamma spectrum, the bus continued to operate and send data until at least 25th of April 1983</string>
+    <string name="venera_14">\nVenera 14</string>
+    <string name="venera_14_text">\nLaunched on 4th of November 1981 the probe reached Venus in March, the lander\'s final descent on 5th of March 1982. Following a successful landing the craft did the same experiments as its predecessor just a few days back with one notable, and humorous, exception.
+        One of the camera caps fell exactly where the spring loaded arms would go to, so the craft measured the compressibility of the cap rather than the Venusian soil. It lasted for 57 minutes, 25 minutes longer than it was designed to survive.
+        \nThe bus of the craft went on into a heliocentric orbit and just like its predecessor provided data on x-ray and gamma spectrum, with it operating until at least 9th of April 1983.</string>
+    <string name="venera_15">\nVenera 15</string>
+    <string name="venera_15_text">\nLaunched on 2nd of June 1983 by USSR, together with the identical Venera 16 that launched a few days after it, were a pair of probes designed to orbit Venus in a polar orbit and use radar to map out the surface of the planet. Inserting into orbit on 10th of October
+        1983, a day before its sibling, the crafts started to map out the northern hemisphere of Venus, from the pole down to about 30 degrees N latitude. The orbit was shifted by about 4 degrees in relation to Venera 16 which allowed the areas to be remapped if deemed necessary. Over 8 months of mapping
+        approximately 25% of the surface was mapped. The last contact with the probe was on 5th of January 1985</string>
+    <string name="venera_16">\nVenera 16</string>
+    <string name="venera_16_text">\nLaunched on 7th of June 1983 by USSR, it successfully got to Venus and got inserted into a polar orbit, with a 4 degree deviation from Venera 15, and helped it map the surface of the planet. The last contact with the probe was on 13th of June 1985.</string>
+    <string name="vega_1">\nVega 1</string>
+    <string name="vega_1_text">\nLaunched on 15th of December 1984 by USSR, Vega 1 and Vega 2 were a two target mission, each carrying a lander and a balloon for Venus, with the main part of the spacecraft intending to use Venus for a gravity assist to research the Halley\'s Comet.
+        The craft got to Venus on 11th of June 1985, the lander and balloon probe encased in a capsule was let go into the atmosphere, after separating excessive turbulence made the lander instruments deploy too soon, at around 20 km (12 miles) above the surface, only one successfully returned data.
+        \nThe balloon, after separation, was inflated at around 50 km (31 miles) above the surface, rising and staying at between 53 and 54 km afterwards, it glided for over 11 000 km (6800 miles) above the surface, around 30 % of the circumferance of the planet. The balloon gathered data on
+        the middle, most active layer of the atmosphere, getting its pressure, temperature, lightning, illumination levels, and cloud properties.
+        \nFollowing the relaying of information from the lander and the balloon the bus of the craft went forward to meet up with the Halley\'s Comet with Vega 2 close behind. For 3 days both crafts made over 1500 pictures of the comet, giving us a lot of information on the comet, how large the nucleus
+        is, its rotation period and what the comet consists of.
+        \nVega 1 ran out of propellant on 30th of January 1987</string>
+    <string name="vega_2">\nVega 2</string>
+    <string name="vega_2_text">\nLaunched on 21st of December 1984, after an uneventful flight towards Venus the descent module containing the lander and the balloon detached from the mothership, entering the atmosphere on 15th of June 1985. Both of them reached their destinations without an issue,
+        the lander completed its descent, landing on the night side of the planet no images were taken. The lander itself was identical to the earlier missions from Venera program. It transmitted from the surface for 56 minutes.
+        \nThe balloon unfurled as expected, at the height of around 50 kilometers (31 miles), before floating back up to the height of between 53 and 54 kilometers (around 33 miles). It has traveled at a steady pace and altitude, floating for 2 days, until 17 of June, and over 11 000 kilometers (6 800 miles)
+        when it lost contact with the ground. It is not known how much farther it went after that.
+        \nThe bus went forward with the gravity assist manoeuvre and followed Vega 1 to intercept Halley\'s Comet, making plenty of photographs and measurements in the progress. After the 3 days spent around there it went back into a heliocentric orbit, the idea of a distant flyby of another comet was
+        considered, alas the idea was shot down due to the shortage of fuel. Instead the craft was sent forward and into tails of three other comets and measured the dust therein.
+        \nContact with the craft was lost on 24th of March 1986, it remains on a heliocentric orbit.</string>
+    <string name="magellan">\nMagellan</string>
+    <string name="magellan_text">\nThe Magellan spacecraft was designed under the principle of saving as much as possible, as such it was built out of spare parts from previous missions. It had parts from Voyager, Pioneer, Galileo, Mariner and others. Ending an 11 year break in US deep space probes Magellan
+        was the first to be launched from the cargo bay of a space shuttle. Launched on the 4th of May 1989 the probe was released from the bay on the following day and started its journey to Venus.
+        \nIt arrived at its destination on 10th of August 1990. After 2 anomalous contact outages and 1 preventative software update upload, on 15th of September 1990, Magellan started its primary mission: to map the surface of Venus. The craft operated in 243 day cycles, synced up with the Venusian rotation speed,
+        the first 2 were focused on radar mapping the surface, completing most of it (96%, with 83% in the first cycle alone), a third cycle used stereo imaging, bringing the total surface mapped to 98%. Another 3 cycles were conducted, mostly focused on gravity of Venus, completing the map alongside those experiments.
+        \nThe results of Magellan\'s mapping showed that most of Venusian surface is covered in lava flows, additionally, despite extreme temperature and pressure on the surface it was established that the complete lack of water made erosion a very slow process. It meant that surface featyres could last for hundreds of
+        thousands of years mostly untouched.
+        \nThe craft was commanded to dive into the atmosphere on 13th of October 1994, burning up and finishing one of the most successful deep space exploration missions ever.</string>
 
 
     <string name="large_text">

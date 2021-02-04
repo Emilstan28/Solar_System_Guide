@@ -9,13 +9,13 @@ import androidx.fragment.app.Fragment;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-class PastResearchSunMissions extends Fragment {
+class EndedResearchSunMissions extends Fragment {
 
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater,
                              @Nullable ViewGroup container,
                              @Nullable Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.fragment_past_research_sun_missions, container, false);
+        return inflater.inflate(R.layout.fragment_ended_research_sun_missions, container, false);
     }
 }

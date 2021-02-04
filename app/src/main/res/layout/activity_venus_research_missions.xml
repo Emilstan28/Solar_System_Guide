@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".VenusResearchMissions">
+
+    <Button
+        android:id="@+id/endedMissionsVenusButton"
+        android:layout_width="119dp"
+        android:layout_height="60dp"
+        android:text="@string/ended_missions"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toTopOf="@+id/frameForFragmentsVenusMissions"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ongoingMissionsVenusButton" />
+
+    <Button
+        android:id="@+id/ongoingMissionsVenusButton"
+        android:layout_width="119dp"
+        android:layout_height="60dp"
+        android:text="@string/ongoing_missions"
+        app:layout_constraintBottom_toTopOf="@+id/endedMissionsVenusButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <FrameLayout
+        android:id="@+id/frameForFragmentsVenusMissions"
+        android:layout_width="408dp"
+        android:layout_height="389dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/endedMissionsVenusButton">
+
+    </FrameLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

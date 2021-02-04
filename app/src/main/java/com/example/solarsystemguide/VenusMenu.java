@@ -29,7 +29,7 @@ public class VenusMenu extends AppCompatActivity {
         learnMoreMissions.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                toMercuryMissions();
+                toVenusMissions();
             }
         });
     }
@@ -40,7 +40,9 @@ public class VenusMenu extends AppCompatActivity {
         startActivity(intent);
     }
 
-    public void toMercuryMissions(){
+    public void toVenusMissions(){
+        Intent intent = new Intent(this, VenusResearchMissions.class);
+        startActivity(intent);
     }
 
 }
