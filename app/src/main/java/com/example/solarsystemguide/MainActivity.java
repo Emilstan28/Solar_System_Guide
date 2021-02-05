@@ -48,6 +48,12 @@ public class MainActivity extends AppCompatActivity {
                 toVenusMenu();
             }
         });
+        marsButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                toMarsMenu();
+            }
+        });
     }
 
     public void toSunMenu() {
@@ -62,6 +68,11 @@ public class MainActivity extends AppCompatActivity {
 
     public void toVenusMenu() {
         Intent intent = new Intent(this, VenusMenu.class);
+        startActivity(intent);
+    }
+
+    public void toMarsMenu() {
+        Intent intent = new Intent(this, MarsMenu.class);
         startActivity(intent);
     }
 

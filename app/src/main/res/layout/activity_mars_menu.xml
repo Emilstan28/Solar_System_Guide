@@ -4,22 +4,22 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".VenusMenu">
+    tools:context=".MarsMenu">
 
     <Button
-        android:id="@+id/buttonLearnMoreVenusInformation"
+        android:id="@+id/buttonLearnMoreMarsInformation"
         android:layout_width="174dp"
         android:layout_height="47dp"
         android:text="@string/learn_more"
         android:textColor="@android:color/background_dark"
-        app:layout_constraintBottom_toTopOf="@+id/textView2"
+        app:layout_constraintBottom_toTopOf="@+id/marsMissionsDone"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/venusRundown" />
+        app:layout_constraintTop_toBottomOf="@+id/marsRundown" />
 
     <Button
-        android:id="@+id/buttonLearnMoreVenusianMissions"
+        android:id="@+id/buttonLearnMoreMartianMissions"
         android:layout_width="174dp"
         android:layout_height="47dp"
         android:text="@string/learn_more"
@@ -28,22 +28,22 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView3" />
+        app:layout_constraintTop_toBottomOf="@+id/marsMissionsOngoing" />
 
     <TextView
-        android:id="@+id/venusRundown"
+        android:id="@+id/marsRundown"
         android:layout_width="415dp"
         android:layout_height="129dp"
-        android:text="@string/venus_rundown"
+        android:text="@string/mars_rundown"
         android:textColor="@android:color/background_dark"
-        app:layout_constraintBottom_toTopOf="@+id/buttonLearnMoreVenusInformation"
+        app:layout_constraintBottom_toTopOf="@+id/buttonLearnMoreMarsInformation"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        android:id="@+id/textView2"
+        android:id="@+id/marsMissionsDone"
         android:layout_width="364dp"
         android:layout_height="52dp"
         android:inputType="none"
@@ -52,14 +52,14 @@
         android:textColor="@android:color/black"
         android:textSize="18sp"
         android:textStyle="bold"
-        app:layout_constraintBottom_toTopOf="@+id/textView3"
+        app:layout_constraintBottom_toTopOf="@+id/marsMissionsOngoing"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/buttonLearnMoreVenusInformation" />
+        app:layout_constraintTop_toBottomOf="@+id/buttonLearnMoreMarsInformation" />
 
     <TextView
-        android:id="@+id/textView3"
+        android:id="@+id/marsMissionsOngoing"
         android:layout_width="364dp"
         android:layout_height="52dp"
         android:inputType="none"
@@ -68,11 +68,11 @@
         android:textColor="@android:color/black"
         android:textSize="18sp"
         android:textStyle="bold"
-        app:layout_constraintBottom_toTopOf="@+id/buttonLearnMoreVenusianMissions"
+        app:layout_constraintBottom_toTopOf="@+id/buttonLearnMoreMartianMissions"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+        app:layout_constraintTop_toBottomOf="@+id/marsMissionsDone" />
 
     <HorizontalScrollView
         android:id="@+id/horizontalScrollView"
@@ -82,7 +82,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/buttonLearnMoreVenusianMissions">
+        app:layout_constraintTop_toBottomOf="@+id/buttonLearnMoreMartianMissions">
 
         <LinearLayout
             android:layout_width="wrap_content"
@@ -90,59 +90,59 @@
             android:orientation="horizontal">
 
             <ImageView
-                android:id="@+id/venusImage1"
+                android:id="@+id/marsImage1"
                 android:layout_width="@dimen/width_picture_in_gallery"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:contentDescription="@string/placeholder"
                 android:minWidth="15dp"
                 android:visibility="visible"
-                app:srcCompat="@drawable/venus_image_small_1"
-                tools:srcCompat="@drawable/venus_image_small_1" />
+                app:srcCompat="@drawable/mars_image_1_small"
+                tools:srcCompat="@drawable/mars_image_1_small" />
 
             <ImageView
-                android:id="@+id/venusImage2"
+                android:id="@+id/marsImage2"
                 android:layout_width="@dimen/width_picture_in_gallery"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:contentDescription="@string/placeholder"
                 android:minWidth="15dp"
                 android:visibility="visible"
-                app:srcCompat="@drawable/venus_image_small_2"
-                tools:srcCompat="@drawable/venus_image_small_2" />
+                app:srcCompat="@drawable/mars_image_2_small"
+                tools:srcCompat="@drawable/mars_image_2_small" />
 
             <ImageView
-                android:id="@+id/venusImage3"
+                android:id="@+id/marsImage3"
                 android:layout_width="@dimen/width_picture_in_gallery"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:contentDescription="@string/placeholder"
                 android:minWidth="15dp"
                 android:visibility="visible"
-                app:srcCompat="@drawable/venus_image_small_3"
-                tools:srcCompat="@drawable/venus_image_small_3" />
+                app:srcCompat="@drawable/mars_image_3_small"
+                tools:srcCompat="@drawable/mars_image_3_small" />
 
             <ImageView
-                android:id="@+id/venusImage4"
+                android:id="@+id/marsImage4"
                 android:layout_width="@dimen/width_picture_in_gallery"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:contentDescription="@string/placeholder"
                 android:minWidth="15dp"
                 android:visibility="visible"
-                app:srcCompat="@drawable/venus_image_small_4"
-                tools:srcCompat="@drawable/venus_image_small_4" />
+                app:srcCompat="@drawable/mars_image_4_small"
+                tools:srcCompat="@drawable/mars_image_4_small" />
 
             <ImageView
-                android:id="@+id/venusImage5"
-                android:layout_width="wrap_content"
+                android:id="@+id/marsImage5"
+                android:layout_width="@dimen/width_picture_in_gallery"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:contentDescription="@string/placeholder"
                 android:minWidth="15dp"
                 android:visibility="visible"
-                app:srcCompat="@drawable/venus_image_small_5"
-                tools:srcCompat="@drawable/venus_image_small_5" />
+                app:srcCompat="@drawable/mars_image_5_small"
+                tools:srcCompat="@drawable/mars_image_5_small" />
 
         </LinearLayout>
     </HorizontalScrollView>

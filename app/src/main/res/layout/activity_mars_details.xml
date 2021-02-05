@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MercuryDetails">
+    tools:context=".MarsDetails">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -18,7 +18,7 @@
             android:orientation="vertical" >
 
             <EditText
-                android:id="@+id/sizesAndDistancesSectionTitleMercuryDetails"
+                android:id="@+id/sizesAndDistancesSectionTitleMarsDetails"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:editable="false"
@@ -29,17 +29,17 @@
                 android:textSize="24sp" />
 
             <TextView
-                android:id="@+id/mercurySizesAndDistancesText"
+                android:id="@+id/marsSizesAndDistancesText"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:inputType="none"
-                android:text="@string/mercury_sizes_and_distances_text"
+                android:text="@string/mars_sizes_and_distances_text"
                 android:textAlignment="center"
                 android:textColor="@android:color/black"
                 android:textSize="15sp" />
 
             <EditText
-                android:id="@+id/orbitAndRotationSectionTitleMercuryDetails"
+                android:id="@+id/orbitAndRotationSectionTitleMarsDetails"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:editable="false"
@@ -50,17 +50,17 @@
                 android:textSize="24sp" />
 
             <TextView
-                android:id="@+id/mercuryOrbitAndRotationText"
+                android:id="@+id/marsOrbitAndRotationText"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:inputType="none"
-                android:text="@string/orbit_and_rotation_mercury_text"
+                android:text="@string/orbit_and_rotation_mars_text"
                 android:textAlignment="center"
                 android:textColor="@android:color/black"
                 android:textSize="15sp" />
 
             <EditText
-                android:id="@+id/historyOfTheMercurySectionTitleSunDetails"
+                android:id="@+id/historyOfMarsSectionTitleSunDetails"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:editable="false"
@@ -71,17 +71,17 @@
                 android:textSize="24sp" />
 
             <TextView
-                android:id="@+id/mercuryHistoryOfTheBodyText"
+                android:id="@+id/marsHistoryOfTheBodyText"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:inputType="none"
-                android:text="@string/history_of_mercury_text"
+                android:text="@string/history_of_mars_text"
                 android:textAlignment="center"
                 android:textColor="@android:color/black"
                 android:textSize="15sp" />
 
             <EditText
-                android:id="@+id/internalStructureSectionTitleMercuryDetails"
+                android:id="@+id/internalStructureSectionTitleMarsDetails"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:editable="false"
@@ -92,24 +92,24 @@
                 android:textSize="24sp" />
 
             <TextView
-                android:id="@+id/internalStructureOfTheMercuryText"
+                android:id="@+id/internalStructureOfMarsText"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:inputType="none"
-                android:text="@string/internal_structure_of_mercury"
+                android:text="@string/internal_structure_of_mars"
                 android:textAlignment="center"
                 android:textColor="@android:color/black"
                 android:textSize="15sp" />
 
             <ImageView
-                android:id="@+id/theInsideOfTheMercury"
+                android:id="@+id/theInsideOfMars"
                 android:layout_width="match_parent"
                 android:layout_height="330dp"
-                android:contentDescription="@string/the_inside_of_the_sun"
-                app:srcCompat="@drawable/mercury_image_internal_small" />
+                android:contentDescription="@string/the_inside_of_mars"
+                app:srcCompat="@drawable/mars_image_internal_small" />
 
             <EditText
-                android:id="@+id/atmosphereOfTheSunSectionTitleMercuryDetails"
+                android:id="@+id/atmosphereOfTheSunSectionTitleMarsDetails"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:editable="false"
@@ -120,15 +120,16 @@
                 android:textSize="24sp" />
 
             <TextView
-                android:id="@+id/atmosphereOfMercuryText"
+                android:id="@+id/atmosphereOfMarsText"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:inputType="none"
-                android:text="@string/atmosphere_of_mercury"
+                android:text="@string/atmosphere_of_mars"
                 android:textAlignment="center"
                 android:textColor="@android:color/black"
                 android:textSize="15sp" />
 
         </LinearLayout>
     </ScrollView>
+
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -621,6 +621,22 @@
             android:textAlignment="center"
             android:textColor="@android:color/background_dark" />
 
+        <TextView
+            android:id="@+id/venusExpressTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/venus_express"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
 
+        <TextView
+            android:id="@+id/venusExpressText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/venus_express_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
     </LinearLayout>
 </androidx.core.widget.NestedScrollView>

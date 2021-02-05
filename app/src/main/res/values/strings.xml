@@ -181,11 +181,11 @@
     <string name="ongoing_venus_mission_count">2 missions ongoing</string>
     <string name="venus_rundown">Second planet in our solar system, but the hottest of all, Venus is the brightest of any planet of our solar system.
         \nIt has thick atmosphere full of gasses creating a greenhouse effect raising the temperature and pressure on the surface to the extreme
-        \nOne of two planets, the other being Uranus, to orbit the Sun in the opposite direction than every other planet in the system.</string>
+        \nOne of two planets, the other being Uranus, to orbit differently on its axis than every other planet in the system.</string>
     <string name="venus_sizes_and_distances_text">With a radius of 6,052 kilometers (3,760 miles) Venus is only slightly smaller than Earth, by mere 300 kilometers.
         \nThe average distance between it and the Sun is 108 million kilometers (67 million miles).</string>
-    <string name="orbit_and_rotation_venus_text">Venus has a reverse orbiting pattern when compared to the other planets, short of Uranus that also goes in the same direction, one full circle on the orbit takes around 225 Earth days.
-        \nThe rotation on its axis is going against the direction of its stellar orbit, making the Venusian day into one of the longest in our solar system, 117 Earth days for a full solar day to go by.
+    <string name="orbit_and_rotation_venus_text">One full orbit takes around 225 Earth days.
+        \nThe rotation on its axis is going with the direction of its stellar orbit, opposite of how all other planets are, making the Venusian day into one of the longest in our solar system, 117 Earth days for a full solar day to go by.
         \nVenus orbits on the most circular orbit in our solar system, being a near perfect circle while every other body has more of an oval shaped orbit.
         \nIts axial tilt is only 3 degrees meaning there are no seasons.</string>
     <string name="history_of_venus_text">Venus is around 4.5 billion years old, forming alongside other bodies in our solar system.
@@ -328,9 +328,48 @@
         was the first to be launched from the cargo bay of a space shuttle. Launched on the 4th of May 1989 the probe was released from the bay on the following day and started its journey to Venus.
         \nIt arrived at its destination on 10th of August 1990. After 2 anomalous contact outages and 1 preventative software update upload, on 15th of September 1990, Magellan started its primary mission: to map the surface of Venus. The craft operated in 243 day cycles, synced up with the Venusian rotation speed,
         the first 2 were focused on radar mapping the surface, completing most of it (96%, with 83% in the first cycle alone), a third cycle used stereo imaging, bringing the total surface mapped to 98%. Another 3 cycles were conducted, mostly focused on gravity of Venus, completing the map alongside those experiments.
-        \nThe results of Magellan\'s mapping showed that most of Venusian surface is covered in lava flows, additionally, despite extreme temperature and pressure on the surface it was established that the complete lack of water made erosion a very slow process. It meant that surface featyres could last for hundreds of
+        \nThe results of Magellan\'s mapping showed that most of Venusian surface is covered in lava flows, additionally, despite extreme temperature and pressure on the surface it was established that the complete lack of water made erosion a very slow process. It meant that surface features could last for hundreds of
         thousands of years mostly untouched.
         \nThe craft was commanded to dive into the atmosphere on 13th of October 1994, burning up and finishing one of the most successful deep space exploration missions ever.</string>
+    <string name="venus_express">\nVenus Express</string>
+    <string name="venus_express_text">\nLaunched on 9th of November 2005 by ESA, the probe was tasked with researching more of the Venusian atmosphere, among others, from a near polar orbit. Getting to Venus on 11th of April 2006, the engine fired putting the craft on an orbit, the first european probe to do so.
+        It took until 7th of May 2007 to achieve the desired orbit for the probe, though experiments were already running in the meantime. Initially it was supposed to last not longer than 500 Earth days, but the mission was extended on 5 separate occasion, ending up going on until 2015. One of the first achievements
+        was a complete temperature of the southern hemisphere of Venus, that was achieved by December 2006. Other achievements included the discovery of proof for past oceans on the surface, as well as, in 2011, a layer of ozone that was determined to exist thanks to the data delivered by the probe.
+        \nThe orbit was constantly being adjusted, raised and lowered at different points in time, in November 2014 it left the craft with barely any fuel to spare for last maneuvers, they were planned for the middle of the month, alas the propellant ran out mid execution, pairing that with patchy signal from the probe
+        Venus Express continued to decay its orbit naturally, sped up by the atmospheric drag present in the lower parts of the orbit. The last signal was received on 19th of January 2015, it\'s believed the probe burnt up in the atmosphere not long after.</string>
+
+
+    <!-- STRINGS FOR THE ONGOING VENUS MISSIONS -->
+
+    <!-- STRINGS FOR DETAILS OF EARTH -->
+
+    <!-- STRINGS FOR DETAILS OF MARS -->
+
+    <string name="ended_mars_mission_count">41 missions ended (including 19 failures and 5 partial failures)</string>
+    <string name="ongoing_mars_mission_count">11 missions ongoing</string>
+    <string name="mars_rundown">Fourth planet of our solar system, known for its red hue thanks to the oxidized iron in the surface.
+        \nThe atmosphere is around 100 times thinner than the one on Earth, dominated by CO2
+        \nDue to the elliptical shape of the orbit the seasons on Mars aren\'t of equal length like they are on Earth.</string>
+    <string name="mars_sizes_and_distances_text">With a radius of 3,390 kilometers (2,106 miles) Mars is around half of Earth\'s size, the entire surface area of the red planet roughly matches the combined land area on Earth.
+        \nThe average distance between it and the Sun is 228 million kilometers (142 million miles).</string>
+    <string name="orbit_and_rotation_mars_text">Martian days are comparable to those on Earth, 24.6 hours on Mars, 23.9 hours on Earth.
+        \nMars has a rather elliptical orbit around our parent star, that combined with a tilt of 24 degrees (similar to Earth\'s 23.4) means that seasons are a thing, but they are not roughly equal length like on here.
+        \nSpring in the north lasts 194 sols (Martian days), summer goes on for 178, autumn for 142 and winter takes 154.
+        \n A single full rotation of Mars around the Sun takes 687 Earth days.</string>
+    <string name="history_of_mars_text">Mars is around 4.5 billion years old, forming alongside other bodies in our solar system.
+        \nOne of 5 planets visible with the naked eye, recorded observations of Mars go back 4000 years to ancient Egypt charting the planet\'s movement on the sky.
+        \nThe first observations with a telescope was done with Galileo in the 17th century. Although uncertain of his success in determining martian phases he did note that it shrunk slightly during his observation.</string>
+    <string name="internal_structure_of_mars">Mars, like other terrestrial planets, has a metallic core between 1,500 to 2,100 kilometers (930 and 1,300 miles) thick with a rocky mantle above it.
+        \nMars is home to the biggest volcano in the solar system, Olympus Mons, it\'s 3 times taller than Mount Everest.
+        \nThe largest valley on Mars, Valles Marineris, stretches on longer than the length of United States, more than 4,800 kilometers (3,000 miles). This Martian canyon is 320 kilometers (200 miles) at its widest and 7 kilometers (4.3 miles) at its deepest..</string>
+    <string name="the_inside_of_mars">The inside of Venus</string>
+    <string name="atmosphere_of_mars">Mars\' atmosphere consists mainly of CO2, but it\'s extremely thin, making any heat that gets to the surface of the planet dissipate nearly immediately.
+        \nIf the temperature on the very surface reaches 24 degrees Celsius or 75 degrees Fahrenheit then just 2 meters (6-7 feet) up it would drop to 0 degrees Celsius or 32 degrees Fahrenheit.
+        \nThere are sandstorms on Mars, the winds can kick up dust creating a cloud that covers the entirety of the surface and it can take months for everything to settle back down.</string>
+
+    <!-- STRINGS FOR PAST MARS MISSIONS -->
+
+    <!-- STRINGS FOR ONGOING MARS MISSIONS -->
 
 
     <string name="large_text">
