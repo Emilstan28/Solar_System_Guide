@@ -157,23 +157,23 @@
 
     <string name="mariner_10_title">Mariner 10</string>
     <string name="mariner_10_text">\nMariner 10 was the first spacecraft to research Mercury, the first mission to explore two planets (Mercury and Venus) in a single mission, the first to use a gravity assist to change its flight path, the first to make more than one pass on its target after initial encounter, and the first to use the solar wind as a major means of spacecraft orientation during flight.
-        \nIt showed that Mercury\'s surface looked much like our Moon\'s, with plenty of craters, as well as brought conclusive evidence of lack of atmosphere around the planet.
-        \nLaunching on November 3rd 1973 the probe did 3 flybys of Mercury as well as a flyby of Venus, returning thousands of pictures of both (over 4000 of Venus and more than 2700 of Mercury).
-        \nOn the closest approach to Mercury Mariner 10 was only 327 kilometers (200 miles) away from the surface. 8 days after that contact was lost for good, this would be the last probe to visit Mercury for 3 decades.</string>
+        \n\nIt showed that Mercury\'s surface looked much like our Moon\'s, with plenty of craters, as well as brought conclusive evidence of lack of atmosphere around the planet.
+        \n\nLaunching on November 3rd 1973 the probe did 3 flybys of Mercury as well as a flyby of Venus, returning thousands of pictures of both (over 4000 of Venus and more than 2700 of Mercury).
+        \n\nOn the closest approach to Mercury Mariner 10 was only 327 kilometers (200 miles) away from the surface. 8 days after that contact was lost for good, this would be the last probe to visit Mercury for 3 decades.</string>
     <string name="messenger_title">\nMESSENGER</string>
     <string name="messenger_text">\nMESSENGER (Mercury Surface, Space Environment, Geochemistry and Ranging), launched August 3rd 2004 was the first spacecraft to successfully orbit Mercury, it did so in 2011.
-        \nThe length of the trip was due to the propellant saving measures taken by the mission control, it consisted of using 1 Earth flyby, 2 Venus flybys and 3 Mercury flybys to nullify the acceleration resulting from getting closer to the Sun.
-        \nMESSENGER has returned over 100 000 pictures, including one of Earth and Moon, plenty of surface pictures of Mercury, photographs of 2 comets, as well as, probably the most impressive, a mosaic of our solar system with every planet visible, short of Uranus and Neptune.
-        \nThe spacecraft\'s mission ended in 2015 when it crashed into the surface of Mercury after it ran out of propellant to keep its orbit up, creating a new crater on the planet\'s surface.</string>
+        \n\nThe length of the trip was due to the propellant saving measures taken by the mission control, it consisted of using 1 Earth flyby, 2 Venus flybys and 3 Mercury flybys to nullify the acceleration resulting from getting closer to the Sun.
+        \n\nMESSENGER has returned over 100 000 pictures, including one of Earth and Moon, plenty of surface pictures of Mercury, photographs of 2 comets, as well as, probably the most impressive, a mosaic of our solar system with every planet visible, short of Uranus and Neptune.
+        \n\nThe spacecraft\'s mission ended in 2015 when it crashed into the surface of Mercury after it ran out of propellant to keep its orbit up, creating a new crater on the planet\'s surface.</string>
 
     <!-- STRINGS FOR ONGOING MERCURY MISSIONS-->
 
     <string name="bepicolombo">BepiColombo</string>
     <string name="bepicolombo_text">BepiColombo, named after an Italian mathematician and engineer Professor Giuseppe (Bepi) Colombo (1920–1984) from the University of Padua, Italy. It is a joint mission between ESA and Japan
         meant to study the composition, geophysics, atmosphere, magnetosphere and history of Mercury.
-        \nThe spacecraft launched on the 20th of October 2018, with the plan of 1 flyby of Earth, 2 flybys of Venus and 6 flybys of Mercury before inserting into an orbit around 2025 with official mission starting early in the following year.
-        \nThe latest milestone in October 2020 was the first successful flyby of Venus of the spacecraft.
-        \nThis mission is the first time ESA and Japan journey to Mercury, as well as the first Mercurial mission to consist of two separate orbiters meant to operate independently.</string>
+        \n\nThe spacecraft launched on the 20th of October 2018, with the plan of 1 flyby of Earth, 2 flybys of Venus and 6 flybys of Mercury before inserting into an orbit around 2025 with official mission starting early in the following year.
+        \n\nThe latest milestone in October 2020 was the first successful flyby of Venus of the spacecraft.
+        \n\nThis mission is the first time ESA and Japan journey to Mercury, as well as the first Mercurial mission to consist of two separate orbiters meant to operate independently.</string>
 
     <!-- STRINGS FOR THE DETAILS OF VENUS -->
 
@@ -296,11 +296,11 @@
     <string name="venera_13_text">\nLaunched on 30th of October 1981 by USSR, together with the identical Venera 14 that launched just a few days later, were a pair of spacecraft designed to take advantage of the 1981 launch window to Venus, landing on the planet on 1st of March 1982. The lander
         tested the compressibility of the soil with spring-loaded arms, as well as cameras to take a panoramic picture of the environment. A drill was used to extract a sample of the soil, using x-ray radiation to determine what type of rock it is made out of, in addition to a set of microphones
         used to record the wind noises, in hope to measure its speed, it was the first ever recording of sound from another planet. The lander lasted for 127 minutes, the design predicted a lifespan of only 32.
-        \nThe rest of the rocket was used as a relay, after leaving Venus it continued to make observations on x-ray and gamma spectrum, the bus continued to operate and send data until at least 25th of April 1983</string>
+        \n\nThe rest of the rocket was used as a relay, after leaving Venus it continued to make observations on x-ray and gamma spectrum, the bus continued to operate and send data until at least 25th of April 1983</string>
     <string name="venera_14">\nVenera 14</string>
     <string name="venera_14_text">\nLaunched on 4th of November 1981 the probe reached Venus in March, the lander\'s final descent on 5th of March 1982. Following a successful landing the craft did the same experiments as its predecessor just a few days back with one notable, and humorous, exception.
         One of the camera caps fell exactly where the spring loaded arms would go to, so the craft measured the compressibility of the cap rather than the Venusian soil. It lasted for 57 minutes, 25 minutes longer than it was designed to survive.
-        \nThe bus of the craft went on into a heliocentric orbit and just like its predecessor provided data on x-ray and gamma spectrum, with it operating until at least 9th of April 1983.</string>
+        \n\nThe bus of the craft went on into a heliocentric orbit and just like its predecessor provided data on x-ray and gamma spectrum, with it operating until at least 9th of April 1983.</string>
     <string name="venera_15">\nVenera 15</string>
     <string name="venera_15_text">\nLaunched on 2nd of June 1983 by USSR, together with the identical Venera 16 that launched a few days after it, were a pair of probes designed to orbit Venus in a polar orbit and use radar to map out the surface of the planet. Inserting into orbit on 10th of October
         1983, a day before its sibling, the crafts started to map out the northern hemisphere of Venus, from the pole down to about 30 degrees N latitude. The orbit was shifted by about 4 degrees in relation to Venera 16 which allowed the areas to be remapped if deemed necessary. Over 8 months of mapping
@@ -310,32 +310,32 @@
     <string name="vega_1">\nVega 1</string>
     <string name="vega_1_text">\nLaunched on 15th of December 1984 by USSR, Vega 1 and Vega 2 were a two target mission, each carrying a lander and a balloon for Venus, with the main part of the spacecraft intending to use Venus for a gravity assist to research the Halley\'s Comet.
         The craft got to Venus on 11th of June 1985, the lander and balloon probe encased in a capsule was let go into the atmosphere, after separating excessive turbulence made the lander instruments deploy too soon, at around 20 km (12 miles) above the surface, only one successfully returned data.
-        \nThe balloon, after separation, was inflated at around 50 km (31 miles) above the surface, rising and staying at between 53 and 54 km afterwards, it glided for over 11 000 km (6800 miles) above the surface, around 30 % of the circumferance of the planet. The balloon gathered data on
+        \n\nThe balloon, after separation, was inflated at around 50 km (31 miles) above the surface, rising and staying at between 53 and 54 km afterwards, it glided for over 11 000 km (6800 miles) above the surface, around 30 % of the circumferance of the planet. The balloon gathered data on
         the middle, most active layer of the atmosphere, getting its pressure, temperature, lightning, illumination levels, and cloud properties.
-        \nFollowing the relaying of information from the lander and the balloon the bus of the craft went forward to meet up with the Halley\'s Comet with Vega 2 close behind. For 3 days both crafts made over 1500 pictures of the comet, giving us a lot of information on the comet, how large the nucleus
+        \n\nFollowing the relaying of information from the lander and the balloon the bus of the craft went forward to meet up with the Halley\'s Comet with Vega 2 close behind. For 3 days both crafts made over 1500 pictures of the comet, giving us a lot of information on the comet, how large the nucleus
         is, its rotation period and what the comet consists of.
-        \nVega 1 ran out of propellant on 30th of January 1987</string>
+        \n\nVega 1 ran out of propellant on 30th of January 1987</string>
     <string name="vega_2">\nVega 2</string>
     <string name="vega_2_text">\nLaunched on 21st of December 1984, after an uneventful flight towards Venus the descent module containing the lander and the balloon detached from the mothership, entering the atmosphere on 15th of June 1985. Both of them reached their destinations without an issue,
         the lander completed its descent, landing on the night side of the planet no images were taken. The lander itself was identical to the earlier missions from Venera program. It transmitted from the surface for 56 minutes.
         \nThe balloon unfurled as expected, at the height of around 50 kilometers (31 miles), before floating back up to the height of between 53 and 54 kilometers (around 33 miles). It has traveled at a steady pace and altitude, floating for 2 days, until 17 of June, and over 11 000 kilometers (6 800 miles)
         when it lost contact with the ground. It is not known how much farther it went after that.
-        \nThe bus went forward with the gravity assist manoeuvre and followed Vega 1 to intercept Halley\'s Comet, making plenty of photographs and measurements in the progress. After the 3 days spent around there it went back into a heliocentric orbit, the idea of a distant flyby of another comet was
+        \n\nThe bus went forward with the gravity assist manoeuvre and followed Vega 1 to intercept Halley\'s Comet, making plenty of photographs and measurements in the progress. After the 3 days spent around there it went back into a heliocentric orbit, the idea of a distant flyby of another comet was
         considered, alas the idea was shot down due to the shortage of fuel. Instead the craft was sent forward and into tails of three other comets and measured the dust therein.
-        \nContact with the craft was lost on 24th of March 1986, it remains on a heliocentric orbit.</string>
+        \n\nContact with the craft was lost on 24th of March 1986, it remains on a heliocentric orbit.</string>
     <string name="magellan">\nMagellan</string>
     <string name="magellan_text">\nThe Magellan spacecraft was designed under the principle of saving as much as possible, as such it was built out of spare parts from previous missions. It had parts from Voyager, Pioneer, Galileo, Mariner and others. Ending an 11 year break in US deep space probes Magellan
         was the first to be launched from the cargo bay of a space shuttle. Launched on the 4th of May 1989 the probe was released from the bay on the following day and started its journey to Venus.
-        \nIt arrived at its destination on 10th of August 1990. After 2 anomalous contact outages and 1 preventative software update upload, on 15th of September 1990, Magellan started its primary mission: to map the surface of Venus. The craft operated in 243 day cycles, synced up with the Venusian rotation speed,
+        \n\nIt arrived at its destination on 10th of August 1990. After 2 anomalous contact outages and 1 preventative software update upload, on 15th of September 1990, Magellan started its primary mission: to map the surface of Venus. The craft operated in 243 day cycles, synced up with the Venusian rotation speed,
         the first 2 were focused on radar mapping the surface, completing most of it (96%, with 83% in the first cycle alone), a third cycle used stereo imaging, bringing the total surface mapped to 98%. Another 3 cycles were conducted, mostly focused on gravity of Venus, completing the map alongside those experiments.
-        \nThe results of Magellan\'s mapping showed that most of Venusian surface is covered in lava flows, additionally, despite extreme temperature and pressure on the surface it was established that the complete lack of water made erosion a very slow process. It meant that surface features could last for hundreds of
+        \n\nThe results of Magellan\'s mapping showed that most of Venusian surface is covered in lava flows, additionally, despite extreme temperature and pressure on the surface it was established that the complete lack of water made erosion a very slow process. It meant that surface features could last for hundreds of
         thousands of years mostly untouched.
-        \nThe craft was commanded to dive into the atmosphere on 13th of October 1994, burning up and finishing one of the most successful deep space exploration missions ever.</string>
+        \n\nThe craft was commanded to dive into the atmosphere on 13th of October 1994, burning up and finishing one of the most successful deep space exploration missions ever.</string>
     <string name="venus_express">\nVenus Express</string>
     <string name="venus_express_text">\nLaunched on 9th of November 2005 by ESA, the probe was tasked with researching more of the Venusian atmosphere, among others, from a near polar orbit. Getting to Venus on 11th of April 2006, the engine fired putting the craft on an orbit, the first european probe to do so.
         It took until 7th of May 2007 to achieve the desired orbit for the probe, though experiments were already running in the meantime. Initially it was supposed to last not longer than 500 Earth days, but the mission was extended on 5 separate occasion, ending up going on until 2015. One of the first achievements
         was a complete temperature of the southern hemisphere of Venus, that was achieved by December 2006. Other achievements included the discovery of proof for past oceans on the surface, as well as, in 2011, a layer of ozone that was determined to exist thanks to the data delivered by the probe.
-        \nThe orbit was constantly being adjusted, raised and lowered at different points in time, in November 2014 it left the craft with barely any fuel to spare for last maneuvers, they were planned for the middle of the month, alas the propellant ran out mid execution, pairing that with patchy signal from the probe
+        \n\nThe orbit was constantly being adjusted, raised and lowered at different points in time, in November 2014 it left the craft with barely any fuel to spare for last maneuvers, they were planned for the middle of the month, alas the propellant ran out mid execution, pairing that with patchy signal from the probe
         Venus Express continued to decay its orbit naturally, sped up by the atmospheric drag present in the lower parts of the orbit. The last signal was received on 19th of January 2015, it\'s believed the probe burnt up in the atmosphere not long after.</string>
 
 
@@ -368,6 +368,44 @@
         \nThere are sandstorms on Mars, the winds can kick up dust creating a cloud that covers the entirety of the surface and it can take months for everything to settle back down.</string>
 
     <!-- STRINGS FOR PAST MARS MISSIONS -->
+
+    <string name="mars_1m_1">Mars 1M No.1</string>
+    <string name="mars_1m_1_text">\nLaunched by USSR on 10th of October 1960 the spacecraft failed to reach orbit around Earth, ending up in a suborbital flight. It has disintegrated in the reentry.</string>
+    <string name="mars_1m_2">\nMars 1M No.2</string>
+    <string name="mars_1m_2_text">\nLaunched by USSR on 14th of October 1960 the rocket failed to reach orbit around Earth due to a problem with cryogenic material, making one of the engines impossible to start.</string>
+    <string name="mars_2mv4_1">\nMars 2MV-4 No.1</string>
+    <string name="mars_2mv4_1_text">\nLaunched by USSR on 24th of October 1962 the craft successfully reached orbit, though a technical problem and a leak caused the main engine to explode, destroying the spacecraft.</string>
+    <string name="mars_2mv3_1">\nMars 2MV-3 No.1</string>
+    <string name="mars_2mv3_1_text">\nLaunched by USSR on 4th of November 1962 the probe reached low Earth orbit successfully though a problem developed as cavitation developed in some parts, causing vibrations that damaged electric systems,
+        preventing the craft from firing towards its destination.</string>
+    <string name="mars_1">\nMars 1</string>
+    <string name="mars_1_text">\nFirst soviet spacecraft with Mars as destination to get past low Earth orbit. Launched on 1st of November 1962 the probe left orbit and directed itself towards an encounter with Mars. A couple days into its interplanetary
+        journey it was noticed that there was a leak, forcing the craft to switch to a secondary stabilization system. On 21st of March 1963 the probe ceased sending signals back to Earth, with the probable cause being failure to orient the antenna properly.
+        The craft is suspected to have its closest approach to Mars on 19th of June 1963.</string>
+    <string name="mariner_3">\nMariner 3</string>
+    <string name="mariner_3_text">\nLaunched on 5th of November 1964 by USA the probe got to orbit without an issue, however a problem with a fairing that failed to detach from the craft made it impossible to extend its solar panels. Though ground
+        control tried to find a workaround their efforts were too late, the probe ran out of power after only 8 hours of flight and the mission had to be called off.</string>
+    <string name="mariner_4">\nMariner 4</string>
+    <string name="mariner_4_text">\nIdentical to Mariner 3 in terms of construction, it was launched on 28th of November 1964 by USA the probe had a successful voyage from Earth to Mars with two of its experiments failing en route.
+        The probe returned the first pictures of Mars just before its closest approach, as well as using its radio signals to measure the pressure on the surface of the planet giving valuable insight to how a possible lander would have to be constructed.
+        The contact was maintained until 1st of October 1965, the probe was reactivated 2 years later in October 1967 to test some attitude control for Venera 6, this lasted until December that year.</string>
+    <string name="zond_2">\nZond 2</string>
+    <string name="zond_2_text">\nLaunched on 30th of November 1964 by USSR Zond 2 was supposed to become the first man made object to impact the surface of Mars. It successfully was placed on track to Mars though due to problems with solar panels not
+        deploying fully the craft was denied full power which made it miss some of its planned burns to put it on an impact trajectory, with contact being lost in May 1965. The probe flew by Mars on 6th of August 1965.</string>
+    <string name="mariner_6">/nMariner 6</string>
+    <string name="mariner_6_text">/nLaunched on 25th of February 1969 by USA, it was first of an identical pair of probes (the second one being Mariner 7) designed for a flyby of Mars. The probes scientific suite was focused fully on the red planet,
+        there were no instruments present to research interplanetary space. The probe took 24 pictures of Mars during its closest approach, as well as measured surface pressure, temperature and atmosphere composition. The on board instruments indicated
+        that the south polar cap consisted of solid carbon dioxide.
+        \n\nThe probe was in contact with Earth until mid 1971.</string>
+    <string name="mariner_7">\nMariner 7</string>
+    <string name="mariner_7_text">\nLaunched on 27th of March 1969 Mariner 7 succeeded in getting into a trajectory towards Mars. On 30th of July 1969 the crafts antenna signal was lost by the tracking station designated to it, with the search efforts
+        being helped by another tracking station. The probe was found and a secondary antenna was activated that worked well until the end of the mission. It was speculated that the problem with signal was due to a micro-meteor impact or a battery explosion.
+        \n\nDespite issues with positioning the probe took over 110 pictures of Mars, with 3 of them showing Phobos. Mariner 7 measured surface pressure and temperature of the planet.
+        \n\nData was received until mid 1971.</string>
+    <string name="mars_2m_no521">\nMars2 2M No.521</string>
+    <string name="mars_2m_no521_text">\nLaunched on 27th of March 1969 by USSR, the rocket never left Earth\'s atmosphere. A problem with the engine of the 3rd stage started a fire that caused the craft to break up.</string>
+    <string name="mars_2m_no522">\nMars2 2M No.522</string>
+    <string name="mars_2m_no522_text">\nLaunched on 2nd of April 1969 by USSR, one of the first stages caught fire right after liftoff, the rocket flew for around 30 seconds before it lost control due to fire, crashing down 48 seconds after launch.</string>
 
     <!-- STRINGS FOR ONGOING MARS MISSIONS -->
 

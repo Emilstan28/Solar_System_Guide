@@ -32,9 +32,10 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="411dp"
-        android:layout_height="89dp"
+        android:layout_width="412dp"
+        android:layout_height="62dp"
         android:text="@string/mercury_rundown"
+        android:textAlignment="center"
         android:textColor="@android:color/background_dark"
         app:layout_constraintBottom_toTopOf="@+id/buttonLearnMoreMercuryInformation"
         app:layout_constraintEnd_toEndOf="parent"

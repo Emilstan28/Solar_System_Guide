@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".EndedResearchVenusMissions">
+<!--    TODO: fix mariner 2 image-->
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -135,6 +137,7 @@
             android:text="@string/sputnik_21_text"
             android:textAlignment="center"
             android:textColor="@android:color/background_dark" />
+
         <TextView
             android:id="@+id/kosmos27Title"
             android:layout_width="match_parent"
@@ -261,7 +264,14 @@
             android:textAlignment="center"
             android:textColor="@android:color/background_dark" />
 
-            <TextView
+        <ImageView
+            android:id="@+id/mariner5Image"
+            android:layout_width="match_parent"
+            android:layout_height="372dp"
+            android:contentDescription="@string/placeholder"
+            android:src="@drawable/mariner_5_image_small" />
+
+        <TextView
             android:id="@+id/kosmos167Title"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -638,5 +648,11 @@
             android:text="@string/venus_express_text"
             android:textAlignment="center"
             android:textColor="@android:color/background_dark" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/width_picture_in_gallery"
+            android:src="@drawable/venus_express_image_1_small" />
     </LinearLayout>
 </androidx.core.widget.NestedScrollView>
