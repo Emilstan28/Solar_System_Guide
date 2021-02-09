@@ -219,7 +219,7 @@
     <string name="sputnik_21_text">\nLaunched by USSR on 12th of September 1962 it got to orbit around Earth. One of the assisting engines exploded causing the rocket to lose control, forming bubbles in the main tank that made the main engine turn off less than a second after it started to fire.
         The probe returned to the ground after a few days.</string>
     <string name="kosmos_27">\nKosmos 27</string>
-    <string name="kosmos_27_text">\nLaunched by USSR on 27th of March 1964, reaching Earth orbit. A circuitry design flaw prevented energy from being sent to altitude control thrusters causing the mission to fail, the spacecraft came back down on the following day.</string>
+    <string name="kosmos_27_text">\nLaunched by USSR on 27th of March 1964, reaching Earth orbit. A circuitry design flaw prevented energy from being sent to attitude control thrusters causing the mission to fail, the spacecraft came back down on the following day.</string>
     <string name="zond_1">\nZond 1</string>
     <string name="zond_1_text">\nLaunched on the 2nd of April 1964 by USSR, it successfully left Earth orbit and headed for Venus. The spacecraft\'s launch vehicle performed without any failure, alas one of the sensor windows cracked causing a slow leak of air.
         The loss of pressure caused the electronic circuits to overheat, contact to the main module was lost shortly after. The mission could still be contacted via the lander module and a correction burn was executed but it was short by about 20 meters per second,
@@ -406,6 +406,74 @@
     <string name="mars_2m_no521_text">\nLaunched on 27th of March 1969 by USSR, the rocket never left Earth\'s atmosphere. A problem with the engine of the 3rd stage started a fire that caused the craft to break up.</string>
     <string name="mars_2m_no522">\nMars2 2M No.522</string>
     <string name="mars_2m_no522_text">\nLaunched on 2nd of April 1969 by USSR, one of the first stages caught fire right after liftoff, the rocket flew for around 30 seconds before it lost control due to fire, crashing down 48 seconds after launch.</string>
+    <string name="mariner_8">\nMariner 8</string>
+    <string name="mariner_8_text">\nLaunched on 9th of May 1971 by USA, the first of two probes meant to study Mars from its orbit the rocket lost control shortly after launch, falling north of Puerto Rico, the problem was traced to a faulty circuit.</string>
+    <string name="kosmos_419">\nKosmos 419</string>
+    <string name="kosmos_419_text">\nLaunched on 10th of May 1971 it was meant to overtake Mariner 8 and 9 probes to become the first spacecraft to orbit the red planet. It had reached orbit around Earth, with the intention being for the main engine to fire an hour and
+        half later, the timer was incorrectly set to one and a half year causing the rocket to fall back down only 2 days later.</string>
+    <string name="mars_2">\nMars 2</string>
+    <string name="mars_2_text">\nLaunched on 19th of May 1971 by USSR, it consisted of an orbiting component as well as a lander with a rover to study the martian surface and the composition of its atmosphere.The probe successfully executed the interplanetary flight to Mars,
+        getting to it without any big trouble and inserting into orbit on 27th of November 1971. It was not, however, the first there. That title goes to Mariner 9 that although launched later than Mars 2 got to the red planet and completed its orbit first.
+        \n\nWhen Mars 2 arrived on site Mars was under one of its planet-covering dust storms. Unable to reprogram the craft the lander was launched immediately after arrival, entering the atmosphere at a steep angle. The landing procedures did not fire, the lander
+        crashed into the surface, becoming the first man made object to do so, although destroying it in the process.
+        \n\nThe probe was meant to send back pictures of the martian surface, the dust storm made it impossible and a big part of the, already limited, memory capacity of the probe was taken up by photographs that did not show anything apart from the massive dust cloud.
+        \n\nMission was shut down and called a success on 22nd of August 1972, the last transmissions were received in July 1972, Mars 2 remains in orbit to this day.</string>
+    <string name="mariner_9">\nMariner 9</string>
+    <string name="mariner_9_text">\nLaunched on 30th of May 1971 by USA, Mariner 9 was the second of the pair of probes meant to orbit around Mars, the first being Mariner 8 that launched and crashed a few weeks before.
+        \n\nAfter a not eventful flight the probe entered orbit around Mars on 14th of November 1971, beating Mars 2 by 13 days to becoming not only the first man made object to achieve orbit around the red planet, but also the first probe to orbit another plnaet in general.
+        \n\nRight after arrival the probe noticed that the planet is completely covered in dust, obscuring any possible photographs from showing the surface. It was only possible on 2nd of January 1972 when dust cleared to start taking photos. They showed many mountains,
+        valleys, including Olympus Mons the tallest peak of the planet, as well as Valles Marineris, a system of canyons named after the probe.
+        \n\nBy 11th of February 1972 NASA announced that the mission completed all of its objectives, though the probe continued to send data until the end of October that same year. All in all Mariner 9 returned over 7 300 photos of the surface, including 80 of martian moons.
+        The probe is still in orbit today, expected to decay in the next 2 years.</string>
+    <string name="mars_3">\nMars 3</string>
+    <string name="mars_3_text">\nLaunched on 28th of May 1971 by USSR, the spacecraft flew to Mars without incident, getting into orbit on 2nd of December 1971. With a planned orbital period of 25 hours the fuel constraints meant it was not possible, as such the craft was put on
+        an orbit of 12 days and 19 hours.
+        \n\nThe descent module was released on the day of orbital insertion, reaching martian atmosphere after 4 hours. After performing an aerobreak, using parachutes and engines for final breaking the lander was the first soft landing on Mars. After 90 seconds it started transmitting
+        data, though only 20 seconds into the transmission it was cut and never recovered. The possible reason is the dust storm that was still going on at the time of the landing interfering with the electronics.
+        \n\nThe orbiter made pictures and calculated data from their observations from December 1971 to March 1972, revealing mountains, traces of hydrogen and oxygen, information on martian gravity and magnetic fields.
+        \n\nThe transmission of that data, both from Mars 2 and Mars 3 went into August 1972, with both probes being deactivated in August, the last transmissions being received in July. Mars 3 is still in orbit.</string>
+    <string name="mars_4">\nMars 4</string>
+    <string name="mars_4_text">\nLaunched on 21st of July 1973 by USSR, the probe went into its interplanetary stage without an issue, though right after a mid-course correction burn two on board computers failed, ensuring the probe had no way to
+        maneuver. That turned its intended mission of an orbiter into a flyby. It returned the pictures from the closest approach to Mars then went back into a heliocentric orbit where it remains to this day.
+        \n\nLast contact with the probe was on 10th of February 1974.</string>
+    <string name="mars_5">\nMars 5</string>
+    <string name="mars_5_text">\nLaunched on 25th of July 1973 by USSR, the probe was successful in getting into orbit around Mars on 12th of February 1974. Right after the insertion the pressurized compartment with scientific instruments began to leak.
+        The controllers on the ground believed it to be the result of a micrometeor impact. Last contact with the probe was on 28th of February 1974.
+        \n\nThroughout its very short lifespan on the orbit of Mars it had returned 180 photographs, with only 43 of them being anywhere near usable, measured the composition of martian soil with gamma ray spectrometer as well as found an ozone layer at
+        an altitude of around 30 kilometers (18 miles).</string>
+    <string name="mars_6">\nMars 6</string>
+    <string name="mars_6_text">\nLaunched on 5th of August 1973 by USSR, it consisted of a bus meant to perform a flyby of Mars and a lander. The craft executed the flight to the red planet without an issue, approaching it in March 1974.
+        \n\nThe lander separated from its carrier on 12th of March 1974 and penetrated the atmosphere. The parachutes opened as planned, with the lander starting to transmit the data even earlier, but it ceased after less than 4 minutes,
+        additionally an on board computer chip got corrupted en route to its intended target rendering most of the data that was returned completely unreadable.</string>
+    <string name="mars_7">\nMars 7</string>
+    <string name="mars_7_text">\nLaunched on 9th of August 1973 by USSR, it was very similar to Mars 6 in that it was also a flyby stage and a lander, with a successful travel to Mars that ended in March 1974.
+        \n\nThe lander initially failed to detach from its probe, although eventually it was successful the delay and a failure in some other components caused the lander to miss the planet entirely, flying by Mars alongside its mothership.
+        The failure was blamed on the crafts transistors.</string>
+    <string name="viking_1">\nViking 1</string>
+    <string name="viking_1_text">\nLaunched on 20th of August 1975 by USA, it consisted of an orbiter and a lander, with the lander being equipped to search for traces of life in the martian soil. The craft reached Mars safely, inserting itself
+        into orbit on 19th of June 1976. A day later the lander was detached from the orbiter and descended to the surface.
+        \n\n<b>The lander</b>
+        \n\nThe lander transmitted high definition, colored photos of its surroundings as well as a 300 degree panorama. The craft recorded temperatures on the surface, although the seismometer was inactive, the testing for traces of life in the soil worked.
+        The results of 4 tests returned 3 negative results and 1 weak positive, with the debate on whether it\'s a false positive or not continuing to this day. In addition the craft scanned the components of the soil, detecting an abundance of sulfur,
+        clearly differentiating the samples from those that came from Earth or the Moon. The lander continued its work until 1982, sending daily and then weekly weather reports to Earth. In January 1982 it was renamed Thomas Mutch Memorial Station in honor of
+        Thomas A. Mutch (1931-1980) the leader of the Viking imaging team who had died Oct. 6, 1980. The lander continued to function until November 1982 when ground control attempted to upload a software update to help with battery drain, instead they overrode
+        the antenna direction system, contact was severed and never recovered.
+        \n\n<b>The orbiter</b>
+        \n\nThe orbiter took many pictures of Mars as well as Phobos and Deimos, as well as acted as a communication relay for the lander. It was deactivated on 7th of August 1980.</string>
+    <string name="viking_2">\nViking 2</string>
+    <string name="viking_2_text">\nLunched on 9th of September 1975 by USA, the craft was for all intents and purposes identical to Viking 1. The probe safely travelled to Mars, inserting into orbit on 7th of August 1976. The probe spent the next
+        couple weeks photographing possible landing sites, with a site chosen the lander was released and touched down safely on 3rd of September 1976.
+        \n\n<b>The lander</b>
+        \n\nAfter touching down the lander sent through images from the surface, showing a surrounding completely different to what Viking 1 was seeing. Instead of hills, the area around the lander was nearly completely flat, the lack of any distinct
+        features making locating the lander from orbit neigh impossible. Still the experiments went forward, with the search for life in the martian soil returning 2 positive results and 2 negative, though the positives are disputed. The lander continued
+        to function until 12th of April 1980.
+        \n\n<b>The orbiter</b>
+        \n\nThe orbiter returned pictures of Mars from orbit, as well as pictures of the two moons. One of its notable feats include coming 28 kilometers (17 miles) of Deimos in May 1977 It continued to serve its purpose until it developed a leak,
+        forcing the probe to be deactivated on 24th of July 1978.
+        \n\nTogether the orbiters returned over 52 000 images of martian surface in better quality than ever before, mapping 97% of the surface while at it. The landers took and transmitted over 4 500 photos from the surface.</string>
+
+
+
 
     <!-- STRINGS FOR ONGOING MARS MISSIONS -->
 
