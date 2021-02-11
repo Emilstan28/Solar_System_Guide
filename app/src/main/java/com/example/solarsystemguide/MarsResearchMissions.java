@@ -8,17 +8,19 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-public class VenusResearchMissions extends AppCompatActivity {
+public class MarsResearchMissions extends AppCompatActivity {
 
     Button pastMissionsButton, ongoingMissionsButton;
-    Fragment pastVenusMissions, ongoingVenusMissions;
+    Fragment pastMarsMissions, ongoingMarsMissions;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_venus_research_missions);
+        setContentView(R.layout.activity_mars_research_missions);
 
-        pastMissionsButton = findViewById(R.id.endedMissionsVenusButton);
+
+
+        pastMissionsButton = findViewById(R.id.endedMissionsMarsButton);
         pastMissionsButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -26,7 +28,7 @@ public class VenusResearchMissions extends AppCompatActivity {
             }
         });
 
-        ongoingMissionsButton = findViewById(R.id.ongoingMissionsVenusButton);
+        ongoingMissionsButton = findViewById(R.id.ongoingMissionsMarsButton);
         ongoingMissionsButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -37,20 +39,23 @@ public class VenusResearchMissions extends AppCompatActivity {
 
 
 
-        pastVenusMissions = new Fragment(R.layout.fragment_ended_research_venus_missions);
-        ongoingVenusMissions = new Fragment(R.layout.fragment_ongoing_research_venus_missions);
+        pastMarsMissions = new Fragment(R.layout.fragment_ended_research_mars_missions);
+        ongoingMarsMissions = new Fragment(R.layout.fragment_ongoing_research_mars_missions);
     }
+
+
 
     public void onEndedMissionsClick(){
         FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
-        transaction.replace(R.id.frameForFragmentsVenusMissions, pastVenusMissions);
+        transaction.replace(R.id.frameForFragmentsMarsMissions, pastMarsMissions);
         transaction.commit();
     }
 
     public void onOngoingMissionsClick(){
         FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
-        transaction.replace(R.id.frameForFragmentsVenusMissions, ongoingVenusMissions);
+        transaction.replace(R.id.frameForFragmentsMarsMissions, ongoingMarsMissions);
         transaction.commit();
     }
+
 
 }

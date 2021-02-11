@@ -64,7 +64,7 @@
         android:layout_width="364dp"
         android:layout_height="52dp"
         android:inputType="none"
-        android:text="@string/ongoing_venus_mission_count"
+        android:text="@string/ongoing_mars_mission_count"
         android:textAlignment="center"
         android:textColor="@android:color/black"
         android:textSize="18sp"

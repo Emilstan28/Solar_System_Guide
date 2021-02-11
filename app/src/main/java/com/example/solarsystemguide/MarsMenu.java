@@ -40,5 +40,7 @@ public class MarsMenu extends AppCompatActivity {
     }
 
     public void toMarsMissions(){
+        Intent intent = new Intent(this, MarsResearchMissions.class);
+        startActivity(intent);
     }
 }

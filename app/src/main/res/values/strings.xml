@@ -178,7 +178,7 @@
     <!-- STRINGS FOR THE DETAILS OF VENUS -->
 
     <string name="ended_venus_mission_count">42 missions ended (including 19 failures)</string>
-    <string name="ongoing_venus_mission_count">2 missions ongoing</string>
+    <string name="ongoing_venus_mission_count">1 missions ongoing</string>
     <string name="venus_rundown">Second planet in our solar system, but the hottest of all, Venus is the brightest of any planet of our solar system.
         \nIt has thick atmosphere full of gasses creating a greenhouse effect raising the temperature and pressure on the surface to the extreme
         \nOne of two planets, the other being Uranus, to orbit differently on its axis than every other planet in the system.</string>
@@ -340,6 +340,15 @@
 
 
     <!-- STRINGS FOR THE ONGOING VENUS MISSIONS -->
+    <string name="akatsuki">\nAkatsuki</string>
+    <string name="akatsuki_text">\nLaunched on 20th of May 2010 by Japan, the probe was meant to study the properties of Venusian atmosphere as well as research how the clouds move and interact with each other.
+        Initial plan was to insert the craft into orbit around Venus on 6th of December 2010, but the main engine of the probe developed an issue that caused the exhaust of the engine to be too hot, damaging some parts.
+        The burn lasted 3 out of the predicted 12 minutes needed to insert into the orbit, and sent the probe back around the sun for the next 5 years.
+        \n\nAnother attempt was possible on 7th of December 2015, with all excess weight vented out of the probe JAXA used attitude control thrusters to insert the probe into orbit, due to low power of those thrusters
+        the orbit was much longer than the planned one, taking 10 days to go around instead of the planned 30 hours of the original idea. Still, the mission continued, with pictures of the planet returning as well as the
+        results of observations of the night side of the planet calling into question the existence of lightning bolts in the atmosphere as no optical proof of them were detected from orbit.
+        \n\nAmong other discoveries Akatsuki discovered something akin to Earth\'s jet stream along the equatorial region as well as signs of highly absorbant material, like water, between the middle and top layer of the atmosphere.
+        The probe continues to be active as of February 2021.</string>
 
     <!-- STRINGS FOR DETAILS OF EARTH -->
 
@@ -471,8 +480,50 @@
         \n\nThe orbiter returned pictures of Mars from orbit, as well as pictures of the two moons. One of its notable feats include coming 28 kilometers (17 miles) of Deimos in May 1977 It continued to serve its purpose until it developed a leak,
         forcing the probe to be deactivated on 24th of July 1978.
         \n\nTogether the orbiters returned over 52 000 images of martian surface in better quality than ever before, mapping 97% of the surface while at it. The landers took and transmitted over 4 500 photos from the surface.</string>
-
-
+    <string name="phobos_1">\nPhobos 1</string>
+    <string name="phobos_1_text">\nLaunched on 7th of July 1988 by USSR, the mission was called and aimed at Phobos to avoid direct competition with previous US missions to the red planet. The craft successfully left Earth and continued on its way
+        towards Mars, alas it would never get there.
+        \n\nThe probe was meant to orbit around Mars and Phobos, including getting in extremely close proximity of the latter, down to 50 meters (160 feet) and dropping a "hopper" made to drill into and study the soil of the satellite.
+        Mid flight between Earth and Mars, however, on 2nd of September 1988, the probe failed to return an expected signal. The problem was traced to a wrong command being sent to the probe, disabling its attitude control thrusters.
+        The craft lost the lock on the sun, making it impossible to orient the solar panels properly, draining the batteries and killing the probe. As a result the ground control team commander got fired.</string>
+    <string name="phobos_2">\nPhobos 2</string>
+    <string name="phobos_2_text">\nThe last probe to be designed and launched by USSR before its collapse, Phobos 2 launched on 12th of July 1988, problems developed while it was transferring between Earth and Mars. The probe was built with 3 computers on
+        board working together, any decision that had to be made required a majority, so 2 of them, to agree on a course of action. By the time the craft entered martian orbit 1 computer has died, another was malfunctioning, leaving only the last one
+        as fully capable, meaning the probe could not do anything major.
+        \n\nPhobos 2 has made 38 pictures of Phobos, mapping out around 80% of the surface and found no evidence of water being present. Its final maneuver was to drop two small landers on the surface, from the height of only 50 meters above the surface.
+        sadly the contact with the craft was lost shortly before that final approach and failed to be reacquired, that happened on 27th of March 1989.</string>
+    <string name="mars_observer">\nMars Observer</string>
+    <string name="mars_observer_text">\nLaunched on 25th of September 1992 by USA, the probe was meant to study martian atmosphere, and its rotation, the magnetic field of the planet and the topography among others. The lander encountered Mars as planned,
+        it was meant to insert into a high elliptical orbit on 24th of August 1993. On 21st of August 1993 the craft lost contact with ground control. Later investigation, with limited evidence, put forward a possible answer as a rapture of a fuel tank, 
+        putting the craft into an uncontrollable spin and cancelling any automatic course instructions, though even that isn\'t a conclusive answer.</string>
+    <string name="mars_global_surveyor">\nMars Global Surveyor</string>
+    <string name="mars_global_surveyor_text">\nLaunched on 7th of November 1996 by USA, it was the first probe to use aerobreaking as a way to adjust its orbit into the correct path. its solar panels were designed to help in that regard, but after arriving
+        at its destination one of the panels refused to open fully which meant that the original plan had to be modified. It took until February of 1999 to put the craft into the right orbit parameters to start the main mission, in the meantime it continued
+        to send valuable data and detailed pictures of the surface, including observing the growth of a dust storm.
+        \n\nOnce in near-polar orbit around the correct altitude the main mission could start. The craft used a laser beam to measure the topography of the terrain below it, for the first time ever mapping out the North Pole of Mars in that way. All in all
+        over 500 billion pulses were sent down to the surface, creating a map more detailed than some areas on Earth. It sent some 240 000 images of the red planet to Earth.
+        \n\nAfter serving its primary surface the probe continued to support future Martian missions, including future rovers, as a communications relay. The probe fell silent on 1st of October 2006, with the last transmission detected on the 4th, contact
+        wasn\'t reestablished. NASA announced the mission to be over on 21st of November 2006, ending a decade long mission.</string>
+    <string name="mars_96">\nMars 96</string>
+    <string name="mars_96_text">\nLaunched on 16th of November 1996 by Russian Space Force, the probe carried a variety of instruments to research the red planet, including pellets of plutonium-238, although only 200 grams of it in total.
+        The probe launched into space, though something went wrong between the third and fourth stage, making the craft lower its orbit down into Earth\'s atmosphere, making it reenter shortly thereafter, possibly crash-landing somewhere around Chile.</string>
+    <string name="mars_pathfinder">\nMars Pathfinder</string>
+    <string name="mars_pathfinder_text">\nLaunched on 4th of December 1996 by USA, the spacecraft had, apart from its scientific targets, been used as proof of several approaches to space exploration, the first being under the motto of "faster, better and cheaper"
+        NASA was tasked with creating a martian exploration mission that did not cost as much as the Viking program, and Pathfinder succeeded in that, costing 1/15th of what Viking program did. It was also the first spacecraft to use inflatable cushions for landing.
+        The mission consisted of a lander and a rover, with the former tasked with sending reports on weather and temperatures while the latter was supposed to research rocks around the landing zone.
+        \n\nThe craft got to Mars without issue, starting its landing procedures on 4th of July 1997, safely going through all the phases of getting to the surface, from atmospheric entry through the deployment of parachutes and firing of the engines to
+        the deployment of protective cushions. Once the craft was firmly on the ground the rover, Sojourner, was deployed. The area that the rover was put down on was suspected to be an ancient flood plain, which was supported by one of the rocks having
+        properties reminiscent of flood rocks. Other samples had marks of volcanism, similar to andesite on Earth.
+        \n\nBoth machines exceeded their expected lifespan, the rover in particular was meant to last only a week and it lasted as long as the lander itself. The last transmission received from Pathfinder was on 27th of September 1997, with NASA continuing
+        to search for a signal up until March the following year. The mission was a resounding success, returning over 16 500 photographs of the surface, as well as millions of measurements of weather. After landing the lander was renamed Sagan Memorial Station.</string>
+    <string name="mars_climate_orbiter">\nMars Climate Orbiter</string>
+    <string name="mars_climate_orbiter_text">\nLaunching on 11th of December 1998 by USA, the probe was meant to lead a 2 year mission using water and dust particles to help with understanding of the martian climate and its history in that regard. Although 
+    the probe successfully got in the vicinity of Mars an error with unit conversion (specifically: instructions being sent without units converted to what the probe was designed to understand), made the probe stray too close to the planet and burn up in the atmophere as the resutl.</string>
+    <string name="mars_polar_lander">\nMars Polar lander</string>
+    <string name="mars_polar_lander_text">\nLaunched on 3rd of January 1999 it consisted of a lander and two small impact probes that were supposed to work in tandem with the Mars Climate Orbiter mission as their relay back to Earth. The mission was designed to
+    use rocket engines throughout the entire descent, rather than relaying on cushions like pathfinder did not too long before. The craft reached Mars on 3rd of December 1999 and entered atmosphere as planned, it wasn\'t heard from again.
+    \n\nInvestigation that followed suggested that the vibrations caused by the deployment of lander legs were confused by the probe with impact, which turned off the engine prematurely and made the probe go into a free-fall that it had no way to recover from or survive.
+    \n\nThe two small probes also failed to return any data after entering the atmosphere of the red planet.</string>
 
 
     <!-- STRINGS FOR ONGOING MARS MISSIONS -->

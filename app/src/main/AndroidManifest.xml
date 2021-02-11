@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MarsDetails"></activity>
+        <activity android:name=".MarsResearchMissions"></activity>
+        <activity android:name=".MarsDetails" />
         <activity android:name=".MarsMenu" />
         <activity android:name=".VenusResearchMissions" />
         <activity android:name=".VenusDetails" />
