@@ -568,5 +568,97 @@
         android:textAlignment="center"
         android:textColor="@android:color/background_dark" />
 
+        <TextView
+            android:id="@+id/nozomiTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/nozomi"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/nozomiText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/nozomi_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/spiritTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/spirit"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/spiritText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/spirit_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/opportunityTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/opportunity"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/opportunityText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/opportunity_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+
+        <TextView
+            android:id="@+id/phoenixTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/phoenix"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/phoenixText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/phoenix_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+
+        <TextView
+            android:id="@+id/phobosgruntTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/phobosgrunt"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/phobosgruntText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/phobosgrunt_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
     </LinearLayout>
 </androidx.core.widget.NestedScrollView>

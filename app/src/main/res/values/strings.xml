@@ -524,7 +524,57 @@
     use rocket engines throughout the entire descent, rather than relaying on cushions like pathfinder did not too long before. The craft reached Mars on 3rd of December 1999 and entered atmosphere as planned, it wasn\'t heard from again.
     \n\nInvestigation that followed suggested that the vibrations caused by the deployment of lander legs were confused by the probe with impact, which turned off the engine prematurely and made the probe go into a free-fall that it had no way to recover from or survive.
     \n\nThe two small probes also failed to return any data after entering the atmosphere of the red planet.</string>
-
+    <string name="nozomi">\nNozomi</string>
+    <string name="nozomi_text">\nLaunched on 3rd of July 1998 by JAXA, the first probe sent to Mars by someone other than USA or Russia. The flight plan called for several flybys of the Moon and Earth to get the craft into the intended
+        trajectory that would lead it towards its target of an elliptic orbit around the red planet, allowing it to study the planets atmosphere and the rate at which oxygen was fleeing it, together with surface research when closer to
+        the planet.
+        \n\nBad luck started after the last of the intended flybys, a faulty valve launched fuel out of the spacecraft, pairing it together with the maneuvers beforehand using more propellant than expected meant that the mission profile
+        had to be redone to match the new situation, but that wouldn\'t be the end. Even with the new profile the probe was damaged by solar flares, frying some internal wiring and damaging a couple systems, in addition to that with the main engine
+        inexplicably coming out damaged effectively caused the mission to end. The ground control had to reroute the vehicle away from Mars to ensure there wouldn\'t be a collision as with the original plan being in orbit the probe was not
+        disinfected properly.
+        \n\nNozomi went off to flyby Mars before ending up in heliocentric orbit, where it remains to this day.</string>
+    <string name="spirit">\nSpirit</string>
+    <string name="spirit_text">\nLaunched on 10th of June 2003 by USA, the first of a pair of rovers sent to Mars with a mission to research the surface rocks in locations that might have supported life in distant past of the planet.
+        The rover was initially expected to traverse around 700 meters and last for 90 martian days, as it turned out Spirit held on for much longer than that.
+        \n\nAfter landing on Mars on 4th of January 2004 the rover immediately went to work sending beautiful pictures of the surface and researching rocks around the landing site. 20 days into the mission a memory error forced a software update
+        after which Spirit continued its mission normally.
+        \n\nThe rover spent 2005 researching from Husband Hill, named after one of the astronauts of Columbia Shuttle final mission, finally reaching the summit in September Spirit made a 360 degree panorama of the surrounding terrain in true color.
+        \n\nBy 2006 the rover was on its way to another hill, McCool. That eventually was cancelled due to one of the wheels locking up however. That event forced the rover to go in reverse, but it also had a silver lining as the wheel, while being
+        dragged on the martian soiled uncovered a layer of silica rich material, indicating interaction between the soil and water.
+        \n\nIn early 2007 NASA uploaded a software update that gave both Spirit and Opportunity the ability to decide whether to transfer photos or not, or extend the arm to take a closer look at a particular rock.
+        \n\nFrom Summer 2007 to April 2009 Spirit experienced a drop in generated energy because of sandstorms on the surface of the planet, degrading the efficiency of its solar panels. Sadly, in May 2009 Spirit got stuck in a patch of soft soil,
+        immobilizing it. After months of trying, unsuccessfully, to free the rover and with another wheel dead the mission was repurposed to act as a stationary science platform, with the plan calling for the vehicle to be tilted so its solar panels
+        could take advantage of the sun while in winter but a desired tilt was never achieved.
+        \n\nSpirit\'s career as a stationary platform lasted only a few months, from January 2010 to March 11th 2010 when the rover lost contact with Earth and hasn\'t regained it since.
+        \n\nNASA called the mission finished on 25th of May 2011, Spirit traversed 7.7 kilometers (4.8 miles) and lasted for over 6 years.</string>
+    <string name="opportunity">\nOpportunity</string>
+    <string name="opportunity_text">\nNicknamed Oppy by NASA it was the second of the twin rovers sent to mars in 2003, it landed on Mars safely in January 2004, immediately going to work.
+        \n\nThe next two years were spent on routine research tasks, with two highlights of finding an unusual meteorite in January 2005 and getting stuck in sand in May that same year. By June the rover was once again free to continue its tasks.
+        \n\nThrough the rest of 2005 and until September 2006 Opportunity continued to drive forward towards its next target, Victoria Crater, stopping at another crater along the way for some more science.
+        \n\nIn 2007 Oppy was hit with the same storm that clouded Spirit, and Opportunity got the worst of it, going so far as for NASA to suspend any activity indefinitely. In September 2007 the rover was back in the game and entered
+        Victoria Crater, it stayed inside for around a year sending out plenty of data about the soil therein.
+        \n\nThe rover\'s next target, Endeavour Crater, was so far away it took until 9th of August 2011 to get there, in which time Opportunity broke the record of longest continuous operation on Mars held up to that point by Viking 1
+        on 20th of May 2010 with Spirit already inactive at that point.
+        \n\nFor the next couple years Opportunity continued its experiments with martian soil, beating a few records while at it. On 16th of May 2013 Opportunity was officially the record holder for any NASA vehicle on another body, beating
+        Apollo 17\'s lunar rover distance, that title got improved on 28th of July 2014 when the rover beat Soviet Lunokhod 2. In the meantime, on 4th of January 2010 Oppy celebrated the 10th anniversary of its arrival on Mars with martian wind
+        clearing up its solar panels, increasing the power it received and increasing hopes for even more mission extensions.
+        \n\nIn 2015 Opportunity got its memory reconfigured to work in RAM only mode following a failure of one of the memory banks that caused repeated system restarts interfering with usual progress. On 25th of March it was announced that
+        Oppy has become the first man made vehicle to pass a marathon distance on another world, clocking in at 42 kilometers (26 miles).
+        \n\nDuring 2016 the rover broke the record of the steepest climb on Mars, clocking at 32 degrees of inclination, on 10th of March.
+        \n\nFebruary of 2017 was then Oppy was directed to head towards a gully dubbed Perseverance Valley, which it reached by May. After an issue with one of the wheels sticking out at a weird angle, and a problem with communications as Mars
+        went behind the Sun the rover finally entered the valley in July. While inside Opportunity reported reduced energy gain from its solar panels.
+        \n\nIn 2018 a historic, Mars-wide sand storm silenced the rover, with the last report received on 10th of June 2018.
+        \n\nWith its life expectancy surpassed 60 times over NASA declared the mission finished and a resounding success ceasing its attempts to contact Oppy on 13th of February 2019.</string>
+    <string name="phoenix">\nPhoenix</string>
+    <string name="phoenix_text">\nLaunched on 4th of August 2007 by USA, it reached Mars on 25th of May 2008 becoming the first spacecraft to be photographed during its descent. It safely touched down in the Green Valley of Vastitas Borealis,
+        a crater in the northern hemisphere. This was the first successful non-cushion assisted landing on Mars since Viking 2, 3 decades earlier.
+        \n\n15 minutes after landing the solar panels extended and Phoenix started its process, sending a 360 degree panoramic shot that showed what was expected from the region- lots of rocks, not many hills or other recognizable features.
+        \n\nFrom May to July the probe analyzed nearby soil, with the results of the experiments concluding that it indeed contained ice water, confirming that there is water on the Red Planet.
+        \n\nPhoenix continued to function and send back more data to Earth, making NASA go back to Viking results to reconsider some more options thanks to the wealth of knowledge provided.
+        \n\nThe last contact was received on 2nd of November 2008 with the martian winter upon it. It has not come back into contact since, with NASA ceasing any further attempts by 1st of December 2008
+        \n\nIn 2010 images from one of the orbiting probes showed conclusively that the probe received severe damage, most likely from the buildup of CO2 ice on its solar panels, breaking them in the process.</string>
+    <string name="phobosgrunt">\nPhobos-Grunt</string>
+    <string name="phobosgrunt_text">\nLaunched on 8th of November 2011, an orbital malfunction cut the mission short on orbit around Earth, it reentered the atmosphere a little above a year later, in 2013.</string>
 
     <!-- STRINGS FOR ONGOING MARS MISSIONS -->
 
