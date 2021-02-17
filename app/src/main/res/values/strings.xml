@@ -354,7 +354,7 @@
 
     <!-- STRINGS FOR DETAILS OF MARS -->
 
-    <string name="ended_mars_mission_count">41 missions ended (including 19 failures and 5 partial failures)</string>
+    <string name="ended_mars_mission_count">36 missions ended (including 19 failures and 5 partial failures)</string>
     <string name="ongoing_mars_mission_count">11 missions ongoing</string>
     <string name="mars_rundown">Fourth planet of our solar system, known for its red hue thanks to the oxidized iron in the surface.
         \nThe atmosphere is around 100 times thinner than the one on Earth, dominated by CO2
@@ -574,9 +574,61 @@
         \n\nThe last contact was received on 2nd of November 2008 with the martian winter upon it. It has not come back into contact since, with NASA ceasing any further attempts by 1st of December 2008
         \n\nIn 2010 images from one of the orbiting probes showed conclusively that the probe received severe damage, most likely from the buildup of CO2 ice on its solar panels, breaking them in the process.</string>
     <string name="phobosgrunt">\nPhobos-Grunt</string>
-    <string name="phobosgrunt_text">\nLaunched on 8th of November 2011, an orbital malfunction cut the mission short on orbit around Earth, it reentered the atmosphere a little above a year later, in 2013.</string>
+    <string name="phobosgrunt_text">\nLaunched on 8th of November 2011, an orbital malfunction cut the mission short on orbit around Earth, it reentered the atmosphere a little over a year later, in 2013.</string>
 
     <!-- STRINGS FOR ONGOING MARS MISSIONS -->
+
+    <string name="mars_odyssey">\nMars Odyssey</string>
+    <string name="mars_odyssey_text">\nLaunched on 7th of April 2001 by NASA, the probe holds the record for the longest continuous activity of a spacecraft around a celestial body that is not Earth.
+        \n\nSince its orbital insertion in October 2001 Mars Odyssey\'s mission has been consistently extended every 2 years with different objectives in mind, for the first two years NASA studied the soil on the planet,
+        discovering among others areas with high concentration of hydrogen suggesting water ice somewhere below the surface, in addition to noticing salts in some areas of land where water used to be abundant.
+        As well as acting as a comms relay for other missions, including the rovers Spirit and Curiosity.
+        \n\nBy 2016 the probe returned more than 208 000 pictures in visible light spectrum and over 188 000 pictures in thermal-infrared ranges.</string>
+    <string name="mars_express">\nMars Express</string>
+    <string name="mars_express_text">\nLaunched on 2nd of June 2003 by NASA, but under the control of ESA, Mars Express has been tasked with researching the martian climate, geology and to search for water on the surface.
+        \n\nAs a result of its search the probe found enough ice water in the polar caps to flood the entirety of the planet, as well as extensive permafrost around the south pole. 
+        \n\nThe probe also researched Mars\' moons and acted as a comms relay for landers and rovers on the surface. 
+        \n\nThe probe also carried a lander named Beagle 2, named after the ship Charles Darwin used on his travels, it never sent back a signal about a successful landing and was considered lost until its discovery in 2015 when 
+        it was noticed by one of the orbiting probes, after extensive photo processing the consensus on failing for the lander to get back to the ground control was attributed to one of the solar panels making it impossible for the 
+        antenna to extend.</string>
+    <string name="mars_reconnaissance_orbiter">\nMars Reconnaissance Orbiter</string>
+    <string name="mars_reconnaissance_orbiter_text">\nLaunching on 12th of August 2005 by NASA the MRO holds the second place for longest continuous operation around Mars.
+        \n\nSince inserting into orbit on 11th of September 2006 MRO has delivered massive amounts of data. By 2010 NASA announced that it has surpassed 100 terabits, more than triple of all other deep space missions combined.
+        In addition to that in 2015 it was announced that this probe alone delivered more data per week than every other active mission to the red planet combined.
+        \n\nMRO returned a wealth on data on past water activity, including possible proof that water might still flow on Mars during the warmest months. The probe also served to assist other ongoing Mars missions in their tasks,
+        including directing Opportunity around the crater it was in after determining the composition of some of the rocks. </string>
+    <string name="curiosity">\nCuriosity</string>
+    <string name="curiosity_text">\nLaunching on 26th of November 2011 by NASA, Curiosity was the biggest and heaviest rover to be sent to Mars yet, with its target being one of the most difficult terrain yet it proved quite the challenge.
+        \n\nAfter arriving in August 2012 the rover was landed in a complex combination of aerobreaking, parachute and rocket assisted descent finished by slowly putting the actual rover on the ground with the help of a crane before
+        its descent rocket flew off and crashed a safe distance away.
+        \n\nIt took until 29th of August for the rover to complete all the tests and begin its normal functioning, researching the soil and rocks seeing if the area the mission is being conducted in would be good for life in the distant past.
+        \n\nIt has succeeded in its mission many times over, finding water, salts, as well as nitrogen in the soil all of which would indicate that microbial life would be possible in the past with the surface of the planet being covered in water.</string>
+    <string name="mangalyaan_mars_orbiter_mission">\nMangalyaan (Mars Orbiter Mission)</string>
+    <string name="mangalyaan_mars_orbiter_mission_text">\nLaunched on 5th of November 2013 by India, the probe is the cheapest mission that was launched to Mars yet, it has successfully reached martian orbit on 23rd of September 2014,
+        studying the red planet\'s atmosphere and soil as well as providing a test bed for technologies to be used in later missions.</string>
+    <string name="maven">\nMAVEN</string>
+    <string name="maven_text">\nLaunched on 18th of November 2013 by NASA, MAVEN (Mars Atmosphere and Volatile Evolution) was meant to study the upper portions of martian atmosphere and give us insight to how the gas therein
+        is escaping into space thanks to solar wind and give us some more information that could serve to understand our own climate better.
+        \n\nInserting into orbit around Mars on 21st of September 2014 MAVEN has repeatedly stooped down to between the upper and lower atmosphere of the red planet, discovering clouds of dust as well as an ultraviolet glow around
+        the north pole area. It has since completed its primary mission, including taking a look at Phobos, at one time it had to make an adjustment to its orbit to avoid colliding with it.
+        \n\nIt has been moved into a more stable orbit in 2019 in anticipation for the next NASA rover to arrive on the scene, indeed it has already been used to communicate with Curiosity. According to NASA it is planned to be
+        used for a while longer, with enough propellant to last it until the 2030 and maybe even longer than that.</string>
+    <string name="trace_gas_orbiter">\nTrace Gas Orbiter</string>
+    <string name="trace_gas_orbiter_text">\nDesigned and directed by ESA, at first it was supposed to be in collaboration with NASA, but after budget cuts NASA abandoned the project so instead ESA partnered up with Roskosmos,
+        launching on 14th of March 2016.
+        \n\nThe mission\'s main task was to look for traces of Methane and other gases in the martian atmosphere, to find out whether the methane that was detected by previous missions was the result of geological or biological
+        processing.
+        \n\nArriving at mars on 19th of October 2016 the mission was inserted into orbit around the red planet, but it hasn\'t started its primary mission until 2018 using aerobreaking to circularize its orbit into satisfying heights.
+         Since then the research on methane and other gasses was underway, with the first reports from 2019 stating there was no detection of methane in the martian atmosphere by the probe, despite the increased sensitivity.</string>
+    <string name="insight">\nInSight</string>
+    <string name="insight_text">\nLaunched on 5th of May 2018 by NASA, the mission was designed to burrow into the surface of the planet and answer some questions about how rocky planets in our solar system, and beyond formed, as well
+        as just how exactly is Mars constructed on the inside.
+        \n\nGetting to Mars in November 2018, the touchdown happened on the 26th. The burrowing instrument, nicknamed mole, has been used on the soil but an unexpected consistency of the regolith made it impossible for the instrument to go
+        deeper than a few inches, it couldn\'t get enough friction to continue down. The team in control of the mole only called it quits on 5th of January 2021, admitting defeat but noting that this experience will surely come in handy in other missions.
+        \n\nOther instruments worked just fine, including the first seismometer brought down to the surface of the red planet, with the first marsquake detected on 6th of April 2016. The lander also sends back daily, comprehensive reports on
+        martian weather that are available to the public.
+        \n\nAlong with InSight NASA launched 2 experimental probes called WALL-E and EVE, both the size of a suitcase the probes were a successful experiment that proved that smaller probes, at a fraction of a cost, are definitely possible.
+        The probes performed a flyby of Mars and provided relays of communication from the InSight as it was landing before continuing to heliocentric orbit where they remain to this day. The last contact with them was 29th of December 2018 and 4th of January 2019 respectively.</string>
 
 
     <string name="large_text">
