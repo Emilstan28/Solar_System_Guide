@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MarsDetails">
+    tools:context=".EarthDetails">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -17,8 +17,8 @@
             android:layout_height="wrap_content"
             android:orientation="vertical" >
 
-            <EditText
-                android:id="@+id/sizesAndDistancesSectionTitleMarsDetails"
+            <TextView
+                android:id="@+id/sizesAndDistancesSectionTitleEarthDetails"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:ems="10"
@@ -26,105 +26,103 @@
                 android:inputType="none"
                 android:text="@string/sizes_and_distances"
                 android:textAlignment="center"
+                android:textColor="@android:color/black"
                 android:textSize="24sp" />
 
             <TextView
-                android:id="@+id/marsSizesAndDistancesText"
+                android:id="@+id/earthSizesAndDistancesText"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:inputType="none"
-                android:text="@string/mars_sizes_and_distances_text"
+                android:text="@string/earth_sizes_and_distances_text"
                 android:textAlignment="center"
                 android:textColor="@android:color/black"
                 android:textSize="15sp" />
 
-            <EditText
-                android:id="@+id/orbitAndRotationSectionTitleMarsDetails"
+            <TextView
+                android:id="@+id/orbitAndRotationSectionTitleEarthDetails"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:ems="10"
                 android:inputType="none"
                 android:text="@string/orbit_and_rotation"
                 android:textAlignment="center"
+                android:textColor="@android:color/black"
                 android:textSize="24sp"
                 android:importantForAutofill="no" />
 
             <TextView
-                android:id="@+id/marsOrbitAndRotationText"
+                android:id="@+id/earthOrbitAndRotationText"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:inputType="none"
-                android:text="@string/orbit_and_rotation_mars_text"
+                android:text="@string/orbit_and_rotation_earth_text"
                 android:textAlignment="center"
                 android:textColor="@android:color/black"
                 android:textSize="15sp" />
 
-            <EditText
-                android:id="@+id/historyOfMarsSectionTitleSunDetails"
+            <TextView
+                android:id="@+id/historyOfEarthSectionTitleSunDetails"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:ems="10"
                 android:inputType="none"
                 android:text="@string/history_of_the_body"
                 android:textAlignment="center"
+                android:textColor="@android:color/black"
                 android:textSize="24sp"
                 android:importantForAutofill="no" />
 
             <TextView
-                android:id="@+id/marsHistoryOfTheBodyText"
+                android:id="@+id/earthHistoryOfTheBodyText"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:inputType="none"
-                android:text="@string/history_of_mars_text"
+                android:text="@string/history_of_earth_text"
                 android:textAlignment="center"
                 android:textColor="@android:color/black"
                 android:textSize="15sp" />
 
-            <EditText
-                android:id="@+id/internalStructureSectionTitleMarsDetails"
+            <TextView
+                android:id="@+id/internalStructureSectionTitleEarthDetails"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:ems="10"
                 android:inputType="none"
                 android:text="@string/internal_structure"
                 android:textAlignment="center"
+                android:textColor="@android:color/black"
                 android:textSize="24sp"
                 android:importantForAutofill="no" />
 
             <TextView
-                android:id="@+id/internalStructureOfMarsText"
+                android:id="@+id/internalStructureOfEarthText"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:inputType="none"
-                android:text="@string/internal_structure_of_mars"
+                android:text="@string/internal_structure_of_earth"
                 android:textAlignment="center"
                 android:textColor="@android:color/black"
                 android:textSize="15sp" />
 
-            <ImageView
-                android:id="@+id/theInsideOfMars"
-                android:layout_width="match_parent"
-                android:layout_height="330dp"
-                android:contentDescription="@string/the_inside_of_mars"
-                app:srcCompat="@drawable/mars_image_internal_small" />
-
-            <EditText
-                android:id="@+id/atmosphereOfTheSunSectionTitleMarsDetails"
+            <TextView
+                android:id="@+id/atmosphereOfTheSunSectionTitleEarthDetails"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:ems="10"
                 android:inputType="none"
                 android:text="@string/atmosphere"
                 android:textAlignment="center"
+                android:textColor="@android:color/black"
                 android:textSize="24sp"
                 android:importantForAutofill="no" />
 
             <TextView
-                android:id="@+id/atmosphereOfMarsText"
+                android:id="@+id/atmosphereOfEarthText"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:inputType="none"
-                android:text="@string/atmosphere_of_mars"
+                android:text="@string/atmosphere_of_earth"
                 android:textAlignment="center"
                 android:textColor="@android:color/black"
                 android:textSize="15sp" />

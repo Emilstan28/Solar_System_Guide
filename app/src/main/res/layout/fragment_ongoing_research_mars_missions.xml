@@ -5,9 +5,189 @@
     android:layout_height="match_parent"
     tools:context=".OngoingResearchMarsMissions">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_margin="@dimen/text_margin"
-        android:text="@string/large_text" />
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/marsOdysseyTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_odyssey"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/marsOdysseyText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_odyssey_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <ImageView
+            android:id="@+id/marsOdysseyImage"
+            android:layout_width="match_parent"
+            android:layout_height="372dp"
+            android:contentDescription="@string/placeholder"
+            android:src="@drawable/mars_odyssey_image_small" />
+
+
+        <TextView
+            android:id="@+id/marsExpressTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_express"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/marsExpressText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_express_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/mroTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_reconnaissance_orbiter"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/mroText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_reconnaissance_orbiter_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <ImageView
+            android:id="@+id/mroImage"
+            android:layout_width="match_parent"
+            android:layout_height="372dp"
+            android:contentDescription="@string/placeholder"
+            android:src="@drawable/mro_image_small" />
+
+        <TextView
+            android:id="@+id/curiosityTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/curiosity"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/curiosityText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/curiosity_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <ImageView
+            android:id="@+id/curiosityImage"
+            android:layout_width="match_parent"
+            android:layout_height="372dp"
+            android:contentDescription="@string/placeholder"
+            android:src="@drawable/curiosity_image_small" />
+
+        <TextView
+            android:id="@+id/mangalyaanMarsOrbiterTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mangalyaan_mars_orbiter_mission"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/mangalyaanMarsOrbiterText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mangalyaan_mars_orbiter_mission_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/mavenTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/maven"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/mavenText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/maven_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <ImageView
+            android:id="@+id/mavenImage"
+            android:layout_width="match_parent"
+            android:layout_height="372dp"
+            android:contentDescription="@string/placeholder"
+            android:src="@drawable/maven_image_small" />
+
+        <TextView
+            android:id="@+id/traceGasOrbiterTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/trace_gas_orbiter"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/traceGasOrbiterText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/trace_gas_orbiter_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/insightTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/insight"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/insightText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/insight_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <ImageView
+            android:id="@+id/insightImage"
+            android:layout_width="match_parent"
+            android:layout_height="372dp"
+            android:contentDescription="@string/placeholder"
+            android:src="@drawable/insight_image_small" />
+    </LinearLayout>
 </androidx.core.widget.NestedScrollView>

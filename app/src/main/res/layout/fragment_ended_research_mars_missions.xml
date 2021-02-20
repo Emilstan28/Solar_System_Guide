@@ -10,563 +10,584 @@
         android:layout_height="wrap_content"
         android:orientation="vertical">
 
-    <TextView
-        android:id="@+id/mars1m1Title"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_1m_1"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark"
-        android:textSize="18sp"
-        android:textStyle="bold" />
+        <TextView
+            android:id="@+id/mars1m1Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_1m_1"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
 
-    <TextView
-        android:id="@+id/mars1m1Text"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_1m_1_text"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark" />
+        <TextView
+            android:id="@+id/mars1m1Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_1m_1_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
 
-    <TextView
-        android:id="@+id/mars1m2Title"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_1m_2"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark"
-        android:textSize="18sp"
-        android:textStyle="bold" />
+        <TextView
+            android:id="@+id/mars1m2Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_1m_2"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
 
-    <TextView
-        android:id="@+id/mars1m2Text"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_1m_2_text"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark" />
+        <TextView
+            android:id="@+id/mars1m2Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_1m_2_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
 
-    <TextView
-        android:id="@+id/mars2mv41Title"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_2mv4_1"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark"
-        android:textSize="18sp"
-        android:textStyle="bold" />
+        <TextView
+            android:id="@+id/mars2mv41Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_2mv4_1"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
 
-    <TextView
-        android:id="@+id/mars2mv41Text"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_2mv4_1_text"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark" />
+        <TextView
+            android:id="@+id/mars2mv41Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_2mv4_1_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
 
-    <TextView
-        android:id="@+id/mars2mv31Title"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_2mv3_1"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark"
-        android:textSize="18sp"
-        android:textStyle="bold" />
+        <TextView
+            android:id="@+id/mars2mv31Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_2mv3_1"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
 
-    <TextView
-        android:id="@+id/mars2mv31Text"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_2mv3_1_text"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark" />
+        <TextView
+            android:id="@+id/mars2mv31Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_2mv3_1_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
 
-    <TextView
-        android:id="@+id/mars1Title"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_1"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark"
-        android:textSize="18sp"
-        android:textStyle="bold" />
+        <TextView
+            android:id="@+id/mars1Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_1"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
 
-    <TextView
-        android:id="@+id/mars1Text"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_1_text"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark" />
+        <TextView
+            android:id="@+id/mars1Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_1_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
 
-    <TextView
-        android:id="@+id/mariner3Title"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mariner_3"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark"
-        android:textSize="18sp"
-        android:textStyle="bold" />
+        <TextView
+            android:id="@+id/mariner3Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mariner_3"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
 
-    <TextView
-        android:id="@+id/mariner3Text"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mariner_3_text"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark" />
+        <TextView
+            android:id="@+id/mariner3Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mariner_3_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
 
-    <TextView
-        android:id="@+id/mariner4Title"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mariner_4"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark"
-        android:textSize="18sp"
-        android:textStyle="bold" />
+        <TextView
+            android:id="@+id/mariner4Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mariner_4"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
 
-    <TextView
-        android:id="@+id/mariner4Text"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mariner_4_text"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark" />
+        <TextView
+            android:id="@+id/mariner4Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mariner_4_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
 
-    <TextView
-        android:id="@+id/zond2Title"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/zond_2"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark"
-        android:textSize="18sp"
-        android:textStyle="bold" />
+        <TextView
+            android:id="@+id/zond2Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/zond_2"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
 
-    <TextView
-        android:id="@+id/zond2Text"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/zond_2_text"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark" />
+        <TextView
+            android:id="@+id/zond2Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/zond_2_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
 
-    <TextView
-        android:id="@+id/mariner6Title"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mariner_6"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark"
-        android:textSize="18sp"
-        android:textStyle="bold" />
+        <TextView
+            android:id="@+id/mariner6Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mariner_6"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
 
-    <TextView
-        android:id="@+id/mariner6Text"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mariner_6_text"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark" />
+        <TextView
+            android:id="@+id/mariner6Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mariner_6_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
 
-    <TextView
-        android:id="@+id/mariner7Title"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mariner_7"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark"
-        android:textSize="18sp"
-        android:textStyle="bold" />
+        <ImageView
+            android:id="@+id/mariner6Image"
+            android:layout_width="match_parent"
+            android:layout_height="372dp"
+            android:contentDescription="@string/placeholder"
+            android:src="@drawable/mariner_6_image_small" />
 
-    <TextView
-        android:id="@+id/mariner7Text"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mariner_7_text"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark" />
+        <TextView
+            android:id="@+id/mariner7Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mariner_7"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
 
-    <TextView
-        android:id="@+id/mars2mno521Title"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_2m_no521"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark"
-        android:textSize="18sp"
-        android:textStyle="bold" />
+        <TextView
+            android:id="@+id/mariner7Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mariner_7_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
 
-    <TextView
-        android:id="@+id/mars2mno521Text"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_2m_no521_text"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark" />
+        <TextView
+            android:id="@+id/mars2mno521Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_2m_no521"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
 
-    <TextView
-        android:id="@+id/mars2mNo522Title"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_2m_no522"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark"
-        android:textSize="18sp"
-        android:textStyle="bold" />
+        <TextView
+            android:id="@+id/mars2mno521Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_2m_no521_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
 
-    <TextView
-        android:id="@+id/mars2mNo522Text"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_2m_no522_text"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark" />
+        <TextView
+            android:id="@+id/mars2mNo522Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_2m_no522"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
 
-    <TextView
-        android:id="@+id/mariner8Title"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mariner_8"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark"
-        android:textSize="18sp"
-        android:textStyle="bold" />
+        <TextView
+            android:id="@+id/mars2mNo522Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_2m_no522_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
 
-    <TextView
-        android:id="@+id/mariner8Text"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mariner_8_text"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark" />
+        <TextView
+            android:id="@+id/mariner8Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mariner_8"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
 
-    <TextView
-        android:id="@+id/kosmos419Title"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/kosmos_419"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark"
-        android:textSize="18sp"
-        android:textStyle="bold" />
+        <TextView
+            android:id="@+id/mariner8Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mariner_8_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
 
-    <TextView
-        android:id="@+id/kosmos419Text"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/kosmos_419_text"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark" />
+        <TextView
+            android:id="@+id/kosmos419Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/kosmos_419"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
 
-    <TextView
-        android:id="@+id/mars2Title"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_2"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark"
-        android:textSize="18sp"
-        android:textStyle="bold" />
+        <TextView
+            android:id="@+id/kosmos419Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/kosmos_419_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
 
-    <TextView
-        android:id="@+id/mars2Text"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_2_text"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark" />
+        <TextView
+            android:id="@+id/mars2Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_2"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
 
-    <TextView
-        android:id="@+id/mariner9Title"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mariner_9"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark"
-        android:textSize="18sp"
-        android:textStyle="bold" />
+        <TextView
+            android:id="@+id/mars2Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_2_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
 
-    <TextView
-        android:id="@+id/mariner9Text"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mariner_9_text"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark" />
+        <TextView
+            android:id="@+id/mariner9Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mariner_9"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
 
-    <TextView
-        android:id="@+id/mars3Title"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_3"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark"
-        android:textSize="18sp"
-        android:textStyle="bold" />
+        <TextView
+            android:id="@+id/mariner9Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mariner_9_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
 
-    <TextView
-        android:id="@+id/mars3Text"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_3_text"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark" />
+        <TextView
+            android:id="@+id/mars3Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_3"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
 
-    <TextView
-        android:id="@+id/mars4Title"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_4"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark"
-        android:textSize="18sp"
-        android:textStyle="bold" />
+        <TextView
+            android:id="@+id/mars3Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_3_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
 
-    <TextView
-        android:id="@+id/mars4Text"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_4_text"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark" />
+        <TextView
+            android:id="@+id/mars4Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_4"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
 
-    <TextView
-        android:id="@+id/mars5Title"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_5"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark"
-        android:textSize="18sp"
-        android:textStyle="bold" />
+        <TextView
+            android:id="@+id/mars4Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_4_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
 
-    <TextView
-        android:id="@+id/mars5Text"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_5_text"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark" />
+        <TextView
+            android:id="@+id/mars5Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_5"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
 
-    <TextView
-        android:id="@+id/mars6Title"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_6"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark"
-        android:textSize="18sp"
-        android:textStyle="bold" />
+        <TextView
+            android:id="@+id/mars5Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_5_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
 
-    <TextView
-        android:id="@+id/mars6Text"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_6_text"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark" />
+        <TextView
+            android:id="@+id/mars6Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_6"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
 
-    <TextView
-        android:id="@+id/mars7Title"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_7"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark"
-        android:textSize="18sp"
-        android:textStyle="bold" />
+        <TextView
+            android:id="@+id/mars6Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_6_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
 
-    <TextView
-        android:id="@+id/mars7Text"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_7_text"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark" />
+        <TextView
+            android:id="@+id/mars7Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_7"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
 
-    <TextView
-        android:id="@+id/viking1Title"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/viking_1"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark"
-        android:textSize="18sp"
-        android:textStyle="bold" />
+        <TextView
+            android:id="@+id/mars7Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_7_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
 
-    <TextView
-        android:id="@+id/viking1Text"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/viking_1_text"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark" />
+        <TextView
+            android:id="@+id/viking1Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/viking_1"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
 
-    <TextView
-        android:id="@+id/viking2Title"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/viking_2"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark"
-        android:textSize="18sp"
-        android:textStyle="bold" />
+        <TextView
+            android:id="@+id/viking1Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/viking_1_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
 
-    <TextView
-        android:id="@+id/viking2Text"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/viking_2_text"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark" />
+        <TextView
+            android:id="@+id/viking2Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/viking_2"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
 
-    <TextView
-        android:id="@+id/phobos1Title"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/phobos_1"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark"
-        android:textSize="18sp"
-        android:textStyle="bold" />
+        <TextView
+            android:id="@+id/viking2Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/viking_2_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
 
-    <TextView
-        android:id="@+id/phobos1Text"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/phobos_1_text"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark" />
+        <ImageView
+            android:id="@+id/vikingImage"
+            android:layout_width="match_parent"
+            android:layout_height="372dp"
+            android:contentDescription="@string/placeholder"
+            android:src="@drawable/viking_lander_image_small" />
 
-    <TextView
-        android:id="@+id/phobos2Title"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/phobos_2"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark"
-        android:textSize="18sp"
-        android:textStyle="bold" />
+        <TextView
+            android:id="@+id/phobos1Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/phobos_1"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
 
-    <TextView
-        android:id="@+id/phobos2Text"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/phobos_2_text"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark" />
+        <TextView
+            android:id="@+id/phobos1Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/phobos_1_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
 
-    <TextView
-        android:id="@+id/marsObserverTitle"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_observer"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark"
-        android:textSize="18sp"
-        android:textStyle="bold" />
+        <TextView
+            android:id="@+id/phobos2Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/phobos_2"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
 
-    <TextView
-        android:id="@+id/marsObserverText"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_observer_text"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark" />
+        <TextView
+            android:id="@+id/phobos2Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/phobos_2_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
 
-    <TextView
-        android:id="@+id/marsGlobalSurveyorTitle"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_global_surveyor"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark"
-        android:textSize="18sp"
-        android:textStyle="bold" />
+        <TextView
+            android:id="@+id/marsObserverTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_observer"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
 
-    <TextView
-        android:id="@+id/marsGlobalSurveyorText"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_global_surveyor_text"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark" />
+        <TextView
+            android:id="@+id/marsObserverText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_observer_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
 
-    <TextView
-        android:id="@+id/mars96Title"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_96"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark"
-        android:textSize="18sp"
-        android:textStyle="bold" />
+        <TextView
+            android:id="@+id/marsGlobalSurveyorTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_global_surveyor"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
 
-    <TextView
-        android:id="@+id/mars96Text"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_96_text"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark" />
+        <TextView
+            android:id="@+id/marsGlobalSurveyorText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_global_surveyor_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
 
-    <TextView
-        android:id="@+id/marsPathfinderTitle"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_pathfinder"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark"
-        android:textSize="18sp"
-        android:textStyle="bold" />
+        <TextView
+            android:id="@+id/mars96Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_96"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
 
-    <TextView
-        android:id="@+id/marsPathfinderText"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_pathfinder_text"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark" />
+        <TextView
+            android:id="@+id/mars96Text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_96_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
 
-    <TextView
-        android:id="@+id/marsClimateOrbiterTitle"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_climate_orbiter"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark"
-        android:textSize="18sp"
-        android:textStyle="bold" />
+        <TextView
+            android:id="@+id/marsPathfinderTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_pathfinder"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
 
-    <TextView
-        android:id="@+id/marsClimateOrbiterText"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_climate_orbiter_text"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark" />
+        <TextView
+            android:id="@+id/marsPathfinderText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_pathfinder_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
 
-    <TextView
-        android:id="@+id/marsPolarLanderTitle"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_polar_lander"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark"
-        android:textSize="18sp"
-        android:textStyle="bold" />
+        <ImageView
+            android:id="@+id/pathfinderImage"
+            android:layout_width="match_parent"
+            android:layout_height="372dp"
+            android:contentDescription="@string/placeholder"
+            android:src="@drawable/pathfinder_image_small" />
 
-    <TextView
-        android:id="@+id/marsPolarLanderText"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/mars_polar_lander_text"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark" />
+        <TextView
+            android:id="@+id/marsClimateOrbiterTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_climate_orbiter"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/marsClimateOrbiterText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_climate_orbiter_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/marsPolarLanderTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_polar_lander"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/marsPolarLanderText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mars_polar_lander_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
 
         <TextView
             android:id="@+id/nozomiTitle"
@@ -622,6 +643,13 @@
             android:textAlignment="center"
             android:textColor="@android:color/background_dark" />
 
+        <ImageView
+            android:id="@+id/opportunityImage"
+            android:layout_width="match_parent"
+            android:layout_height="372dp"
+            android:contentDescription="@string/placeholder"
+            android:src="@drawable/opportunity_spirit_image_small" />
+
 
         <TextView
             android:id="@+id/phoenixTitle"
@@ -640,6 +668,13 @@
             android:text="@string/phoenix_text"
             android:textAlignment="center"
             android:textColor="@android:color/background_dark" />
+
+        <ImageView
+            android:id="@+id/phoenixImage"
+            android:layout_width="match_parent"
+            android:layout_height="372dp"
+            android:contentDescription="@string/placeholder"
+            android:src="@drawable/phoenix_image_small" />
 
 
         <TextView

@@ -352,6 +352,24 @@
 
     <!-- STRINGS FOR DETAILS OF EARTH -->
 
+    <string name="earth_rundown">The third planet in our solar system, the biggest of all rocky planets and fifth biggest overall.
+        \nThe only planet not named after a Roman god or goddess, instead the name is a Germanic word.
+        \nIt is so far the only planet we know of that harbors life as we know it.</string>
+    <string name="earth_sizes_and_distances_text">With a radius of 6,371 kilometers (3,959 miles) Earth is the biggest of the 4 planets nearest to the Sun, outgrowing the second Venus by around 300 km (180 miles).
+        \nThe average distance between it and the Sun is 150 million kilometers (93 million miles), or one Astronomical Unit.</string>
+    <string name="orbit_and_rotation_earth_text">One full orbit takes 365.24 days.
+        \nOne rotation on the axis of the planet takes 23.9 hours to complete.
+        \nThe tilt of Earth comes at 23.4 degrees, making seasons possible.</string>
+    <string name="history_of_earth_text">Earth is around 4.5 billion years old, forming alongside other bodies in our solar system.
+        \nAt first believed to be a flat disk the shape of our planet was confirmed as a sphere with the return of the expedition of Magellan in 16th century, even before, in ancient times, there were calculations that were remarkably accurate for the size of our home.</string>
+    <string name="internal_structure_of_earth">Earth has a metallic core about 1,221 km (759 miles) thick with an inner core of 2,300 kilometers (1,400 miles) then a liquid mantle above it.
+        \nThe surface of the planet is full of volcanoes, most of which are underwater.
+        \nVenus has plenty of valleys and mountains, the tallest being Mount Everest, is 8.8 kilometers high (29,000 feet).</string>
+    <string name="the_inside_of_earth">The inside of Earth</string>
+    <string name="atmosphere_of_earth">Earth\'s atmosphere consists of 78 percent nitrogen, 21 percent oxygen, and 1 percent other gases such as argon, carbon dioxide and neon.
+        \nComing it at around 100 kilometers thick the atmosphere around our planet protects us from meteors striking the surface and doing serious damage as well as keeps the temperature on the surface stable.</string>
+    <string name="earth_live">See Earth live</string>
+
     <!-- STRINGS FOR DETAILS OF MARS -->
 
     <string name="ended_mars_mission_count">36 missions ended (including 19 failures and 5 partial failures)</string>
@@ -589,7 +607,7 @@
         \n\nAs a result of its search the probe found enough ice water in the polar caps to flood the entirety of the planet, as well as extensive permafrost around the south pole. 
         \n\nThe probe also researched Mars\' moons and acted as a comms relay for landers and rovers on the surface. 
         \n\nThe probe also carried a lander named Beagle 2, named after the ship Charles Darwin used on his travels, it never sent back a signal about a successful landing and was considered lost until its discovery in 2015 when 
-        it was noticed by one of the orbiting probes, after extensive photo processing the consensus on failing for the lander to get back to the ground control was attributed to one of the solar panels making it impossible for the 
+        it was noticed by one of the orbiting probes, after extensive photo processing the consensus on failing for the lander to get back to the ground control was attributed to one of the solar panels not deploying making it impossible for the
         antenna to extend.</string>
     <string name="mars_reconnaissance_orbiter">\nMars Reconnaissance Orbiter</string>
     <string name="mars_reconnaissance_orbiter_text">\nLaunching on 12th of August 2005 by NASA the MRO holds the second place for longest continuous operation around Mars.

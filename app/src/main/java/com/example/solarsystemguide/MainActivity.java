@@ -48,6 +48,12 @@ public class MainActivity extends AppCompatActivity {
                 toVenusMenu();
             }
         });
+        earthButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                toEarthMenu();
+            }
+        });
         marsButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -68,6 +74,11 @@ public class MainActivity extends AppCompatActivity {
 
     public void toVenusMenu() {
         Intent intent = new Intent(this, VenusMenu.class);
+        startActivity(intent);
+    }
+
+    public void toEarthMenu() {
+        Intent intent = new Intent(this, EarthMenu.class);
         startActivity(intent);
     }
 
