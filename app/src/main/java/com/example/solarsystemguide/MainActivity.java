@@ -60,6 +60,12 @@ public class MainActivity extends AppCompatActivity {
                 toMarsMenu();
             }
         });
+        jupiterButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                toJupiterMenu();
+            }
+        });
     }
 
     public void toSunMenu() {
@@ -87,5 +93,9 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void toJupiterMenu() {
+        Intent intent = new Intent(this, JupiterMenu.class);
+        startActivity(intent);
+    }
 
 }

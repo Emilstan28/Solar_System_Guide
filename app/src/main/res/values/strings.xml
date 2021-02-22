@@ -364,7 +364,7 @@
         \nAt first believed to be a flat disk the shape of our planet was confirmed as a sphere with the return of the expedition of Magellan in 16th century, even before, in ancient times, there were calculations that were remarkably accurate for the size of our home.</string>
     <string name="internal_structure_of_earth">Earth has a metallic core about 1,221 km (759 miles) thick with an inner core of 2,300 kilometers (1,400 miles) then a liquid mantle above it.
         \nThe surface of the planet is full of volcanoes, most of which are underwater.
-        \nVenus has plenty of valleys and mountains, the tallest being Mount Everest, is 8.8 kilometers high (29,000 feet).</string>
+        \nEarth has plenty of valleys and mountains, the tallest being Mount Everest, is 8.8 kilometers high (29,000 feet).</string>
     <string name="the_inside_of_earth">The inside of Earth</string>
     <string name="atmosphere_of_earth">Earth\'s atmosphere consists of 78 percent nitrogen, 21 percent oxygen, and 1 percent other gases such as argon, carbon dioxide and neon.
         \nComing it at around 100 kilometers thick the atmosphere around our planet protects us from meteors striking the surface and doing serious damage as well as keeps the temperature on the surface stable.</string>
@@ -648,6 +648,30 @@
         \n\nAlong with InSight NASA launched 2 experimental probes called WALL-E and EVE, both the size of a suitcase the probes were a successful experiment that proved that smaller probes, at a fraction of a cost, are definitely possible.
         The probes performed a flyby of Mars and provided relays of communication from the InSight as it was landing before continuing to heliocentric orbit where they remain to this day. The last contact with them was 29th of December 2018 and 4th of January 2019 respectively.</string>
 
+
+    <!-- STRINGS FOR DETAILS OF JUPITER -->
+
+
+    <string name="ended_jupiter_mission_count">8 missions ended (no failures)</string>
+    <string name="ongoing_jupiter_mission_count">1 mission ongoing</string>
+    <string name="jupiter_rundown">The fifth planet in our solar system, the biggest of all planets, weighing more than twice as heavy as every other planet combined.
+        \nFittingly named after the king of Roman god.
+        \nIt is home of the biggest ocean in the solar system, made of liquid hydrogen rather than water like on Earth.</string>
+    <string name="jupiter_sizes_and_distances_text">With a radius of 69,911 kilometers (43,440 miles) Jupiter is the biggest planet in our solar system, 11 times the size of Earth and 317 times its mass.
+        \nThe average distance between it and the Sun is 778 million kilometers (778 million miles), or 5.2 Astronomical Units.</string>
+    <string name="orbit_and_rotation_jupiter_text">One full orbit takes 4,333 days, that\'s around 12 Earth years.
+        \nOne rotation on the axis of the planet takes only 10 hours to complete, the shortest day of any planet.
+        \nThe tilt of only 3 degrees makes seasons non existent in nearly all but name.</string>
+    <string name="history_of_jupiter_text">Jupiter is around 4.5 billion years old, forming alongside other bodies in our solar system.
+        \nObserved by Galileo in 1610 the astronomer discovered the 4 biggest moons of the jovian system, now known as Io, Europa, Ganymede and Callisto. That observation added substantial weight to abolishing the
+        theory that everything would be orbiting around Earth.</string>
+    <string name="internal_structure_of_jupiter">Jupiter\s core is quite the mystery. We know that deep below the cloud cover of mostly hydrogen and helium, not unlike our sun, is a gigantic ocean of liquid hydrogen,
+        the internal pressure below the surface might make the liquid conductive to be alike to a solid, allowing the massive magnetic field to be created, however we can\'t know for sure whether the very core is solid
+        or simply a super dense continuation of the internal ocean.
+        \nAs Jupiter is a gas giant there is no solid surface you could land on.</string>
+    <string name="the_inside_of_jupiter">The inside of Jupiter</string>
+    <string name="atmosphere_of_jupiter">Jupiter\'s atmosphere consists of 89.8% percent hydrogen, 10.2 percent helium. Close to the consistency of Sun\'s plasma, differing by near 15% with both.
+        \nThe top part of the planet\'s internal structure is taken up by three layers of clouds of water and ammonia getting carried by masses of hydrogen and helium in the atmosphere, the famous red spot is a centuries old storm.</string>
 
     <string name="large_text">
         "Material is the metaphor.\n\n"

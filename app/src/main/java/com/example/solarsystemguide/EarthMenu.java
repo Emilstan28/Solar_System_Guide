@@ -45,7 +45,9 @@ public class EarthMenu extends AppCompatActivity {
         startActivity(intent);
     }
 
-    public void toSeeEarthLive(){
+    public void toSeeEarthLive() {
+        Intent intent = new Intent(this, EarthLiveTest.class);
+        startActivity(intent);
     }
 
 
