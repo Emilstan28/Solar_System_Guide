@@ -673,6 +673,42 @@
     <string name="atmosphere_of_jupiter">Jupiter\'s atmosphere consists of 89.8% percent hydrogen, 10.2 percent helium. Close to the consistency of Sun\'s plasma, differing by near 15% with both.
         \nThe top part of the planet\'s internal structure is taken up by three layers of clouds of water and ammonia getting carried by masses of hydrogen and helium in the atmosphere, the famous red spot is a centuries old storm.</string>
 
+    <!-- STRINGS FOR PAST JUPITER MISSIONS -->
+
+    <string name="pioneer_10">\nPioneer 10</string>
+    <string name="pioneer_10_text">\nLaunched by NASA on 2nd of March 1972, the probe was designed to last for around 21 months, until the encounter with Jupiter, it would go on to work for over 3 decades instead.
+        \n\nPioneer 10 has several, possibly yet to be matched, first achievements in its name. It was the first to go beyond Mars, to go through the asteroid field, to fly by Jupiter, to go beyond Neptune, to go on an
+        interstellar trajectory as well as the first to be powered fully by nuclear power.
+        \n\nThe probe\'s life was an eventful one, after being sent into space it became the fastest man made object up to that point. Through the transition stage the only issues were with direct sunlight heating up the
+        spacecraft, but it wasn\'t anything that would threaten the mission. During the encounter with Jupiter Pioneer 10 has measured its magnetic field, helping us understand just how big it is, as well as took marvelous
+        photographs as well as plenty of data on it and its moons.
+        \n\nRoutine contact was kept up until 1997, when it was reduced due to the budget, but intermittent contact was still available. The last time Pioneer 10 sent back data was on 23rd of January 2003. It became quite
+        clear that the power source has decayed too much, not giving enough power to the antenna to transmit anymore.
+        \n\nIn case the probe was ever captured by intelligent life it contains a plaque with information on humans as well as the location of Earth, the probe is on a general heading to encounter another star, but it would
+        take some 2 million years before it gets there.</string>
+    <string name="pioneer_11">\nPioneer 11</string>
+    <string name="pioneer_11_text">\nLaunching on 6th of April 1973, the probe was a twin to earlier Pioneer 10, aimed to flyby Saturn by using Jupiter for gravitational assist.
+        \n\nAfter a couple technical issues, thankfully none serious enough to actually stop the mission from progressing, Pioneer 11 flew by Jupiter around 3 times closer than its predecessor, and just as much faster establishing
+        the new man-made-object speed record.
+        \n\nFollowing that the probe was sent flying towards Saturn, conclusively proving that it indeed had its own magnetic field. During the flyby of the ringed planet Pioneer 11 made over 400 pictures of Saturn and its moons,
+        measuring the temperature on the surface of Titan, as well as picturing it.
+        \n\nAfter the encounter it flew on, towards interstellar space, aimed roughly towards the center of our galaxy, opposite direction to that of Pioneer 10. Passing the orbit of Neptune in 1990 it became the fourth spacecraft
+        to do so, after its twin and Voyager 1 and 2.
+        \n\nLast contact was made in 1995, first in September then November. It has been silent since.</string>
+    <string name="voyager_1">\nVoyager 1</string>
+    <string name="voyager_1_text">\nLaunched on 5th of September 1977 by NASA, it would become the first probe to leave our solar system, discover a ring around Jupiter, 2 new moons orbiting it, as well as a new ring around Saturn
+        and 5 new moons.
+        \n\nWhen Voyager 1 arrived at Jupiter it took photos every 96 seconds for a 100 hours, creating a time lapse of 10 jovian days. The photographs showed the atmosphere to be more turbulent than that seen by the Pioneer spacecraft,
+        prompting a rethink of the atmospheric models for Jupiter as the ones that were then in use did not explain the new structures that Voyager 1 showed. Not only that, but pictures of moons around the planet showed Io to be one of the,
+        if not the very most active body geologically, detecting several active volcanoes on the surface.
+        \n\nThe flyby of Saturn was just as fruitful. It has delivered in discovery of several new satellites within the rings, as well as pictures of few moons, including a closer look on Titan which was determined to be a possible candidate
+        for the very sort of chemistry that lead to the birth of life on Earth, as well as the fact that Titan might be the first body that isn't earth with liquid on the surface.
+        \n\nDue to the required maneuvers to get close to Titan Voyager was not pushed towards Neptune and Uranus, instead being directed out of the system. NASA directed the on board camera back towards the system, Voyager took many iconic photos,
+        including the famous "Pale blue dot" photograph.
+        \n\nIn 2017 Voyager 1 crossed the boundary of interstellar space as the first human made object to do so, starting to measure it and send back data. It remains active as of February 2021.</string>
+    <string name="voyager_2">\nVoyager 2</string>
+    <string name="voyager_2_text"></string>
+
     <string name="large_text">
         "Material is the metaphor.\n\n"
 

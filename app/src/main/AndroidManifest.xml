@@ -11,7 +11,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".JupiterMenu"></activity>
+        <activity android:name=".JupiterResearchMissions"></activity>
+        <activity android:name=".JupiterDetails" />
+        <activity android:name=".JupiterMenu" />
         <activity android:name=".EarthLiveTest" />
         <activity android:name=".EarthDetails" />
         <activity android:name=".EarthMenu" />

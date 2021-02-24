@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EndedResearchJupiterMissions">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/pioneer10Title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pioneer_10"
+        android:textAlignment="center"
+        android:textColor="@android:color/background_dark"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/pioneer10Text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pioneer_10_text"
+        android:textAlignment="center"
+        android:textColor="@android:color/background_dark" />
+
+    <TextView
+        android:id="@+id/pioneer11Title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pioneer_11"
+        android:textAlignment="center"
+        android:textColor="@android:color/background_dark"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/pioneer11Text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pioneer_11_text"
+        android:textAlignment="center"
+        android:textColor="@android:color/background_dark" />
+
+    <TextView
+        android:id="@+id/voyager1Title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/voyager_1"
+        android:textAlignment="center"
+        android:textColor="@android:color/background_dark"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/voyager1Text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/voyager_1_text"
+        android:textAlignment="center"
+        android:textColor="@android:color/background_dark" />
+
+    <TextView
+        android:id="@+id/mars2mv31Title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/placeholder"
+        android:textAlignment="center"
+        android:textColor="@android:color/background_dark"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/mars2mv31Text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/placeholder"
+        android:textAlignment="center"
+        android:textColor="@android:color/background_dark" />
+
+    <TextView
+        android:id="@+id/mars1Title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/placeholder"
+        android:textAlignment="center"
+        android:textColor="@android:color/background_dark"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/mars1Text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/placeholder"
+        android:textAlignment="center"
+        android:textColor="@android:color/background_dark" />
+
+    <TextView
+        android:id="@+id/mariner3Title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/placeholder"
+        android:textAlignment="center"
+        android:textColor="@android:color/background_dark"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/mariner3Text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/placeholder"
+        android:textAlignment="center"
+        android:textColor="@android:color/background_dark" />
+
+    <TextView
+        android:id="@+id/mariner4Title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/placeholder"
+        android:textAlignment="center"
+        android:textColor="@android:color/background_dark"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/mariner4Text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/placeholder"
+        android:textAlignment="center"
+        android:textColor="@android:color/background_dark" />
+
+    <TextView
+        android:id="@+id/zond2Title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/placeholder"
+        android:textAlignment="center"
+        android:textColor="@android:color/background_dark"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/zond2Text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/placeholder"
+        android:textAlignment="center"
+        android:textColor="@android:color/background_dark" />
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>
