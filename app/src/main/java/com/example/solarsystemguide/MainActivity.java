@@ -66,6 +66,12 @@ public class MainActivity extends AppCompatActivity {
                 toJupiterMenu();
             }
         });
+        saturnButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                toSaturnMenu();
+            }
+        });
     }
 
     public void toSunMenu() {
@@ -95,6 +101,11 @@ public class MainActivity extends AppCompatActivity {
 
     public void toJupiterMenu() {
         Intent intent = new Intent(this, JupiterMenu.class);
+        startActivity(intent);
+    }
+
+    public void toSaturnMenu() {
+        Intent intent = new Intent(this, SaturnMenu.class);
         startActivity(intent);
     }
 

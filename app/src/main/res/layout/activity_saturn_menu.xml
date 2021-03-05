@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SaturnMenu">
+
+
+    <Button
+        android:id="@+id/buttonLearnMoreSaturnInformation"
+        android:layout_width="174dp"
+        android:layout_height="47dp"
+        android:text="@string/learn_more"
+        android:textColor="@android:color/background_dark"
+        app:layout_constraintBottom_toTopOf="@+id/saturnMissionsDone"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/saturnRundown" />
+
+    <Button
+        android:id="@+id/buttonLearnMoreMartianMissions"
+        android:layout_width="174dp"
+        android:layout_height="47dp"
+        android:text="@string/learn_more"
+        android:textColor="@android:color/background_dark"
+        app:layout_constraintBottom_toTopOf="@+id/horizontalScrollView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/saturnMissionsOngoing" />
+
+    <TextView
+        android:id="@+id/saturnRundown"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/saturn_rundown"
+        android:textAlignment="center"
+        android:textColor="@android:color/background_dark"
+        app:layout_constraintBottom_toTopOf="@+id/buttonLearnMoreSaturnInformation"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/saturnMissionsDone"
+        android:layout_width="364dp"
+        android:layout_height="52dp"
+        android:inputType="none"
+        android:text="@string/ended_saturn_mission_count"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/saturnMissionsOngoing"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonLearnMoreSaturnInformation" />
+
+    <TextView
+        android:id="@+id/saturnMissionsOngoing"
+        android:layout_width="364dp"
+        android:layout_height="52dp"
+        android:inputType="none"
+        android:text="@string/ongoing_saturn_mission_count"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/buttonLearnMoreMartianMissions"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/saturnMissionsDone" />
+
+    <HorizontalScrollView
+        android:id="@+id/horizontalScrollView"
+        android:layout_width="wrap_content"
+        android:layout_height="185dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonLearnMoreMartianMissions">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/saturnImage1"
+                android:layout_width="@dimen/width_picture_in_gallery"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:contentDescription="@string/placeholder"
+                android:minWidth="15dp"
+                android:visibility="visible"
+                app:srcCompat="@drawable/saturn_image_1_small"
+                tools:srcCompat="@drawable/saturn_image_1_small" />
+
+            <ImageView
+                android:id="@+id/saturnImage2"
+                android:layout_width="@dimen/width_picture_in_gallery"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:contentDescription="@string/placeholder"
+                android:minWidth="15dp"
+                android:visibility="visible"
+                app:srcCompat="@drawable/saturn_image_2_small"
+                tools:srcCompat="@drawable/saturn_image_2_small" />
+
+            <ImageView
+                android:id="@+id/saturnImage3"
+                android:layout_width="@dimen/width_picture_in_gallery"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:contentDescription="@string/placeholder"
+                android:minWidth="15dp"
+                android:visibility="visible"
+                app:srcCompat="@drawable/saturn_image_3_small"
+                tools:srcCompat="@drawable/saturn_image_3_small" />
+
+            <ImageView
+                android:id="@+id/saturnImage4"
+                android:layout_width="@dimen/width_picture_in_gallery"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:contentDescription="@string/placeholder"
+                android:minWidth="15dp"
+                android:visibility="visible"
+                app:srcCompat="@drawable/saturn_image_4_small"
+                tools:srcCompat="@drawable/saturn_image_4_small" />
+
+            <ImageView
+                android:id="@+id/saturnImage5"
+                android:layout_width="@dimen/width_picture_in_gallery"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:contentDescription="@string/placeholder"
+                android:minWidth="15dp"
+                android:visibility="visible"
+                app:srcCompat="@drawable/saturn_image_5_small"
+                tools:srcCompat="@drawable/saturn_image_5_small" />
+
+        </LinearLayout>
+    </HorizontalScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

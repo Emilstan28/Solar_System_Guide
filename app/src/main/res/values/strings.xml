@@ -655,7 +655,7 @@
     <string name="ended_jupiter_mission_count">8 missions ended (no failures)</string>
     <string name="ongoing_jupiter_mission_count">1 mission ongoing</string>
     <string name="jupiter_rundown">The fifth planet in our solar system, the biggest of all planets, weighing more than twice as heavy as every other planet combined.
-        \nFittingly named after the king of Roman god.
+        \nFittingly named after the king of Roman gods.
         \nIt is home of the biggest ocean in the solar system, made of liquid hydrogen rather than water like on Earth.</string>
     <string name="jupiter_sizes_and_distances_text">With a radius of 69,911 kilometers (43,440 miles) Jupiter is the biggest planet in our solar system, 11 times the size of Earth and 317 times its mass.
         \nThe average distance between it and the Sun is 778 million kilometers (778 million miles), or 5.2 Astronomical Units.</string>
@@ -665,12 +665,12 @@
     <string name="history_of_jupiter_text">Jupiter is around 4.5 billion years old, forming alongside other bodies in our solar system.
         \nObserved by Galileo in 1610 the astronomer discovered the 4 biggest moons of the jovian system, now known as Io, Europa, Ganymede and Callisto. That observation added substantial weight to abolishing the
         theory that everything would be orbiting around Earth.</string>
-    <string name="internal_structure_of_jupiter">Jupiter\s core is quite the mystery. We know that deep below the cloud cover of mostly hydrogen and helium, not unlike our sun, is a gigantic ocean of liquid hydrogen,
+    <string name="internal_structure_of_jupiter">Jupiter\'s core is quite the mystery. We know that deep below the cloud cover of mostly hydrogen and helium, not unlike our sun, is a gigantic ocean of liquid hydrogen,
         the internal pressure below the surface might make the liquid conductive to be alike to a solid, allowing the massive magnetic field to be created, however we can\'t know for sure whether the very core is solid
         or simply a super dense continuation of the internal ocean.
         \nAs Jupiter is a gas giant there is no solid surface you could land on.</string>
     <string name="the_inside_of_jupiter">The inside of Jupiter</string>
-    <string name="atmosphere_of_jupiter">Jupiter\'s atmosphere consists of 89.8% percent hydrogen, 10.2 percent helium. Close to the consistency of Sun\'s plasma, differing by near 15% with both.
+    <string name="atmosphere_of_jupiter">Jupiter\'s atmosphere consists of 89.8% hydrogen, 10.2% helium. Close to the consistency of Sun\'s plasma, differing by near 15% with both.
         \nThe top part of the planet\'s internal structure is taken up by three layers of clouds of water and ammonia getting carried by masses of hydrogen and helium in the atmosphere, the famous red spot is a centuries old storm.</string>
 
     <!-- STRINGS FOR PAST JUPITER MISSIONS -->
@@ -702,12 +702,80 @@
         prompting a rethink of the atmospheric models for Jupiter as the ones that were then in use did not explain the new structures that Voyager 1 showed. Not only that, but pictures of moons around the planet showed Io to be one of the,
         if not the very most active body geologically, detecting several active volcanoes on the surface.
         \n\nThe flyby of Saturn was just as fruitful. It has delivered in discovery of several new satellites within the rings, as well as pictures of few moons, including a closer look on Titan which was determined to be a possible candidate
-        for the very sort of chemistry that lead to the birth of life on Earth, as well as the fact that Titan might be the first body that isn't earth with liquid on the surface.
+        for the very sort of chemistry that lead to the birth of life on Earth, as well as the fact that Titan might be the first body that isn\'t earth with liquid on the surface.
         \n\nDue to the required maneuvers to get close to Titan Voyager was not pushed towards Neptune and Uranus, instead being directed out of the system. NASA directed the on board camera back towards the system, Voyager took many iconic photos,
         including the famous "Pale blue dot" photograph.
         \n\nIn 2017 Voyager 1 crossed the boundary of interstellar space as the first human made object to do so, starting to measure it and send back data. It remains active as of February 2021.</string>
     <string name="voyager_2">\nVoyager 2</string>
-    <string name="voyager_2_text"></string>
+    <string name="voyager_2_text">\nLaunched on 20th of August 1977 by NASA, despite being launched before Voyager 1 it was in orbit for a while before getting sent out into deep space. It is so far the first, and only, probe to study
+        all 4 of gas giant planets in the outer parts of our solar system.
+        \n\nBuilding on the data of Voyager 1, the probe flew by Jupiter, much closer than its predecessor. it has sent back pictures on all the moons that the previous probe has studied, including looking at Io for 10 hours on "volcano watch".
+        Voyager 2 has discovered 4 new moons, new ring around the planet, as well as new information on the atmosphere, with over 17 000 pictures of all bodies combined.
+        \n\nFollowing that the probe went forward to Saturn, a journey that took 2 years. Voyager 2 once again repeated the motions of its twin, capturing photographs of Saturn\'s moons and rings, giving us more insight into the planetary system
+        of the second biggest planet around the Sun.
+        \n\nNext the probe was aimed at Uranus, 4 and a half years later. Due to the planned encounter with Neptune later on Voyager 2 only had just over 5 hours to study Uranus and its moons, discovering 10 of them as well as 2 rings.
+        The probe discovered the possibility of a boiling water ocean under the thick cloud cover, as well as delivering  measurements of wind speeds on the body.
+        \n\nFinal planetary encounter before going on an interstellar trajectory was with Neptune. After another 4 years of flight Voyager 2 had the opportunity to discover 6 new moons, measure the wind speeds, as well as discover the dark
+        spots on the clouds, photographing its largest moon, Triton.
+        \n\nAfter leaving Neptune NASA officially renamed the mission of both Voyager 2 and its sibling into Voyager Interstellar Mission. The probe had its non essential instruments permanently turned off in November of 1998. During its flight
+        the thrusters designed to control the way the probe is facing has been continually degrading, making it more and more difficult to ensure the antenna is pointing at Earth. Still, as of early 2021 Voyager 2 has continually returned valuable data 
+        on interstellar space.</string>
+    <string name="galileo">\nGalileo</string>
+    <string name="galileo_text">\nLaunched on 18th of October 1989 by NASA it was the first probe to orbit Jupiter. After a flyby of Venus, Earth and an asteroid it has reached the vicinity of the planet and released an atmospheric probe it has been
+        carrying to study the atmosphere therein directly.
+        \n\nThe probe reached Jupiter in 1995 but before that, in 1994, it became the first spacecraft to observe an impact fo a comet with another body. On July 16th a comet struck Jupiter and thanks to the unique perspective of the probe it could,
+        and did, deliver stunning photographs of the event.
+        \n\nThe craft orbited Jupiter in a oval orbit, each designed to have a low point that would allow Galileo to flyby one of the moons and gather data on its tape recorder that was then sent back to Earth during the rest of the orbit.
+        \n\nThe probes career was extended a few times, with the primary mission being done in 1997 and still more to learn NASA approved a 2 year extension focusing on Io, Europa and Jupiter\'s thunderstorms. Exploring Io meant crossing the immense
+        radiation field around the biggest planet, which when done messed with on board computer facilitating the team on the ground to spend the entire night trying to bring it back, with success. Galileo returned data supporting the thesis of
+        a liquid, underground ocean on Europa, getting pictures of a volcanic eruption on Io as well as giving us an insight to Jupiter\'s storms.
+        \n\nThe mission ended in 2003, with Galileo plunging into the atmosphere just south of the equator, not being sterilized NASA didn\'t want to risk the probe crashing into, and possibly contaminating, Europe.
+        \n\n<b>The atmospheric probe</b>
+        \n\nGalileo carried with it a small probe meant to enter the gas giant\'s atmosphere and give us more information on it. Being released from the main probe when it was around 80 million kilometers (50 million miles) away from its target,
+        the probe entered the atmosphere on 7th of December 1995, returning valuable data for around an hour. During the descent it has experienced temperatures up to 16 000 degrees Celsius (28 000 degrees Fahrenheit), atmosphere pressure 22 times
+        greater than down on Earth, not to mention winds blowing as fast as 600 meters per second (around half a mile per second). The composition of the atmosphere was different than expected, nearly half as much helium was present than predicted,
+        less water vapor as well as less lightning bolts.</string>
+    <string name="cassiniHuygens">\nCassini-Huyegens</string>
+    <string name="cassiniHuygens_Text">\nLaunched on 15th of October 1997, in cooperation between ESA and NASA, all in all 28 countries participated in some way to the mission, from providing the components
+        to build the probe with to the ground controllers.
+        \n\nAfter launching from Earth Cassini flew by Venus and used it for a gravity assist, allowing it to cross the asteroid belt but it got turned around with Sun\'s gravity.
+        \n\nFollowing that the probe returned to the vicinity of Earth, flying by it and our Moon, taking series of calibration photos. With that done it was well on its way towards its first target, Jupiter.
+        \n\nThe flyby of Jupiter took around half a year, allowing to take the clearest colored photo of the planet, as well as to research how the clouds were behaving in the atmosphere, the movement
+        of the stripes in relation to each other as well as rising and sinking of the atmospheric features.
+        \n\nEn route to Saturn the probe tested general relativity, with the help of the sun, with the most accurate measurements to date Einstein\'s theory had even more proof.
+        \n\nDuring its years orbiting Saturn Cassini discovered 7 moons, though one of them was photographed by one of the Voyager probes when they were revalued. Furthermore the probe executed many flybys
+        of the planet\'s moons, including Titan, which would be landed on later on in the mission with the small probe attached to Cassini. Among the important discoveries are the structure of Titan, possibly giving us
+        insight to the early life of Earth as a planet, with many parallels from lakes and rivers to volcanoes. Additionally Enceladus has shown to have a jet of water ice coming from its north pole,
+        revealing a subsurface liquid ocean that might be suitable for life.
+        \n\nThe mission was extended twice, giving us many more flybys of Saturn\'s moons and rings, allowing even more data to be delivered back to Earth, including 350 pictures from the surface of Titan.
+        \n\nCassini was disposed off by diving into the atmosphere of Saturn on 15th of September 2017, by most estimates being destroyed 45 seconds after the final transmition
+        \n\n<b>Huyegens lander</b>
+        \n\nThe lander was included with the mission, delivered to Titan and sent to the surface, successfully landing on it in January of 2005. The lander sent information out for over 2 hours, providing us with
+        many photographs of its landing spot, showing pebbles and sand on a flat plain, but more interesting is the signs of recent liquid activity on the surface.</string>
+
+    <!-- STRINGS FOR DETAILS OF SATURN -->
+
+
+    <string name="ended_saturn_mission_count">4 missions ended (no failures)</string>
+    <string name="ongoing_saturn_mission_count">0 missions ongoing</string>
+    <string name="saturn_rundown">The sixth planet in our solar system, the second biggest of all planets, weighing more than twice as heavy as every other planet combined.
+        \nNamed after the Roman god of agriculture and wealth.
+        \nMade of helium and hydrogen, like Jupiter, and also like the earlier planet it has rings, but the rings around Saturn are way more impressive to say the least.</string>
+    <string name="saturn_sizes_and_distances_text">With a radius of 58,232 kilometers (36,183 miles), 7 times the size of Earth and 95 times its mass.
+        \nThe average distance between it and the Sun is 1.4 billion kilometers (886 million miles), or 9.5 Astronomical Units.</string>
+    <string name="orbit_and_rotation_saturn_text">One full orbit takes 10,756 days, that\'s around 29 Earth years.
+        \nOne rotation on the axis of the planet takes only 10.7 hours to complete, only slightly longer than Jupiter.
+        \nThe tilt of over 26 degrees makes Saturn experience seasons just like Earth.</string>
+    <string name="history_of_saturn_text">Saturn is around 4.5 billion years old, forming alongside other bodies in our solar system.
+        \nObserved by Galileo in 1610 the astronomer observed the planet\'s rings, thinking they might be ears or 2 giant moons that orbit it. A couple years later, when he looked on it again, the rings weren\'t visable
+        due to the planet\'s angle changing, now the rings were edge on. It took until 1695 when a Dutch astronomer concluded that Saturn had rings and discovered its biggest moon, Titan.</string>
+    <string name="internal_structure_of_saturn">Saturn\'s core is most likely composed of nickel and iron. We know that deep below the cloud cover of mostly hydrogen and helium, not unlike our sun, is a gigantic ocean of liquid hydrogen,
+        it\'s pretty much like Jupiter\'s core, but smaller.
+        \nAs Saturn is a gas giant there is no solid surface you could land on. At the same time the internal situation, pressure, temperature, makes it impossible to go through the planet unscathed.</string>
+    <string name="the_inside_of_saturn">The inside of Jupiter</string>
+    <string name="atmosphere_of_saturn">Saturn\'s atmosphere consists of 75% hydrogen, 25% helium. There are traces of other gases like methane.
+        \nThree layers of clouds exist, each composed of a slightly different material and different temperature. Lower the hydrogen and helium turn into liquids. There are gigantic storms between the clouds, some emerging on the surface, each bigger than the entirety of Earth.</string>
+
 
     <string name="large_text">
         "Material is the metaphor.\n\n"
