@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UranusDetails">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteX="157dp"
+        tools:layout_editor_absoluteY="251dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <EditText
+                android:id="@+id/sizesAndDistancesSectionTitleUranusDetails"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:editable="false"
+                android:ems="10"
+                android:importantForAutofill="no"
+                android:inputType="none"
+                android:text="@string/sizes_and_distances"
+                android:textAlignment="center"
+                android:textSize="24sp" />
+
+            <TextView
+                android:id="@+id/uranusSizesAndDistancesText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:editable="false"
+                android:inputType="none"
+                android:text="@string/uranus_sizes_and_distances_text"
+                android:textAlignment="center"
+                android:textColor="@android:color/black"
+                android:textSize="15sp" />
+
+            <EditText
+                android:id="@+id/orbitAndRotationSectionTitleUranusDetails"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:editable="false"
+                android:ems="10"
+                android:inputType="none"
+                android:text="@string/orbit_and_rotation"
+                android:textAlignment="center"
+                android:textSize="24sp"
+                android:importantForAutofill="no" />
+
+            <TextView
+                android:id="@+id/uranusOrbitAndRotationText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="none"
+                android:text="@string/orbit_and_rotation_uranus_text"
+                android:textAlignment="center"
+                android:textColor="@android:color/black"
+                android:textSize="15sp" />
+
+            <EditText
+                android:id="@+id/historyOfUranusSectionTitleSunDetails"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:editable="false"
+                android:ems="10"
+                android:inputType="none"
+                android:text="@string/history_of_the_body"
+                android:textAlignment="center"
+                android:textSize="24sp"
+                android:importantForAutofill="no" />
+
+            <TextView
+                android:id="@+id/uranusHistoryOfTheBodyText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="none"
+                android:text="@string/history_of_uranus_text"
+                android:textAlignment="center"
+                android:textColor="@android:color/black"
+                android:textSize="15sp" />
+
+            <EditText
+                android:id="@+id/internalStructureSectionTitleUranusDetails"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:editable="false"
+                android:ems="10"
+                android:inputType="none"
+                android:text="@string/internal_structure"
+                android:textAlignment="center"
+                android:textSize="24sp"
+                android:importantForAutofill="no" />
+
+            <TextView
+                android:id="@+id/internalStructureOfUranusText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="none"
+                android:text="@string/internal_structure_of_uranus"
+                android:textAlignment="center"
+                android:textColor="@android:color/black"
+                android:textSize="15sp" />
+
+            <EditText
+                android:id="@+id/atmosphereOfTheSunSectionTitleUranusDetails"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:editable="false"
+                android:ems="10"
+                android:inputType="none"
+                android:text="@string/atmosphere"
+                android:textAlignment="center"
+                android:textSize="24sp"
+                android:importantForAutofill="no" />
+
+            <TextView
+                android:id="@+id/atmosphereOfUranusText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="none"
+                android:text="@string/atmosphere_of_uranus"
+                android:textAlignment="center"
+                android:textColor="@android:color/black"
+                android:textSize="15sp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

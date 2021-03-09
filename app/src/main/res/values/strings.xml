@@ -758,7 +758,7 @@
 
     <string name="ended_saturn_mission_count">4 missions ended (no failures)</string>
     <string name="ongoing_saturn_mission_count">0 missions ongoing</string>
-    <string name="saturn_rundown">The sixth planet in our solar system, the second biggest of all planets, weighing more than twice as heavy as every other planet combined.
+    <string name="saturn_rundown">The sixth planet in our solar system, the second biggest of all.
         \nNamed after the Roman god of agriculture and wealth.
         \nMade of helium and hydrogen, like Jupiter, and also like the earlier planet it has rings, but the rings around Saturn are way more impressive to say the least.</string>
     <string name="saturn_sizes_and_distances_text">With a radius of 58,232 kilometers (36,183 miles), 7 times the size of Earth and 95 times its mass.
@@ -767,14 +767,47 @@
         \nOne rotation on the axis of the planet takes only 10.7 hours to complete, only slightly longer than Jupiter.
         \nThe tilt of over 26 degrees makes Saturn experience seasons just like Earth.</string>
     <string name="history_of_saturn_text">Saturn is around 4.5 billion years old, forming alongside other bodies in our solar system.
-        \nObserved by Galileo in 1610 the astronomer observed the planet\'s rings, thinking they might be ears or 2 giant moons that orbit it. A couple years later, when he looked on it again, the rings weren\'t visable
+        \nObserved by Galileo in 1610 the astronomer observed the planet\'s rings, thinking they might be ears or 2 giant moons that orbit it. A couple years later, when he looked on it again, the rings weren\'t visible
         due to the planet\'s angle changing, now the rings were edge on. It took until 1695 when a Dutch astronomer concluded that Saturn had rings and discovered its biggest moon, Titan.</string>
     <string name="internal_structure_of_saturn">Saturn\'s core is most likely composed of nickel and iron. We know that deep below the cloud cover of mostly hydrogen and helium, not unlike our sun, is a gigantic ocean of liquid hydrogen,
         it\'s pretty much like Jupiter\'s core, but smaller.
         \nAs Saturn is a gas giant there is no solid surface you could land on. At the same time the internal situation, pressure, temperature, makes it impossible to go through the planet unscathed.</string>
-    <string name="the_inside_of_saturn">The inside of Jupiter</string>
     <string name="atmosphere_of_saturn">Saturn\'s atmosphere consists of 75% hydrogen, 25% helium. There are traces of other gases like methane.
         \nThree layers of clouds exist, each composed of a slightly different material and different temperature. Lower the hydrogen and helium turn into liquids. There are gigantic storms between the clouds, some emerging on the surface, each bigger than the entirety of Earth.</string>
+
+
+    <!-- STRINGS FOR PAST JUPITER MISSIONS
+
+    PIONEER 11
+
+    VOYAGER 1
+
+    VOYAGER 2
+
+    CASSINI-->
+
+    <!-- STRINGS FOR DETAILS OF URANUS -->
+
+
+    <string name="ended_uranus_mission_count">1 mission ended (no failures)</string>
+    <string name="ongoing_uranus_mission_count">0 missions ongoing</string>
+    <string name="uranus_rundown">The seventh planet in our solar system, the second least dense of all, weighing slightly less than the next and final planet, Neptune.
+        \nNamed after the Greek god of the sky.
+        \nMade mostly of icy materials by mass, like water or ammonia, and also like the earlier planets it has rings, still they are too faint to notice from Earth.</string>
+    <string name="uranus_sizes_and_distances_text">With a radius of 25,362 kilometers (15,759 miles), 4 times the size of Earth and 18 times its mass.
+        \nThe average distance between it and the Sun is 2.9 billion kilometers (1.8 billion miles), or 19.8 Astronomical Units.</string>
+    <string name="orbit_and_rotation_uranus_text">One full orbit takes 30,687 days, that\'s around 84 Earth years.
+        \nOne rotation on the axis of the planet takes 17 hours to complete, though the rotation is going east to west, opposite than every other planet short of Venus.
+        \nThe tilt of 97 degrees makes Uranus experience the most extreme seasons of any planet in our solar system, with the summers and winters lasting for over 2 decades each.</string>
+    <string name="history_of_uranus_text">Saturn is around 4.5 billion years old, forming alongside other bodies in our solar system. At first it was much closer to the Sun, moving back with time to its current orbit
+        \nThe first planet to be discovered with the aid of a telescope, in 1781 by astronomer William Herschel, although he originally thought it was either a comet or a star. It took two years, and another astronomer
+        for Uranus to be widely accepted as a planet. Herschel tried to name the planet after King George III of England, though that failed in favor of the current name.</string>
+    <string name="internal_structure_of_uranus">Uranus\' core is most likely rocky, around it is where most of the planet\'s mass is contained. A dense fluid of water, ammonia and methane that grant around 80% of the weight
+        therein.
+        \nAs an ice giant, there is no surface a probe could land on, while the pressure and temperature around the core (reaching as high as 4,982 degrees Celsius, or 9 000 degrees Fahrenheit) makes it all but impossible to reach.</string>
+    <string name="atmosphere_of_uranus">Consisting mostly of hydrogen and helium, like the other giants in our solar system, Uranus gets its colours from methane.
+        \nThe temperature of the atmosphere is very varied across the Uranian year, in some places it is even colder than Neptune, going down as low as just 49 degrees Kelvin, or -224.2 degrees Celsius (-371.56 degrees Fahrenheit)
+        \nClouds are just as varied around the year, with more of them popping up around the equinox.</string>
 
 
     <string name="large_text">

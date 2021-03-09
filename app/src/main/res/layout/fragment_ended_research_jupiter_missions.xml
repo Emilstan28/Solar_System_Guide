@@ -118,40 +118,5 @@
         android:textAlignment="center"
         android:textColor="@android:color/background_dark" />
 
-    <TextView
-        android:id="@+id/mariner4Title"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/placeholder"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark"
-        android:textSize="18sp"
-        android:textStyle="bold" />
-
-    <TextView
-        android:id="@+id/mariner4Text"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/placeholder"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark" />
-
-    <TextView
-        android:id="@+id/zond2Title"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/placeholder"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark"
-        android:textSize="18sp"
-        android:textStyle="bold" />
-
-    <TextView
-        android:id="@+id/zond2Text"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/placeholder"
-        android:textAlignment="center"
-        android:textColor="@android:color/background_dark" />
     </LinearLayout>
 </androidx.core.widget.NestedScrollView>

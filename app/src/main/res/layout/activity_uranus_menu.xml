@@ -4,10 +4,22 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".EarthMenu">
+    tools:context=".UranusMenu">
 
     <Button
-        android:id="@+id/buttonLearnMoreEarthInformation"
+        android:id="@+id/buttonLearnMoreUranusInformation"
+        android:layout_width="174dp"
+        android:layout_height="47dp"
+        android:text="@string/learn_more"
+        android:textColor="@android:color/background_dark"
+        app:layout_constraintBottom_toTopOf="@+id/endedMissionsUranus"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/uranusRundown" />
+
+    <Button
+        android:id="@+id/buttonLearnMoreJovianMissions"
         android:layout_width="174dp"
         android:layout_height="47dp"
         android:text="@string/learn_more"
@@ -16,20 +28,52 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/marsRundown" />
+        app:layout_constraintTop_toBottomOf="@+id/ongoingMissionsUranus" />
 
     <TextView
-        android:id="@+id/marsRundown"
+        android:id="@+id/uranusRundown"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/earth_rundown"
+        android:text="@string/uranus_rundown"
         android:textAlignment="center"
         android:textColor="@android:color/background_dark"
-        app:layout_constraintBottom_toTopOf="@+id/buttonLearnMoreEarthInformation"
+        app:layout_constraintBottom_toTopOf="@+id/buttonLearnMoreUranusInformation"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/endedMissionsUranus"
+        android:layout_width="364dp"
+        android:layout_height="52dp"
+        android:inputType="none"
+        android:text="@string/ended_uranus_mission_count"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/ongoingMissionsUranus"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonLearnMoreUranusInformation" />
+
+    <TextView
+        android:id="@+id/ongoingMissionsUranus"
+        android:layout_width="364dp"
+        android:layout_height="52dp"
+        android:inputType="none"
+        android:text="@string/ongoing_uranus_mission_count"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/buttonLearnMoreJovianMissions"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/endedMissionsUranus" />
 
     <HorizontalScrollView
         android:id="@+id/horizontalScrollView"
@@ -37,9 +81,9 @@
         android:layout_height="185dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/buttonLearnMoreEarthInformation">
+        app:layout_constraintTop_toBottomOf="@+id/buttonLearnMoreJovianMissions">
 
         <LinearLayout
             android:layout_width="wrap_content"
@@ -47,63 +91,59 @@
             android:orientation="horizontal">
 
             <ImageView
-                android:id="@+id/earthImage1"
+                android:id="@+id/uranusImage1"
                 android:layout_width="@dimen/width_picture_in_gallery"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:contentDescription="@string/placeholder"
                 android:minWidth="15dp"
                 android:visibility="visible"
-                app:srcCompat="@drawable/earth_image_1_small"
-                tools:srcCompat="@drawable/earth_image_1_small" />
+                app:srcCompat="@drawable/uranus_image_1_small"
+                tools:srcCompat="@drawable/uranus_image_1_small" />
 
             <ImageView
-                android:id="@+id/earthImage2"
+                android:id="@+id/uranusImage2"
                 android:layout_width="@dimen/width_picture_in_gallery"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:contentDescription="@string/placeholder"
                 android:minWidth="15dp"
                 android:visibility="visible"
-                app:srcCompat="@drawable/earth_image_2_small"
-                tools:layout_editor_absoluteX="200dp"
-                tools:srcCompat="@drawable/earth_image_2_small" />
+                app:srcCompat="@drawable/uranus_image_2_small"
+                tools:srcCompat="@drawable/uranus_image_2_small" />
 
             <ImageView
-                android:id="@+id/earthImage3"
+                android:id="@+id/uranusImage3"
                 android:layout_width="@dimen/width_picture_in_gallery"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:contentDescription="@string/placeholder"
                 android:minWidth="15dp"
                 android:visibility="visible"
-                app:srcCompat="@drawable/earth_image_3_small"
-                tools:layout_editor_absoluteX="400dp"
-                tools:srcCompat="@drawable/earth_image_3_small" />
+                app:srcCompat="@drawable/uranus_image_3_small"
+                tools:srcCompat="@drawable/uranus_image_3_small" />
 
             <ImageView
-                android:id="@+id/earthImage4"
+                android:id="@+id/uranusImage4"
                 android:layout_width="@dimen/width_picture_in_gallery"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:contentDescription="@string/placeholder"
                 android:minWidth="15dp"
                 android:visibility="visible"
-                app:srcCompat="@drawable/earth_image_4_small"
-                tools:layout_editor_absoluteX="600dp"
-                tools:srcCompat="@drawable/earth_image_4_small" />
+                app:srcCompat="@drawable/uranus_image_4_small"
+                tools:srcCompat="@drawable/uranus_image_4_small" />
 
             <ImageView
-                android:id="@+id/earthImage5"
+                android:id="@+id/uranusImage5"
                 android:layout_width="@dimen/width_picture_in_gallery"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:contentDescription="@string/placeholder"
                 android:minWidth="15dp"
                 android:visibility="visible"
-                app:srcCompat="@drawable/earth_image_5_small"
-                tools:layout_editor_absoluteX="800dp"
-                tools:srcCompat="@drawable/earth_image_5_small" />
+                app:srcCompat="@drawable/uranus_image_5_small"
+                tools:srcCompat="@drawable/uranus_image_5_small" />
 
         </LinearLayout>
     </HorizontalScrollView>
