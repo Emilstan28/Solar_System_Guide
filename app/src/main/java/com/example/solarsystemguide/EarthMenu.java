@@ -9,7 +9,7 @@ import android.widget.Button;
 
 public class EarthMenu extends AppCompatActivity {
 
-    Button seeEarthLive, learnMoreEarthInfo;
+    Button learnMoreEarthInfo;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -19,7 +19,6 @@ public class EarthMenu extends AppCompatActivity {
 
 
         learnMoreEarthInfo = findViewById(R.id.buttonLearnMoreEarthInformation);
-        seeEarthLive = findViewById(R.id.buttonSeeEarthLive);
 
 
 
@@ -29,24 +28,12 @@ public class EarthMenu extends AppCompatActivity {
                 toEarthDetails();
             }
         });
-
-        seeEarthLive.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                toSeeEarthLive();
-            }
-        });
     }
 
 
 
     public void toEarthDetails(){
         Intent intent = new Intent(this, EarthDetails.class);
-        startActivity(intent);
-    }
-
-    public void toSeeEarthLive() {
-        Intent intent = new Intent(this, EarthLiveTest.class);
         startActivity(intent);
     }
 

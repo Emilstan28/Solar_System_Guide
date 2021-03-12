@@ -78,6 +78,12 @@ public class MainActivity extends AppCompatActivity {
                 toUranusMenu();
             }
         });
+        neptuneButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                toNeptuneMenu();
+            }
+        });
     }
 
     public void toSunMenu() {
@@ -117,6 +123,11 @@ public class MainActivity extends AppCompatActivity {
 
     public void toUranusMenu() {
         Intent intent = new Intent(this, UranusMenu.class);
+        startActivity(intent);
+    }
+
+    public void toNeptuneMenu() {
+        Intent intent = new Intent(this, NeptuneMenu.class);
         startActivity(intent);
     }
 

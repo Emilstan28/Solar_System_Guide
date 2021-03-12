@@ -38,7 +38,7 @@ public class JupiterResearchMissions extends AppCompatActivity {
 
 
         pastJupiterMissions = new Fragment(R.layout.fragment_ended_research_jupiter_missions);
-        //ongoingJupiterMissions = new Fragment(R.layout.fragment_ongoing_research_jupiter_missions);
+        ongoingJupiterMissions = new Fragment(R.layout.fragment_ongoing_research_jupiter_missions);
     }
 
 

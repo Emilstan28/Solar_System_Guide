@@ -753,6 +753,18 @@
         \n\nThe lander was included with the mission, delivered to Titan and sent to the surface, successfully landing on it in January of 2005. The lander sent information out for over 2 hours, providing us with
         many photographs of its landing spot, showing pebbles and sand on a flat plain, but more interesting is the signs of recent liquid activity on the surface.</string>
 
+    <!-- STRINGS FOR ONGOING JUPITER MISSIONS -->
+    <string name="juno">\nJuno</string>
+    <string name="juno_text">\nLaunched on 5th of August 2011 by NASA, it was the first solar powered mission to the outer solar system. Aimed at Jupiter, the trip took 5 years and a gravity assist from Earth in 2013,
+        getting to Jupiter in 2016 and arriving into a highly elliptical orbit designed to protect the spacecraft from the powerful radiation fields that could damage the probe irreversibly.
+        \n\nAmong the achievements of Juno are measuring just how deep the stripes of clouds reach into the planet, detecting molecular water and how its spread around the atmosphere, giving us insight to the structure
+        of the poles of Jupiter as well as measuring the change in the magnetic field around the planet.
+        \n\nThe mission was meant to run for 5 years, with the original probe disposal date in 2021, though NASA announced that both Juno and Insight would continue on, with Juno scheduled to go on for another 5 years, 
+        or whenever the probe dies. The plan for the extended missions is to get more flybys of Jovian moons, as well as to continue the study of Jupiter\'s auroras, since the strongest we can observe are not caused by any 
+        process we can yet name or measure.
+        \n\nOf note with the probe was what it contained, skipping over all of the advanced technology, it held a plaque with Galileo\'s portrait, signature and short description of what would be known as Galilean moons.
+        That as well as special LEGO figures made of aluminum, depicting Galileo with his telescope, Jupiter with a lightning bolt and Juno with a magnifying glass.</string>
+
     <!-- STRINGS FOR DETAILS OF SATURN -->
 
 
@@ -776,7 +788,7 @@
         \nThree layers of clouds exist, each composed of a slightly different material and different temperature. Lower the hydrogen and helium turn into liquids. There are gigantic storms between the clouds, some emerging on the surface, each bigger than the entirety of Earth.</string>
 
 
-    <!-- STRINGS FOR PAST JUPITER MISSIONS
+    <!-- STRINGS FOR PAST SATURN MISSIONS
 
     PIONEER 11
 
@@ -799,7 +811,7 @@
     <string name="orbit_and_rotation_uranus_text">One full orbit takes 30,687 days, that\'s around 84 Earth years.
         \nOne rotation on the axis of the planet takes 17 hours to complete, though the rotation is going east to west, opposite than every other planet short of Venus.
         \nThe tilt of 97 degrees makes Uranus experience the most extreme seasons of any planet in our solar system, with the summers and winters lasting for over 2 decades each.</string>
-    <string name="history_of_uranus_text">Saturn is around 4.5 billion years old, forming alongside other bodies in our solar system. At first it was much closer to the Sun, moving back with time to its current orbit
+    <string name="history_of_uranus_text">Uranus is around 4.5 billion years old, forming alongside other bodies in our solar system. At first it was much closer to the Sun, moving back with time to its current orbit
         \nThe first planet to be discovered with the aid of a telescope, in 1781 by astronomer William Herschel, although he originally thought it was either a comet or a star. It took two years, and another astronomer
         for Uranus to be widely accepted as a planet. Herschel tried to name the planet after King George III of England, though that failed in favor of the current name.</string>
     <string name="internal_structure_of_uranus">Uranus\' core is most likely rocky, around it is where most of the planet\'s mass is contained. A dense fluid of water, ammonia and methane that grant around 80% of the weight
@@ -809,6 +821,36 @@
         \nThe temperature of the atmosphere is very varied across the Uranian year, in some places it is even colder than Neptune, going down as low as just 49 degrees Kelvin, or -224.2 degrees Celsius (-371.56 degrees Fahrenheit)
         \nClouds are just as varied around the year, with more of them popping up around the equinox.</string>
 
+    <!-- STRINGS FOR PAST URANUS MISSIONS
+    
+    VOYAGER 2-->
+
+    <!-- STRINGS FOR DETAILS OF NEPTUNE -->
+
+
+    <string name="ended_neptune_mission_count">1 mission ended (no failures)</string>
+    <string name="ongoing_neptune_mission_count">0 missions ongoing</string>
+    <string name="neptune_rundown">The eighth and final planet in our solar system, the densest gas giant. It was the first planet to be discovered using a mathematical prediction.
+        \nNamed after the Roman god of the sea, the moons are accordingly named after lesser sea deities and nymphs.
+        \nMade mostly of icy materials by mass, like water or ammonia, and also like the earlier planets it has rings, still they are too faint to notice from Earth.
+        \nNeptune\s biggest moon, Triton, is rotating opposite of its planets direction, suggesting it might have been captured by the planet from outer space.</string>
+    <string name="neptune_sizes_and_distances_text">With a radius of 24,622 kilometers (15,299 miles), 4 times the size of Earth and 20 times its mass.
+        \nThe average distance between it and the Sun is 4.5 billion kilometers (2.8 billion miles), or 30 Astronomical Units.</string>
+    <string name="orbit_and_rotation_neptune_text">One full orbit takes 60,190 days, that\'s around 165 Earth years.
+        \nOne rotation on the axis of the planet takes 16 hours to complete.
+        \nThe tilt of 28 degrees makes Neptune experience seasons just like Earth or Mars, though the length of the time it takes the planet to orbit around the Sun means each of the 4 seasons take 4 decades.</string>
+    <string name="history_of_neptune_text">Neptune is around 4.5 billion years old, forming alongside other bodies in our solar system. At first it was much closer to the Sun, moving back with time to its current orbit
+        \nThe first planet to be discovered with the aid of a prediction equation, in 1846 by astronomer Johann Galle, the equation was devised by Urbain Le Verrier, and the planet was named according to his suggestion of naming it after the Roman deity of the sea.</string>
+    <string name="internal_structure_of_neptune">The internal structure of Neptune is pretty much a mystery. It\'s possible that under the icy cold clouds there is a boiling ocean, kept from steaming away by the immense pressure of the atmosphere.
+        A dense fluid of water, ammonia and methane that grant around 80% of the weight therein.
+        \nAs an ice giant, there is no surface a probe could land on, while the pressure and temperature around the core makes it all but impossible to reach.</string>
+    <string name="atmosphere_of_neptune">Consisting mostly of hydrogen and helium, like the other giants in our solar system. Neptune gets its colours from methane as well as more unknown substance that would explain the deeper blue.
+        \nNeptune is the windiest planet of our solar system, with the winds reaching up to 2,000 kilometers per hour (1,200 miles per hour). That\'s around 3 times faster than the most extreme wind speeds recorded on Earth.</string>
+
+
+    <!-- STRINGS FOR PAST NEPTUNE MISSIONS
+
+     VOYAGER 2-->
 
     <string name="large_text">
         "Material is the metaphor.\n\n"

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".NeptuneMenu">
+
+    <Button
+        android:id="@+id/buttonLearnMoreNeptuneInformation"
+        android:layout_width="174dp"
+        android:layout_height="47dp"
+        android:text="@string/learn_more"
+        android:textColor="@android:color/background_dark"
+        app:layout_constraintBottom_toTopOf="@+id/neptuneMissionsDone"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/neptuneRundown" />
+
+    <Button
+        android:id="@+id/buttonLearnMoreNeptunianMissions"
+        android:layout_width="174dp"
+        android:layout_height="47dp"
+        android:text="@string/learn_more"
+        android:textColor="@android:color/background_dark"
+        app:layout_constraintBottom_toTopOf="@+id/horizontalScrollView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/neptuneMissionsOngoing" />
+
+    <TextView
+        android:id="@+id/neptuneRundown"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/neptune_rundown"
+        android:textAlignment="center"
+        android:textColor="@android:color/background_dark"
+        app:layout_constraintBottom_toTopOf="@+id/buttonLearnMoreNeptuneInformation"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/neptuneMissionsDone"
+        android:layout_width="364dp"
+        android:layout_height="52dp"
+        android:inputType="none"
+        android:text="@string/ended_neptune_mission_count"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/neptuneMissionsOngoing"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonLearnMoreNeptuneInformation" />
+
+    <TextView
+        android:id="@+id/neptuneMissionsOngoing"
+        android:layout_width="364dp"
+        android:layout_height="52dp"
+        android:inputType="none"
+        android:text="@string/ongoing_neptune_mission_count"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/buttonLearnMoreNeptunianMissions"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/neptuneMissionsDone" />
+
+    <HorizontalScrollView
+        android:id="@+id/horizontalScrollView"
+        android:layout_width="wrap_content"
+        android:layout_height="185dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonLearnMoreNeptunianMissions">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/neptuneImage1"
+                android:layout_width="@dimen/width_picture_in_gallery"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:contentDescription="@string/placeholder"
+                android:minWidth="15dp"
+                android:visibility="visible"
+                app:srcCompat="@drawable/neptune_image_1_small"
+                tools:srcCompat="@drawable/neptune_image_1_small" />
+
+            <ImageView
+                android:id="@+id/neptuneImage2"
+                android:layout_width="@dimen/width_picture_in_gallery"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:contentDescription="@string/placeholder"
+                android:minWidth="15dp"
+                android:visibility="visible"
+                app:srcCompat="@drawable/neptune_image_2_small"
+                tools:srcCompat="@drawable/neptune_image_2_small" />
+
+            <ImageView
+                android:id="@+id/neptuneImage3"
+                android:layout_width="@dimen/width_picture_in_gallery"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:contentDescription="@string/placeholder"
+                android:minWidth="15dp"
+                android:visibility="visible"
+                app:srcCompat="@drawable/neptune_image_3_small"
+                tools:srcCompat="@drawable/neptune_image_3_small" />
+
+            <ImageView
+                android:id="@+id/neptuneImage4"
+                android:layout_width="@dimen/width_picture_in_gallery"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:contentDescription="@string/placeholder"
+                android:minWidth="15dp"
+                android:visibility="visible"
+                app:srcCompat="@drawable/neptune_image_4_small"
+                tools:srcCompat="@drawable/neptune_image_4_small" />
+
+            <ImageView
+                android:id="@+id/neptuneImage5"
+                android:layout_width="@dimen/width_picture_in_gallery"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:contentDescription="@string/placeholder"
+                android:minWidth="15dp"
+                android:visibility="visible"
+                app:srcCompat="@drawable/neptune_image_5_small"
+                tools:srcCompat="@drawable/neptune_image_5_small" />
+
+        </LinearLayout>
+    </HorizontalScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

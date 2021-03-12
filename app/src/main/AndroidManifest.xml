@@ -11,7 +11,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".UranusResearchMissions"></activity>
+        <activity android:name=".NeptuneResearchMissions"></activity>
+        <activity android:name=".NeptuneDetails" />
+        <activity android:name=".NeptuneMenu" />
+        <activity android:name=".UranusResearchMissions" />
         <activity android:name=".UranusDetails" />
         <activity android:name=".UranusMenu" />
         <activity android:name=".SaturnResearchMissions" />
@@ -20,7 +23,6 @@
         <activity android:name=".JupiterResearchMissions" />
         <activity android:name=".JupiterDetails" />
         <activity android:name=".JupiterMenu" />
-        <activity android:name=".EarthLiveTest" />
         <activity android:name=".EarthDetails" />
         <activity android:name=".EarthMenu" />
         <activity android:name=".MarsResearchMissions" />
