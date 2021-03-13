@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
 //    TODO create a view for every planet
 //    TODO create a details view for every planet
     Button sunButton, mercuryButton, venusButton, earthButton, marsButton,
-        jupiterButton, saturnButton, uranusButton, neptuneButton, dwarfsButton;
+        jupiterButton, saturnButton, uranusButton, neptuneButton, dwarfsButton, othersButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
         uranusButton = findViewById(R.id.uranusButton);
         neptuneButton = findViewById(R.id.neptuneButton);
         dwarfsButton = findViewById(R.id.dwarfsButton);
+        othersButton = findViewById(R.id.othersButton);
 
 
         sunButton.setOnClickListener(new View.OnClickListener() {
@@ -84,6 +85,12 @@ public class MainActivity extends AppCompatActivity {
                 toNeptuneMenu();
             }
         });
+        dwarfsButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                toDwarfMenu();
+            }
+        });
     }
 
     public void toSunMenu() {
@@ -128,6 +135,11 @@ public class MainActivity extends AppCompatActivity {
 
     public void toNeptuneMenu() {
         Intent intent = new Intent(this, NeptuneMenu.class);
+        startActivity(intent);
+    }
+
+    public void toDwarfMenu() {
+        Intent intent = new Intent(this, DwarfsMenu.class);
         startActivity(intent);
     }
 

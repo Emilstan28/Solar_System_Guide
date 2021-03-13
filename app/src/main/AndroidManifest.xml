@@ -11,7 +11,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".NeptuneResearchMissions"></activity>
+        <activity android:name=".DwarfsResearchMissions" />
+        <activity android:name=".DwarfsDetails" />
+        <activity android:name=".DwarfsMenu" />
+        <activity android:name=".NeptuneResearchMissions" />
         <activity android:name=".NeptuneDetails" />
         <activity android:name=".NeptuneMenu" />
         <activity android:name=".UranusResearchMissions" />

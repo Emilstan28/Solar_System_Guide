@@ -852,6 +852,43 @@
 
      VOYAGER 2-->
 
+    <!-- STRINGS FOR DETAILS OF DWARFS -->
+
+
+    <string name="ended_dwarf_mission_count">2 missions ended (no failures)</string>
+    <string name="ongoing_dwarf_mission_count">0 missions ongoing</string>
+    <string name="dwarfs_rundown">Dwarf planet is a recent designation, recognized by the International Astronomical Union in 2006. The definition is as follows:
+        \na dwarf planet is a body that has enough mass for its gravity to keep it in a roughly spherical shape, is in orbit around the Sun, hasn\'t "cleared" its orbit of any object of similar size and mass, isn\'t a satellite of another body.
+        \nThere are 5 objects that achieve all requirements to be named a dwarf planet, Pluto, Eris, Ceres, Haumea and Makemake.
+        \nAdditionally there are 4 other objects that are possible to be dwarf planets but haven\'t been yet accepted or definitively rejected. Those are Sedna, Gonggong, Quaoar and Orcus</string>
+    <string name="dwarfs_details">Details of dwarf planets</string>
+    <string name="dwarf_details_text">\n\n<b>Pluto</b>
+    \n\n<b>Diameter:</b> 2370 kilometers (1470 miles)
+    \n<b>Rotation period:</b> 6 days, 9 hours
+    \n<b>Orbital radius:</b> 39.4 AU
+    \n<b>Orbital period:</b> 247 years
+    \n\n<b>Eris</b>
+    \n\n<b>Diameter:</b> 2320 kilometers (1440 miles)
+    \n<b>Rotation period:</b> 14 days, 13 hours
+    \n<b>Orbital radius:</b> 67.7 AU
+    \n<b>Orbital period:</b> 558 years
+    \n\n<b>Haumea</b>
+    \n\n<b>Diameter:</b> 1560 kilometers (970 miles)
+    \n<b>Rotation period:</b> 3.9 hours
+    \n<b>Orbital radius:</b> 43.2 AU
+    \n<b>Orbital period:</b> 284 years
+    \n\n<b>Makemake</b>
+    \n\n<b>Diameter:</b> 1430 kilometers (888 miles)
+    \n<b>Rotation period:</b> 22 hours
+    \n<b>Orbital radius:</b> 45.5 AU
+    \n<b>Orbital period:</b> 307 years
+    \n\n<b>Ceres</b>
+    \n\n<b>Diameter:</b> 940 kilometers (580 miles)
+    \n<b>Rotation period:</b> 9 hours
+    \n<b>Orbital radius:</b> 2.7 AU
+    \n<b>Orbital period:</b> 4.6 years</string>
+
+
     <string name="large_text">
         "Material is the metaphor.\n\n"
 
