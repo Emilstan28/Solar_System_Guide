@@ -863,30 +863,69 @@
         \nAdditionally there are 4 other objects that are possible to be dwarf planets but haven\'t been yet accepted or definitively rejected. Those are Sedna, Gonggong, Quaoar and Orcus</string>
     <string name="dwarfs_details">Details of dwarf planets</string>
     <string name="dwarf_details_text">\n\n<b>Pluto</b>
-    \n\n<b>Diameter:</b> 2370 kilometers (1470 miles)
-    \n<b>Rotation period:</b> 6 days, 9 hours
-    \n<b>Orbital radius:</b> 39.4 AU
-    \n<b>Orbital period:</b> 247 years
-    \n\n<b>Eris</b>
-    \n\n<b>Diameter:</b> 2320 kilometers (1440 miles)
-    \n<b>Rotation period:</b> 14 days, 13 hours
-    \n<b>Orbital radius:</b> 67.7 AU
-    \n<b>Orbital period:</b> 558 years
-    \n\n<b>Haumea</b>
-    \n\n<b>Diameter:</b> 1560 kilometers (970 miles)
-    \n<b>Rotation period:</b> 3.9 hours
-    \n<b>Orbital radius:</b> 43.2 AU
-    \n<b>Orbital period:</b> 284 years
-    \n\n<b>Makemake</b>
-    \n\n<b>Diameter:</b> 1430 kilometers (888 miles)
-    \n<b>Rotation period:</b> 22 hours
-    \n<b>Orbital radius:</b> 45.5 AU
-    \n<b>Orbital period:</b> 307 years
-    \n\n<b>Ceres</b>
-    \n\n<b>Diameter:</b> 940 kilometers (580 miles)
-    \n<b>Rotation period:</b> 9 hours
-    \n<b>Orbital radius:</b> 2.7 AU
-    \n<b>Orbital period:</b> 4.6 years</string>
+        \n\n<b>Diameter:</b> 2370 kilometers (1470 miles)
+        \n<b>Rotation period:</b> 6 days, 9 hours
+        \n<b>Orbital radius:</b> 39.4 AU
+        \n<b>Orbital period:</b> 247 years
+        \n<b>Moons:</b> 5
+        \n<b>Atmosphere:</b> Yes
+        \n\n<b>Eris</b>
+        \n\n<b>Diameter:</b> 2320 kilometers (1440 miles)
+        \n<b>Rotation period:</b> 14 days, 13 hours
+        \n<b>Orbital radius:</b> 67.7 AU
+        \n<b>Orbital period:</b> 558 years
+        \n<b>Moons:</b> 1
+        \n<b>Atmosphere:</b> Yes
+        \n\n<b>Haumea</b>
+        \n\n<b>Diameter:</b> 1560 kilometers (970 miles)
+        \n<b>Rotation period:</b> 3.9 hours
+        \n<b>Orbital radius:</b> 43.2 AU
+        \n<b>Orbital period:</b> 284 years
+        \n<b>Moons:</b> 2
+        \n<b>Atmosphere:</b> No
+        \n\n<b>Makemake</b>
+        \n\n<b>Diameter:</b> 1430 kilometers (888 miles)
+        \n<b>Rotation period:</b> 22 hours
+        \n<b>Orbital radius:</b> 45.5 AU
+        \n<b>Orbital period:</b> 307 years
+        \n<b>Moons:</b> 1
+        \n<b>Atmosphere:</b> Yes
+        \n\n<b>Ceres</b>
+        \n\n<b>Diameter:</b> 940 kilometers (580 miles)
+        \n<b>Rotation period:</b> 9 hours
+        \n<b>Orbital radius:</b> 2.7 AU
+        \n<b>Orbital period:</b> 4.6 years
+        \n<b>Moons:</b> 0
+        \n<b>Atmosphere:</b> Yes (exosphere)</string>
+
+    <!-- STRINGS FOR PAST DWARF MISSIONS-->
+
+    <string name="newHorizons">\nNew Horizons</string>
+    <string name="newHorizons_text">\nLaunched on 19th of January 2006 by NASA, being placed directly on an escape orbit. The mission was designed to study Pluto and its moon Charon, then other moons were added on when they were discovered,
+        as well as to flyby Jupiter to shorten the trip significantly. Without the flyby of the biggest planet in our solar system the trip to Pluto would be longer by around 3 years.
+        \n\nGetting to Jupiter in 2007 the probe\'s instruments were in great position to be tested, the flyby trajectory placed it a long distance away from Galilean moons, but the cameras were designed to track small, distant, dim objects so
+        large, bright moons were an ideal candidate. With a couple successful tests and a wealth of new data acquired along the way on the giant\'s atmosphere, moon orbit refinement, as well as taking pictures of, among other things, Io\'s volcanic
+        activity, 3 eruptions not seen beforehand.
+        \n\nAfter the flyby of the giant New Horizons was put into safe mode, all but a few essential modules turned off to preserve power and their lifespan with yearly checkups to make sure everything is going according to plan. That lasted
+        until December of 2014 when the probe was brought back to full operation in line with the preparations for the flyby of Pluto.
+        \n\n14th of July 2015 was the day of the flyby, just for one day New Horizons gathered as much data as it possibly could, pictures, temperature measurements, topographical data, study the atmosphere and the rate at which it\'s escaping
+        due to the solar wind. With the targets divided into 3 groups, targets that must be achieved, those that could be achieved with high degree of confidence and nice-to-haves. All of them were met with resounding success.
+        the data from the flyby would be transmitted to Earth for the next 16 months.
+        \n\nAfter the encounter with Pluto and its moons the probe was steered towards encountering an object beyond even Pluto\'s orbit, 4 targets were designated as possible candidates with the first one coming away as the chosen one.
+        The object came to be known as 486958 Arrokoth, with the closest approach achieved on 1st of January 2019 the data acquired by the probe was projected to take another 20 months to reach Earth fully, with it being done in late 2020,
+        alas as of March 2021 no announcement was made that all data was received by NASA.
+        \n\nThe probe has enough energy to last it into the 2030s by some estimates, and since the last flyby scientist responsible for the mission were searching for a possible target for another object flyby, as of yet nothing has been discovered.
+        New Horizons is on a trajectory that will lead it out of our solar system, if the probe remains active for some time more it\'s going to be researching the outer solar system together with Voyager 2.</string>
+    <string name="dawn">\nDawn - visited Vesta and Ceres</string>
+    <string name="dawn_text">\n\nLaunched on 27th of September 2007 by NASA the mission profile was to research two of remaining proto-planets that are remaining intact in our solar system since its formation.
+        It took until July of 2011 to reach its first target, Vesta, with a gravity assist from Mars in 2009. Staying in orbit around it for a year, until September of 2012, Dawn delivered valuable data on the asteroid\'s
+        composition, including possible measuring of how large the core of it is, mapping out the surface, geographic features, the object\'s mass and gravity.
+        \n\nLaunching towards Ceres on 5th of September 2012, after a problem with a reaction wheel that forced a delay as the original plan was for the takeoff to take place on 26th of August. Entering orbit on 6th of March 2015,
+        Dawn beat New Horizons by a few months that was en route to reach Pluto, becoming the first man made object to orbit and study a dwarf planet. For the next 2 years Dawn would switch between mapping the body, getting data
+        on its composition just like around Vesta and other sensor measurements to help understand the dwarf planet better.
+        \n\nWith the mission mainly ended by 2016, there were suggestions to use Dawn to study a third asteroid, which would be a flyby rather than an orbit due to the shortage of propellant and difference in orbits, but all were
+        rejected by the Senior Board. Dawn remained around Ceres, with fuel running out in October of 2018, after being placed on a relatively stable orbit around it. The probe will remain there for the next 2 decades or so, until
+        the planet\'s gravity pulls it to the surface.</string>
 
 
     <string name="large_text">

@@ -3,4 +3,47 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".EndedResearchDwarfsMissions"/>
+    tools:context=".EndedResearchDwarfsMissions">
+
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/newHorizonsTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/newHorizons"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/newHorizonsText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/newHorizons_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/dawnTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/dawn"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/dawnText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/dawn_text"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>
